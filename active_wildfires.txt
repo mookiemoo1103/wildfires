@@ -48,7 +48,6 @@ Icon: 43.34822,-89.92819,0,1,1,"Fire Name: Natural Bridge\nStarted: 10/8/2026\nC
 Icon: 43.74087,-89.66228,0,1,1,"Fire Name: Fur Ct\nStarted: 10/10/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 43.73987,-89.64272,0,1,1,"Fire Name: Fur Dr\nStarted: 10/10/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 45.19367,-91.15950,0,1,1,"Fire Name: Twin Maples\nStarted: 10/10/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 46.30241,-109.08733,0,1,1,"Fire Name: RAIN STOMP FIRE MM138 US 12\nStarted: 7/8/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 42.64411,-123.02452,0,1,1,"Fire Name: W Fork Evans Creek\nStarted: 10/15/2026\nCurrent Reported Acreage: 283 Acres\nContainment: 75% Contained"
 Icon: 45.59930,-90.72077,0,1,1,"Fire Name: Power\nStarted: 10/16/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 32.83184,-116.63953,0,1,1,"Fire Name: CAMPBELL\nStarted: 10/17/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
@@ -83,7 +82,7 @@ Icon: 46.61340,-88.61540,0,1,1,"Fire Name: Gorge Cut Off\nStarted: 10/24/2026\nC
 Icon: 33.26267,-79.31400,0,1,1,"Fire Name: Hewitt Lane Fire\nStarted: 10/22/2026\nCurrent Reported Acreage: 109 Acres\nContainment: 90% Contained"
 Icon: 42.43220,-71.10785,0,1,1,"Fire Name: Bellevue Pond Fire\nStarted: 10/28/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 44.26400,-89.85550,0,1,1,"Fire Name: No Page\nStarted: 10/28/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 36.44253,-84.75660,0,1,1,"Fire Name: BSP - Cactus\nStarted: 10/29/2026\nCurrent Reported Acreage: 220 Acres\nContainment: 85% Contained"
+Icon: 36.44253,-84.75660,0,1,1,"Fire Name: BSP - Cactus\nStarted: 10/29/2026\nCurrent Reported Acreage: 220 Acres\nContainment: 98% Contained"
 Icon: 44.13061,-90.11504,0,1,1,"Fire Name: Camper\nStarted: 10/30/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 45.74930,-91.26660,0,1,1,"Fire Name: Wiergor\nStarted: 10/30/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 33.32391,-86.09900,0,1,1,"Fire Name: Weewoka Creek\nStarted: 11/1/2026\nCurrent Reported Acreage: 13 Acres\nContainment: Not reported"
@@ -151,4 +150,5 @@ Icon: 39.48467,-123.07496,0,1,1,"Fire Name: ERICSON\nStarted: 11/4/2026\nCurrent
 Icon: 33.99575,-117.93120,0,1,1,"Fire Name: LAC-399041\nStarted: 11/4/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 34.75986,-118.50189,0,1,1,"Fire Name: LAND\nStarted: 11/4/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 42.27741,-71.40749,0,1,1,"Fire Name: FD140042\nStarted: 11/4/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+Icon: 43.38460,-85.60179,0,1,1,"Fire Name: Newaygo-14 Cottonwood Smoke Check\nStarted: 11/4/2026\nCurrent Reported Acreage: 6 Acres\nContainment: Not reported"
 ; Active reported wildfire incidents plotted: 146
