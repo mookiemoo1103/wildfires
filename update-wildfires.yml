@@ -1,0 +1,37 @@
+name: Update Multi-Source Active Wildfires
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/5 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: multi-source-wildfires
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Generate current wildfire placefile
+        env:
+          FIRMS_MAP_KEY: ${{ secrets.FIRMS_MAP_KEY }}
+        run: python generate_wildfire_placefile.py
+      - name: Commit generated placefile
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add active_wildfires.txt
+          if git diff --cached --quiet; then
+            echo "No placefile changes."
+          else
+            git commit -m "Update multi-source wildfire placefile"
+            git push
+          fi
