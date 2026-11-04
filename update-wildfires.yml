@@ -1,0 +1,35 @@
+name: Update Confirmed Active Wildfires
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/5 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: confirmed-active-wildfires
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Generate confirmed active wildfire placefile
+        run: python generate_wildfire_placefile.py
+      - name: Commit generated placefile
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add active_wildfires.txt
+          if git diff --cached --quiet; then
+            echo "No placefile changes."
+          else
+            git commit -m "Update confirmed active wildfire placefile"
+            git push
+          fi
