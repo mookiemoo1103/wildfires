@@ -105,7 +105,7 @@ def hover(f):
     # Literal escaped newlines keep each attribute on its own line in placefile hover.
     parts = [
         f"Fire Name: {f['name']}",
-        f"Start/Detection Date: {f['started']}",
+        f"Started: {f['started']}",
         f"Current Reported Acreage: {f['acres']}",
         f"Containment: {f['containment']}",
     ]
