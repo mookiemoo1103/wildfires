@@ -6766,7 +6766,7 @@ End:
 Object: 41.92310,-71.36118
   Icon: 0,0,000,1,1,"FD03071 | Bristol, US-MA | Started: Nov 03, 2026 | Acres: 0 | Containment: Not reported"
 End:
-Object: 39.47599,-123.07191
+Object: 39.48467,-123.07496
   Icon: 0,0,000,1,1,"ERICSON | Mendocino, US-CA | Started: Nov 04, 2026 | Acres: 0 | Containment: Not reported"
 End:
 ; Active wildfire incidents plotted: 147
