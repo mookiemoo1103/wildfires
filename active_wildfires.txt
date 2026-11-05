@@ -141,6 +141,7 @@ Icon: 48.45084,-112.98724,0,1,1,"Fire Name: STOCK YARD\nStarted: 11/4/2026\nCurr
 Icon: 40.97139,-74.53135,0,1,1,"Fire Name: Gorge Road\nStarted: 11/4/2026\nCurrent Reported Acreage: 61 Acres\nContainment: Not reported"
 Icon: 44.31872,-106.93256,0,1,1,"Fire Name: FOOT CREEK\nStarted: 11/5/2026\nCurrent Reported Acreage: 100 Acres\nContainment: Not reported"
 Icon: 40.59378,-122.26844,0,1,1,"Fire Name: BOYLE\nStarted: 11/5/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 39.64200,-123.47291,0,1,1,"Fire Name: TWIN\nStarted: 11/5/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 35.90406,-117.90126,0,1,1,"Fire Name: BROWN\nStarted: 11/5/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-; Active reported wildfire incidents plotted: 138
+Icon: 45.73379,-117.36618,0,1,1,"Fire Name: McAlister\nStarted: 11/5/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+Icon: 42.47901,-123.45615,0,1,1,"Fire Name: Ewe Creek\nStarted: 11/5/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
+; Active reported wildfire incidents plotted: 139
