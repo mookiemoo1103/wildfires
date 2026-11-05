@@ -46,7 +46,6 @@ Icon: 47.47081,-121.25588,0,1,1,"Fire Name: KING\nStarted: 8/19/2026\nCurrent Re
 Icon: 44.82791,-118.28079,0,1,1,"Fire Name: McCully\nStarted: 8/22/2026\nCurrent Reported Acreage: 13,604 Acres\nContainment: 91% Contained"
 Icon: 43.08804,-123.53415,0,1,1,"Fire Name: Olalla Rd\nStarted: 8/22/2026\nCurrent Reported Acreage: 23 Acres\nContainment: Not reported"
 Icon: 42.94304,-123.26793,0,1,1,"Fire Name: North Gazley\nStarted: 8/22/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 44.87433,-118.18278,0,1,1,"Fire Name: May Flower\nStarted: 8/23/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 45.66505,-122.52227,0,1,1,"Fire Name: WAREHOUSE\nStarted: 8/26/2026\nCurrent Reported Acreage: 2 Acres\nContainment: Not reported"
 Icon: 45.68205,-122.55249,0,1,1,"Fire Name: PADDEN\nStarted: 8/26/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 42.86234,-122.87068,0,1,1,"Fire Name: Elk Creek\nStarted: 9/2/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
@@ -59,7 +58,6 @@ Icon: 45.65167,-107.67834,0,1,1,"Fire Name: Randall\nStarted: 9/24/2026\nCurrent
 Icon: 47.29319,-119.13181,0,1,1,"Fire Name: BLACK ROCK 2\nStarted: 9/27/2026\nCurrent Reported Acreage: 160 Acres\nContainment: Not reported"
 Icon: 46.13562,-119.09455,0,1,1,"Fire Name: 1924\nStarted: 9/29/2026\nCurrent Reported Acreage: 187 Acres\nContainment: Not reported"
 Icon: 45.98309,-118.82372,0,1,1,"Fire Name: Dorran Road\nStarted: 9/29/2026\nCurrent Reported Acreage: 200 Acres\nContainment: Not reported"
-Icon: 46.82953,-119.51836,0,1,1,"Fire Name: CRAB\nStarted: 10/2/2026\nCurrent Reported Acreage: 6 Acres\nContainment: Not reported"
 Icon: 46.12461,-89.38175,0,1,1,"Fire Name: Lune Island\nStarted: 9/28/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 46.28163,-89.90284,0,1,1,"Fire Name: No Mans\nStarted: 10/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 29.71107,-93.91234,0,1,1,"Fire Name: TP Oak\nStarted: 10/9/2026\nCurrent Reported Acreage: 33 Acres\nContainment: Not reported"
@@ -70,9 +68,7 @@ Icon: 43.34822,-89.92819,0,1,1,"Fire Name: Natural Bridge\nStarted: 10/8/2026\nC
 Icon: 43.74087,-89.66228,0,1,1,"Fire Name: Fur Ct\nStarted: 10/10/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 43.73987,-89.64272,0,1,1,"Fire Name: Fur Dr\nStarted: 10/10/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 45.19367,-91.15950,0,1,1,"Fire Name: Twin Maples\nStarted: 10/10/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 42.64411,-123.02452,0,1,1,"Fire Name: W Fork Evans Creek\nStarted: 10/15/2026\nCurrent Reported Acreage: 283 Acres\nContainment: 75% Contained"
 Icon: 45.59930,-90.72077,0,1,1,"Fire Name: Power\nStarted: 10/16/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 32.83184,-116.63953,0,1,1,"Fire Name: CAMPBELL\nStarted: 10/17/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 32.81723,-88.92760,0,1,1,"Fire Name: Grey\nStarted: 10/18/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 45.95906,-89.86872,0,1,1,"Fire Name: Wildcat\nStarted: 10/15/2026\nCurrent Reported Acreage: 3 Acres\nContainment: Not reported"
 Icon: 46.10640,-91.20707,0,1,1,"Fire Name: Spider\nStarted: 10/19/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
@@ -146,5 +142,5 @@ Icon: 40.97139,-74.53135,0,1,1,"Fire Name: Gorge Road\nStarted: 11/4/2026\nCurre
 Icon: 44.31872,-106.93256,0,1,1,"Fire Name: FOOT CREEK\nStarted: 11/5/2026\nCurrent Reported Acreage: 100 Acres\nContainment: Not reported"
 Icon: 40.59378,-122.26844,0,1,1,"Fire Name: BOYLE\nStarted: 11/5/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 39.64200,-123.47291,0,1,1,"Fire Name: TWIN\nStarted: 11/5/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 38.25819,-120.63003,0,1,1,"Fire Name: SUGAR\nStarted: 11/5/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
-; Active reported wildfire incidents plotted: 142
+Icon: 35.90406,-117.90126,0,1,1,"Fire Name: BROWN\nStarted: 11/5/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+; Active reported wildfire incidents plotted: 138
