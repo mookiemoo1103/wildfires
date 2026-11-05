@@ -156,4 +156,5 @@ Icon: 43.38460,-85.60179,0,1,1,"Fire Name: Newaygo-14 Cottonwood Smoke Check\nSt
 Icon: 41.96306,-78.92754,0,1,1,"Fire Name: Tracy Run\nStarted: 11/4/2026\nCurrent Reported Acreage: 35 Acres\nContainment: Not reported"
 Icon: 41.74114,-69.96938,0,1,1,"Fire Name: Horseshoe Lane\nStarted: 11/4/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 34.55826,-117.59608,0,1,1,"Fire Name: MTZ/BDC/RANCHO\nStarted: 11/4/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-; Active reported wildfire incidents plotted: 151
+Icon: 37.11624,-122.11466,0,1,1,"Fire Name: IRWIN\nStarted: 11/4/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+; Active reported wildfire incidents plotted: 152
