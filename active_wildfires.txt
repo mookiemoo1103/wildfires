@@ -29,6 +29,8 @@ Icon: 43.23922,-123.34710,0,1,1,"Fire Name: Vine St\nStarted: 8/15/2026\nCurrent
 Icon: 30.05646,-85.03430,0,1,1,"Fire Name: Wire Grass 2\nStarted: 8/19/2026\nCurrent Reported Acreage: 2 Acres\nContainment: Not reported"
 Icon: 47.47081,-121.25588,0,1,1,"Fire Name: KING\nStarted: 8/19/2026\nCurrent Reported Acreage: 3,427 Acres\nContainment: 72% Contained"
 Icon: 44.82791,-118.28079,0,1,1,"Fire Name: McCully\nStarted: 8/22/2026\nCurrent Reported Acreage: 13,604 Acres\nContainment: 91% Contained"
+Icon: 43.08804,-123.53415,0,1,1,"Fire Name: Olalla Rd\nStarted: 8/22/2026\nCurrent Reported Acreage: 23 Acres\nContainment: Not reported"
+Icon: 42.94304,-123.26793,0,1,1,"Fire Name: North Gazley\nStarted: 8/22/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 45.77151,-93.12870,0,1,1,"Fire Name: Red Oak\nStarted: 8/25/2026\nCurrent Reported Acreage: 2 Acres\nContainment: Not reported"
 Icon: 44.87433,-118.18278,0,1,1,"Fire Name: May Flower\nStarted: 8/23/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 45.66505,-122.52227,0,1,1,"Fire Name: WAREHOUSE\nStarted: 8/26/2026\nCurrent Reported Acreage: 2 Acres\nContainment: Not reported"
@@ -151,4 +153,4 @@ Icon: 42.27741,-71.40749,0,1,1,"Fire Name: FD140042\nStarted: 11/4/2026\nCurrent
 Icon: 43.38460,-85.60179,0,1,1,"Fire Name: Newaygo-14 Cottonwood Smoke Check\nStarted: 11/4/2026\nCurrent Reported Acreage: 6 Acres\nContainment: Not reported"
 Icon: 34.10390,-117.17748,0,1,1,"Fire Name: ORANGE STREET\nStarted: 11/4/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 41.96306,-78.92754,0,1,1,"Fire Name: Tracy Run\nStarted: 11/4/2026\nCurrent Reported Acreage: 35 Acres\nContainment: Not reported"
-; Active reported wildfire incidents plotted: 146
+; Active reported wildfire incidents plotted: 148
