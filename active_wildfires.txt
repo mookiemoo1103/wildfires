@@ -94,8 +94,6 @@ Icon: 45.74930,-91.26660,0,1,1,"Fire Name: Wiergor\nStarted: 10/30/2026\nCurrent
 Icon: 33.32391,-86.09900,0,1,1,"Fire Name: Weewoka Creek\nStarted: 11/1/2026\nCurrent Reported Acreage: 13 Acres\nContainment: Not reported"
 Icon: 36.71336,-83.30596,0,1,1,"Fire Name: White Cliffs\nStarted: 11/1/2026\nCurrent Reported Acreage: 30 Acres\nContainment: 90% Contained"
 Icon: 35.36603,-82.86418,0,1,1,"Fire Name: SHINING ROCK\nStarted: 11/1/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 34.69907,-118.13050,0,1,1,"Fire Name: LAC-395954\nStarted: 11/2/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-Icon: 34.68933,-118.16895,0,1,1,"Fire Name: LAC-395977\nStarted: 11/2/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 44.33059,-71.03128,0,1,1,"Fire Name: Wild River\nStarted: 11/1/2026\nCurrent Reported Acreage: 982 Acres\nContainment: 11% Contained"
 Icon: 44.64674,-69.61165,0,1,1,"Fire Name: Shredded tire fire\nStarted: 11/2/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 45.03871,-90.91709,0,1,1,"Fire Name: Par\nStarted: 11/1/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
@@ -156,4 +154,4 @@ Icon: 41.96306,-78.92754,0,1,1,"Fire Name: Tracy Run\nStarted: 11/4/2026\nCurren
 Icon: 41.74114,-69.96938,0,1,1,"Fire Name: Horseshoe Lane\nStarted: 11/4/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 34.55826,-117.59608,0,1,1,"Fire Name: MTZ/BDC/RANCHO\nStarted: 11/4/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 33.92400,-118.30909,0,1,1,"Fire Name: LAC-399836\nStarted: 11/5/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-; Active reported wildfire incidents plotted: 151
+; Active reported wildfire incidents plotted: 149
