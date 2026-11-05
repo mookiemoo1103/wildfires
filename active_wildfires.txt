@@ -35,6 +35,10 @@ Icon: 45.77151,-93.12870,0,1,1,"Fire Name: Red Oak\nStarted: 8/25/2026\nCurrent 
 Icon: 44.87433,-118.18278,0,1,1,"Fire Name: May Flower\nStarted: 8/23/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 45.66505,-122.52227,0,1,1,"Fire Name: WAREHOUSE\nStarted: 8/26/2026\nCurrent Reported Acreage: 2 Acres\nContainment: Not reported"
 Icon: 45.68205,-122.55249,0,1,1,"Fire Name: PADDEN\nStarted: 8/26/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+Icon: 42.86234,-122.87068,0,1,1,"Fire Name: Elk Creek\nStarted: 9/2/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+Icon: 42.92497,-123.41068,0,1,1,"Fire Name: Gravel Pit Lane\nStarted: 9/6/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
+Icon: 42.89804,-123.25893,0,1,1,"Fire Name: Canyon Creek\nStarted: 9/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
+Icon: 43.29528,-123.31912,0,1,1,"Fire Name: Singing Waters Rd\nStarted: 9/8/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 34.58143,-117.30457,0,1,1,"Fire Name: MTZ/BDC/82A\nStarted: 9/9/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 45.06167,-113.27900,0,1,1,"Fire Name: LG18 6449\nStarted: 9/12/2026\nCurrent Reported Acreage: 3 Acres\nContainment: Not reported"
 Icon: 47.29319,-119.13181,0,1,1,"Fire Name: BLACK ROCK 2\nStarted: 9/27/2026\nCurrent Reported Acreage: 160 Acres\nContainment: Not reported"
@@ -153,4 +157,5 @@ Icon: 42.27741,-71.40749,0,1,1,"Fire Name: FD140042\nStarted: 11/4/2026\nCurrent
 Icon: 43.38460,-85.60179,0,1,1,"Fire Name: Newaygo-14 Cottonwood Smoke Check\nStarted: 11/4/2026\nCurrent Reported Acreage: 6 Acres\nContainment: Not reported"
 Icon: 34.10390,-117.17748,0,1,1,"Fire Name: ORANGE STREET\nStarted: 11/4/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 41.96306,-78.92754,0,1,1,"Fire Name: Tracy Run\nStarted: 11/4/2026\nCurrent Reported Acreage: 35 Acres\nContainment: Not reported"
-; Active reported wildfire incidents plotted: 148
+Icon: 41.74114,-69.96938,0,1,1,"Fire Name: Horseshoe Lane\nStarted: 11/4/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+; Active reported wildfire incidents plotted: 153
