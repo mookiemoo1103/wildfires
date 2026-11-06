@@ -10,6 +10,7 @@ Icon: 37.96882,-80.30651,0,1,1,"Fire Name: Snedegar\nStarted: 3/7/2026\nCurrent 
 Icon: 43.70364,-123.22668,0,1,1,"Fire Name: Buck Creek\nStarted: 4/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 42.52166,-121.36230,0,1,1,"Fire Name: NFCA #69\nStarted: 4/18/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 35.58723,-118.48779,0,1,1,"Fire Name: Columbus\nStarted: 5/3/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
+Icon: 47.49058,-91.00124,0,1,1,"Fire Name: Sugarloaf\nStarted: 5/3/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 44.07608,-122.74291,0,1,1,"Fire Name: Taylor Landing STAT\nStarted: 5/6/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 45.26631,-123.68719,0,1,1,"Fire Name: NESTUCCA FIRE\nStarted: 5/11/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 42.57501,-121.87913,0,1,1,"Fire Name: NFCA #71\nStarted: 5/12/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
@@ -139,5 +140,6 @@ Icon: 34.67487,-118.16070,0,1,1,"Fire Name: LAC-401094\nStarted: 11/5/2026\nCurr
 Icon: 46.08675,-100.68240,0,1,1,"Fire Name: Hwy24SBC\nStarted: 11/5/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 34.73365,-118.07697,0,1,1,"Fire Name: LAC-401562\nStarted: 11/6/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 33.91084,-118.16891,0,1,1,"Fire Name: LAC-401583\nStarted: 11/6/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-Icon: 34.44187,-91.48959,0,1,1,"Fire Name: Arkansas 355\nStarted: 11/6/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
-; Active reported wildfire incidents plotted: 135
+Icon: 34.01431,-93.47661,0,1,1,"Fire Name: Pike 200175\nStarted: 11/6/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
+Icon: 39.55408,-121.30079,0,1,1,"Fire Name: PONDEROSA\nStarted: 11/6/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+; Active reported wildfire incidents plotted: 137
