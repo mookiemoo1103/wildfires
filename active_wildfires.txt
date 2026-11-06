@@ -146,4 +146,5 @@ Icon: 35.24936,-105.39289,0,1,1,"Fire Name: Sena\nStarted: 5/20/2026\nCurrent Re
 Icon: 34.13509,-117.98629,0,1,1,"Fire Name: LAC-400809\nStarted: 11/5/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 34.26001,-94.25791,0,1,1,"Fire Name: Polk 174\nStarted: 11/5/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
 Icon: 34.67487,-118.16070,0,1,1,"Fire Name: LAC-401094\nStarted: 11/5/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-; Active reported wildfire incidents plotted: 141
+Icon: 37.63185,-121.53795,0,1,1,"Fire Name: W CORRAL HOLLOW RD  ALTAMONT\nStarted: 11/6/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+; Active reported wildfire incidents plotted: 142
