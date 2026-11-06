@@ -142,4 +142,6 @@ Icon: 34.73365,-118.07697,0,1,1,"Fire Name: LAC-401562\nStarted: 11/6/2026\nCurr
 Icon: 33.91084,-118.16891,0,1,1,"Fire Name: LAC-401583\nStarted: 11/6/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 34.01431,-93.47661,0,1,1,"Fire Name: Pike 200175\nStarted: 11/6/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
 Icon: 39.55408,-121.30079,0,1,1,"Fire Name: PONDEROSA\nStarted: 11/6/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-; Active reported wildfire incidents plotted: 137
+Icon: 33.97537,-117.50590,0,1,1,"Fire Name: LIME\nStarted: 11/6/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+Icon: 41.31764,-123.52665,0,1,1,"Fire Name: Pear\nStarted: 11/6/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+; Active reported wildfire incidents plotted: 139
