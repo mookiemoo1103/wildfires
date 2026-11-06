@@ -110,9 +110,7 @@ Icon: 45.03871,-90.91709,0,1,1,"Fire Name: Par\nStarted: 11/1/2026\nCurrent Repo
 Icon: 31.05454,-93.02093,0,1,1,"Fire Name: IUA Forty Eight Range 2 ZH 1\nStarted: 10/8/2026\nCurrent Reported Acreage: 15 Acres\nContainment: Not reported"
 Icon: 43.24126,-91.05863,0,1,1,"Fire Name: Lynx\nStarted: 11/1/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
 Icon: 34.31040,-118.75364,0,1,1,"Fire Name: SKY\nStarted: 11/2/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-Icon: 48.56489,-120.26371,0,1,1,"Fire Name: BEAR FIGHT\nStarted: 11/2/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 42.03708,-72.27966,0,1,1,"Fire Name: Alden Brook\nStarted: 11/2/2026\nCurrent Reported Acreage: 4 Acres\nContainment: Not reported"
-Icon: 44.82288,-88.56310,0,1,1,"Fire Name: Lake Drive\nStarted: 10/31/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 42.30281,-71.63663,0,1,1,"Fire Name: FD070082\nStarted: 11/3/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 34.03115,-118.19241,0,1,1,"Fire Name: LAC-397823\nStarted: 11/3/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 34.71497,-118.11247,0,1,1,"Fire Name: LAC-398360\nStarted: 11/3/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
@@ -131,7 +129,6 @@ Icon: 33.82601,-118.21904,0,1,1,"Fire Name: LAC-400054\nStarted: 11/5/2026\nCurr
 Icon: 48.45084,-112.98724,0,1,1,"Fire Name: STOCK YARD\nStarted: 11/4/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 40.97139,-74.53135,0,1,1,"Fire Name: Gorge Road\nStarted: 11/4/2026\nCurrent Reported Acreage: 61 Acres\nContainment: Not reported"
 Icon: 44.31872,-106.93256,0,1,1,"Fire Name: FOOT CREEK\nStarted: 11/5/2026\nCurrent Reported Acreage: 413 Acres\nContainment: Not reported"
-Icon: 40.59378,-122.26844,0,1,1,"Fire Name: BOYLE\nStarted: 11/5/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 35.90406,-117.90126,0,1,1,"Fire Name: BROWN\nStarted: 11/5/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 42.47901,-123.45615,0,1,1,"Fire Name: Ewe Creek\nStarted: 11/5/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 34.94992,-103.33650,0,1,1,"Fire Name: Cold Wind\nStarted: 3/27/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
@@ -143,4 +140,5 @@ Icon: 34.13509,-117.98629,0,1,1,"Fire Name: LAC-400809\nStarted: 11/5/2026\nCurr
 Icon: 34.26001,-94.25791,0,1,1,"Fire Name: Polk 174\nStarted: 11/5/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
 Icon: 34.67487,-118.16070,0,1,1,"Fire Name: LAC-401094\nStarted: 11/5/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 46.08675,-100.68240,0,1,1,"Fire Name: Hwy24SBC\nStarted: 11/5/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-; Active reported wildfire incidents plotted: 138
+Icon: 33.52521,-92.96941,0,1,1,"Fire Name: Ouachita 400341\nStarted: 11/6/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
+; Active reported wildfire incidents plotted: 136
