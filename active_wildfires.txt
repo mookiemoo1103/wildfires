@@ -123,7 +123,7 @@ Icon: 33.92400,-118.30909,0,1,1,"Fire Name: LAC-399836\nStarted: 11/5/2026\nCurr
 Icon: 33.82601,-118.21904,0,1,1,"Fire Name: LAC-400054\nStarted: 11/5/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 48.45084,-112.98724,0,1,1,"Fire Name: STOCK YARD\nStarted: 11/4/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 40.97139,-74.53135,0,1,1,"Fire Name: Gorge Road\nStarted: 11/4/2026\nCurrent Reported Acreage: 61 Acres\nContainment: Not reported"
-Icon: 44.31872,-106.93256,0,1,1,"Fire Name: FOOT CREEK\nStarted: 11/5/2026\nCurrent Reported Acreage: 413 Acres\nContainment: Not reported"
+Icon: 44.31872,-106.93256,0,1,1,"Fire Name: FOOT CREEK\nStarted: 11/5/2026\nCurrent Reported Acreage: 413 Acres\nContainment: 41% Contained"
 Icon: 35.90406,-117.90126,0,1,1,"Fire Name: BROWN\nStarted: 11/5/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 42.47901,-123.45615,0,1,1,"Fire Name: Ewe Creek\nStarted: 11/5/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 34.94992,-103.33650,0,1,1,"Fire Name: Cold Wind\nStarted: 3/27/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
