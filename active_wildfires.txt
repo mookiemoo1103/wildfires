@@ -112,7 +112,6 @@ Icon: 43.24126,-91.05863,0,1,1,"Fire Name: Lynx\nStarted: 11/1/2026\nCurrent Rep
 Icon: 34.31040,-118.75364,0,1,1,"Fire Name: SKY\nStarted: 11/2/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 48.56489,-120.26371,0,1,1,"Fire Name: BEAR FIGHT\nStarted: 11/2/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 42.03708,-72.27966,0,1,1,"Fire Name: Alden Brook\nStarted: 11/2/2026\nCurrent Reported Acreage: 4 Acres\nContainment: Not reported"
-Icon: 34.71877,-118.11229,0,1,1,"Fire Name: LAC-397423\nStarted: 11/3/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 33.93092,-118.37015,0,1,1,"Fire Name: LAC-397451\nStarted: 11/3/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 41.68243,-71.00796,0,1,1,"Fire Name: FD03070\nStarted: 11/2/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 44.82288,-88.56310,0,1,1,"Fire Name: Lake Drive\nStarted: 10/31/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
@@ -145,4 +144,5 @@ Icon: 35.24936,-105.39289,0,1,1,"Fire Name: Sena\nStarted: 5/20/2026\nCurrent Re
 Icon: 34.13509,-117.98629,0,1,1,"Fire Name: LAC-400809\nStarted: 11/5/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 34.26001,-94.25791,0,1,1,"Fire Name: Polk 174\nStarted: 11/5/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
 Icon: 34.67487,-118.16070,0,1,1,"Fire Name: LAC-401094\nStarted: 11/5/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
+Icon: 39.10698,-121.06373,0,1,1,"Fire Name: PATRICIA\nStarted: 11/6/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 ; Active reported wildfire incidents plotted: 140
