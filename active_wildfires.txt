@@ -33,7 +33,6 @@ Icon: 42.42060,-121.52727,0,1,1,"Fire Name: NFCA #6\nStarted: 7/18/2026\nCurrent
 Icon: 40.55643,-123.20013,0,1,1,"Fire Name: HORSETAIL/SHU Assist\nStarted: 7/22/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 45.25297,-121.51015,0,1,1,"Fire Name: GRASSHOPPER\nStarted: 7/23/2026\nCurrent Reported Acreage: 93,972 Acres\nContainment: 98% Contained"
 Icon: 34.09945,-117.02334,0,1,1,"Fire Name: GREEN\nStarted: 7/27/2026\nCurrent Reported Acreage: 55 Acres\nContainment: Not reported"
-Icon: 44.56562,-100.83998,0,1,1,"Fire Name: Harv\nStarted: 7/28/2026\nCurrent Reported Acreage: 60 Acres\nContainment: Not reported"
 Icon: 46.77494,-115.21671,0,1,1,"Fire Name: Moose Mountain\nStarted: 7/29/2026\nCurrent Reported Acreage: 5,832 Acres\nContainment: 90% Contained"
 Icon: 42.86551,-122.88126,0,1,1,"Fire Name: Anderson Creek\nStarted: 8/3/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 43.28064,-123.47833,0,1,1,"Fire Name: Cleveland Hill Rd\nStarted: 8/8/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
@@ -71,7 +70,6 @@ Icon: 43.74087,-89.66228,0,1,1,"Fire Name: Fur Ct\nStarted: 10/10/2026\nCurrent 
 Icon: 43.73987,-89.64272,0,1,1,"Fire Name: Fur Dr\nStarted: 10/10/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 45.59930,-90.72077,0,1,1,"Fire Name: Power\nStarted: 10/16/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 32.81723,-88.92760,0,1,1,"Fire Name: Grey\nStarted: 10/18/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 45.95906,-89.86872,0,1,1,"Fire Name: Wildcat\nStarted: 10/15/2026\nCurrent Reported Acreage: 3 Acres\nContainment: Not reported"
 Icon: 46.10640,-91.20707,0,1,1,"Fire Name: Spider\nStarted: 10/19/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 44.99367,-89.41780,0,1,1,"Fire Name: County Z 1\nStarted: 10/19/2026\nCurrent Reported Acreage: 3 Acres\nContainment: Not reported"
 Icon: 44.99161,-89.41755,0,1,1,"Fire Name: County Z\nStarted: 10/19/2026\nCurrent Reported Acreage: 2 Acres\nContainment: Not reported"
@@ -141,4 +139,5 @@ Icon: 34.26001,-94.25791,0,1,1,"Fire Name: Polk 174\nStarted: 11/5/2026\nCurrent
 Icon: 34.67487,-118.16070,0,1,1,"Fire Name: LAC-401094\nStarted: 11/5/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 46.08675,-100.68240,0,1,1,"Fire Name: Hwy24SBC\nStarted: 11/5/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 33.52521,-92.96941,0,1,1,"Fire Name: Ouachita 400341\nStarted: 11/6/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
-; Active reported wildfire incidents plotted: 136
+Icon: 37.49214,-122.38633,0,1,1,"Fire Name: MATEO\nStarted: 11/6/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+; Active reported wildfire incidents plotted: 135
