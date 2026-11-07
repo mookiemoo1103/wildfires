@@ -139,5 +139,5 @@ Icon: 34.67524,-118.04106,0,1,1,"Fire Name: LAC-402238\nStarted: 11/6/2026\nCurr
 Icon: 34.35638,-92.38491,0,1,1,"Fire Name: Grant 285\nStarted: 11/6/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
 Icon: 34.58144,-118.10288,0,1,1,"Fire Name: LAC-402436\nStarted: 11/6/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 34.29449,-118.35872,0,1,1,"Fire Name: ARROW\nStarted: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-Icon: 34.29499,-118.35801,0,1,1,"Fire Name: LACO ARROW\nStarted: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+Icon: 34.29499,-118.35801,0,1,1,"Fire Name: ARROW\nStarted: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 ; Active reported wildfire incidents plotted: 135
