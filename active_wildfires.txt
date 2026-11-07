@@ -7,7 +7,6 @@ Font: 1, 12, 1, "Arial"
 IconFile: 1, 128, 128, 64, 64, "https://raw.githubusercontent.com/mookiemoo1103/wildfires/main/assets/fire_icon.png"
 Icon: 40.13259,-111.75319,0,1,1,"Fire Name: South Street\nStarted: 2/6/2026\nCurrent Reported Acreage: 12 Acres\nContainment: Not reported"
 Icon: 35.49264,-119.04205,0,1,1,"Fire Name: FIELD\nStarted: 4/11/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-Icon: 43.70364,-123.22668,0,1,1,"Fire Name: Buck Creek\nStarted: 4/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 42.52166,-121.36230,0,1,1,"Fire Name: NFCA #69\nStarted: 4/18/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 35.58723,-118.48779,0,1,1,"Fire Name: Columbus\nStarted: 5/3/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 47.49058,-91.00124,0,1,1,"Fire Name: Sugarloaf\nStarted: 5/3/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
@@ -40,7 +39,6 @@ Icon: 34.09945,-117.02334,0,1,1,"Fire Name: GREEN\nStarted: 7/27/2026\nCurrent R
 Icon: 46.77494,-115.21671,0,1,1,"Fire Name: Moose Mountain\nStarted: 7/29/2026\nCurrent Reported Acreage: 5,832 Acres\nContainment: 90% Contained"
 Icon: 35.37140,-117.79072,0,1,1,"Fire Name: FIDDLER\nStarted: 7/30/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 35.70548,-117.86861,0,1,1,"Fire Name: SHORT\nStarted: 8/1/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 42.86551,-122.88126,0,1,1,"Fire Name: Anderson Creek\nStarted: 8/3/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 43.28064,-123.47833,0,1,1,"Fire Name: Cleveland Hill Rd\nStarted: 8/8/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 45.02522,-121.94489,0,1,1,"Fire Name: AUSTIN\nStarted: 8/9/2026\nCurrent Reported Acreage: 12,888 Acres\nContainment: 98% Contained"
 Icon: 48.34667,-120.83068,0,1,1,"Fire Name: SISI\nStarted: 8/14/2026\nCurrent Reported Acreage: 4,816 Acres\nContainment: 50% Contained"
@@ -139,6 +137,4 @@ Icon: 39.55492,-121.31293,0,1,1,"Fire Name: PONDEROSA\nStarted: 11/6/2026\nCurre
 Icon: 41.31764,-123.52665,0,1,1,"Fire Name: Pear\nStarted: 11/6/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 39.03751,-121.17151,0,1,1,"Fire Name: ROSEMARY\nStarted: 11/6/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
 Icon: 41.61325,-122.59575,0,1,1,"Fire Name: GUYS\nStarted: 11/6/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
-Icon: 40.19681,-123.51730,0,1,1,"Fire Name: DOBBYN\nStarted: 11/6/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 33.75786,-117.11297,0,1,1,"Fire Name: JUNIPER FLATS RD / MAPES RD\nStarted: 11/6/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-; Active reported wildfire incidents plotted: 136
+; Active reported wildfire incidents plotted: 132
