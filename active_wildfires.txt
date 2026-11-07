@@ -57,7 +57,6 @@ Icon: 42.92497,-123.41068,0,1,1,"Fire Name: Gravel Pit Lane\nStarted: 9/6/2026\n
 Icon: 38.71012,-120.50746,0,1,1,"Fire Name: BONETTI\nStarted: 9/6/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 42.89804,-123.25893,0,1,1,"Fire Name: Canyon Creek\nStarted: 9/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 43.29528,-123.31912,0,1,1,"Fire Name: Singing Waters Rd\nStarted: 9/8/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 45.06167,-113.27900,0,1,1,"Fire Name: LG18 6449\nStarted: 9/12/2026\nCurrent Reported Acreage: 3 Acres\nContainment: Not reported"
 Icon: 35.47834,-119.02001,0,1,1,"Fire Name: GRAN\nStarted: 9/20/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 17.99131,-67.04582,0,1,1,"Fire Name: Horse\nStarted: 9/22/2026\nCurrent Reported Acreage: 97 Acres\nContainment: Not reported"
 Icon: 45.65167,-107.67834,0,1,1,"Fire Name: Randall\nStarted: 9/24/2026\nCurrent Reported Acreage: 100 Acres\nContainment: Not reported"
@@ -99,7 +98,6 @@ Icon: 44.33059,-71.03128,0,1,1,"Fire Name: Wild River\nStarted: 11/1/2026\nCurre
 Icon: 45.03871,-90.91709,0,1,1,"Fire Name: Par\nStarted: 11/1/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 31.05454,-93.02093,0,1,1,"Fire Name: IUA Forty Eight Range 2 ZH 1\nStarted: 10/8/2026\nCurrent Reported Acreage: 15 Acres\nContainment: Not reported"
 Icon: 42.30281,-71.63663,0,1,1,"Fire Name: FD070082\nStarted: 11/3/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 41.92310,-71.36118,0,1,1,"Fire Name: FD03071\nStarted: 11/3/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 39.48467,-123.07496,0,1,1,"Fire Name: ERICSON\nStarted: 11/4/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 33.99575,-117.93120,0,1,1,"Fire Name: LAC-399041\nStarted: 11/4/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 34.75986,-118.50189,0,1,1,"Fire Name: LAND\nStarted: 11/4/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
@@ -134,4 +132,6 @@ Icon: 33.93084,-118.17871,0,1,1,"Fire Name: LAC-402732\nStarted: 11/7/2026\nCurr
 Icon: 34.03665,-118.16101,0,1,1,"Fire Name: LAC-402851\nStarted: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 34.98113,-94.37076,0,1,1,"Fire Name: Sebastian 239\nStarted: 11/7/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
 Icon: 32.00451,-89.25987,0,1,1,"Fire Name: Tower\nStarted: 11/7/2026\nCurrent Reported Acreage: 2 Acres\nContainment: Not reported"
+Icon: 33.94427,-118.32552,0,1,1,"Fire Name: LAC-402958\nStarted: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
+Icon: 39.12128,-120.98186,0,1,1,"Fire Name: CLYDESDALE\nStarted: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 ; Active reported wildfire incidents plotted: 129
