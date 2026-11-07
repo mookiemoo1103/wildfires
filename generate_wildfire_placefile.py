@@ -68,11 +68,13 @@ def arcgis_query(layer_url, where, out_fields, *, simplify=False):
     return features
 
 
-def fetch_incidents(cutoff_ms):
-    """Fetch currently active wildfire incident points discovered in 30 days."""
+def fetch_incidents():
+    """Fetch currently active wildfire incidents; date filtering is local Python."""
+    # ArcGIS rejects the raw epoch-millisecond comparison for this date field.
+    # Retrieve the active records with the known-good status query, then apply
+    # the 30-day discovery cutoff locally after the response is decoded.
     where = (
         "IncidentTypeCategory = 'WF' "
-        f"AND FireDiscoveryDateTime >= {cutoff_ms} "
         "AND ContainmentDateTime IS NULL "
         "AND ControlDateTime IS NULL "
         "AND FireOutDateTime IS NULL "
@@ -83,6 +85,16 @@ def fetch_incidents(cutoff_ms):
         "ContainmentDateTime,ControlDateTime,FireOutDateTime,IncidentTypeCategory"
     )
     return arcgis_query(INCIDENT_LAYER, where, fields)
+
+
+def discovered_within_window(feature, cutoff_ms):
+    """Return True only when a reported discovery timestamp is within 30 days."""
+    attrs = feature.get("attributes") or {}
+    value = attrs.get("FireDiscoveryDateTime")
+    try:
+        return value is not None and int(value) >= cutoff_ms
+    except (TypeError, ValueError, OverflowError):
+        return False
 
 
 def fetch_perimeters():
@@ -180,7 +192,7 @@ def main():
 
     # Fetch both sources before writing anything. If either service fails, the
     # previously generated placefile remains intact.
-    incidents = fetch_incidents(cutoff_ms)
+    incidents = [f for f in fetch_incidents() if discovered_within_window(f, cutoff_ms)]
     perimeters = fetch_perimeters()
 
     lines = [
