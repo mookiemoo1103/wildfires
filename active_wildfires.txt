@@ -1,72 +1,327 @@
-; Confirmed/reported active wildfire incidents from NIFC WFIGS only
-; Point icons only. No satellite detections and no fire perimeter polygons.
-; Source: NIFC WFIGS Current Incident Locations
-Title: Confirmed Active Wildfires - NIFC
+; Active wildfires discovered within the last 30 days
+; Incident status excludes fires with containment, control, or out dates.
+; Perimeters are official NIFC WFIGS current perimeters when available.
+; Red perimeter fill is approximately 65% transparent.
+; Source: NIFC WFIGS Current Incident Locations and Current Perimeters
+Title: Active Wildfires - Last 30 Days (NIFC) with Perimeters
 RefreshSeconds: 300
 Font: 1, 12, 1, "Arial"
 IconFile: 1, 128, 128, 64, 64, "https://raw.githubusercontent.com/mookiemoo1103/wildfires/main/assets/fire_icon.png"
-Icon: 40.13259,-111.75319,0,1,1,"Fire Name: South Street\nStarted: 2/6/2026\nCurrent Reported Acreage: 12 Acres\nContainment: Not reported"
-Icon: 35.49264,-119.04205,0,1,1,"Fire Name: FIELD\nStarted: 4/11/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-Icon: 42.52166,-121.36230,0,1,1,"Fire Name: NFCA #69\nStarted: 4/18/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 35.58723,-118.48779,0,1,1,"Fire Name: Columbus\nStarted: 5/3/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-Icon: 47.49058,-91.00124,0,1,1,"Fire Name: Sugarloaf\nStarted: 5/3/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 44.07608,-122.74291,0,1,1,"Fire Name: Taylor Landing STAT\nStarted: 5/6/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 45.26631,-123.68719,0,1,1,"Fire Name: NESTUCCA FIRE\nStarted: 5/11/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 42.57501,-121.87913,0,1,1,"Fire Name: NFCA #71\nStarted: 5/12/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 42.30397,-121.35984,0,1,1,"Fire Name: NFCA #70\nStarted: 5/11/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 42.41406,-121.06376,0,1,1,"Fire Name: NFCA #72\nStarted: 5/14/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 42.12240,-121.95144,0,1,1,"Fire Name: NFCA #74\nStarted: 5/20/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 44.99114,-123.48221,0,1,1,"Fire Name: Rowell\nStarted: 5/23/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 42.52285,-121.51567,0,1,1,"Fire Name: NFCA #75\nStarted: 5/28/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 44.05289,-123.14555,0,1,1,"Fire Name: BAILEY HILL\nStarted: 6/14/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 38.05157,-107.68213,0,1,1,"Fire Name: Gold Mountain\nStarted: 6/27/2026\nCurrent Reported Acreage: 39,747 Acres\nContainment: 92% Contained"
-Icon: 35.11154,-119.40119,0,1,1,"Fire Name: PETROLEUM\nStarted: 6/28/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 39.23359,-106.44033,0,1,1,"Fire Name: Willow\nStarted: 6/28/2026\nCurrent Reported Acreage: 7,359 Acres\nContainment: 92% Contained"
-Icon: 38.01932,-105.07128,0,1,1,"Fire Name: Aspen Acres\nStarted: 6/29/2026\nCurrent Reported Acreage: 102,007 Acres\nContainment: 96% Contained"
-Icon: 45.68309,-118.48063,0,1,1,"Fire Name: North Cayuse\nStarted: 7/4/2026\nCurrent Reported Acreage: 4,887 Acres\nContainment: 97% Contained"
-Icon: 43.69014,-123.57081,0,1,1,"Fire Name: Little Paradise\nStarted: 7/8/2026\nCurrent Reported Acreage: 3 Acres\nContainment: Not reported"
-Icon: 35.15750,-119.49001,0,1,1,"Fire Name: NORTH\nStarted: 7/13/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-Icon: 44.30361,-122.85808,0,1,1,"Fire Name: Bickmore\nStarted: 7/13/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 35.57752,-119.04322,0,1,1,"Fire Name: CROWN\nStarted: 7/14/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-Icon: 42.36147,-120.96882,0,1,1,"Fire Name: NFCA #3\nStarted: 7/14/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 47.41401,-121.26135,0,1,1,"Fire Name: THREE QUEENS\nStarted: 7/15/2026\nCurrent Reported Acreage: 9,575 Acres\nContainment: 90% Contained"
-Icon: 45.99814,-117.97430,0,1,1,"Fire Name: Paradise\nStarted: 7/16/2026\nCurrent Reported Acreage: 9,656 Acres\nContainment: 86% Contained"
-Icon: 45.70701,-118.26901,0,1,1,"Fire Name: Hagen\nStarted: 7/16/2026\nCurrent Reported Acreage: 61,380 Acres\nContainment: 99% Contained"
-Icon: 42.42060,-121.52727,0,1,1,"Fire Name: NFCA #6\nStarted: 7/18/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 45.25297,-121.51015,0,1,1,"Fire Name: GRASSHOPPER\nStarted: 7/23/2026\nCurrent Reported Acreage: 93,972 Acres\nContainment: 98% Contained"
-Icon: 35.21667,-119.61501,0,1,1,"Fire Name: CROCKER\nStarted: 7/24/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-Icon: 34.09945,-117.02334,0,1,1,"Fire Name: GREEN\nStarted: 7/27/2026\nCurrent Reported Acreage: 55 Acres\nContainment: Not reported"
-Icon: 46.77494,-115.21671,0,1,1,"Fire Name: Moose Mountain\nStarted: 7/29/2026\nCurrent Reported Acreage: 5,832 Acres\nContainment: 90% Contained"
-Icon: 35.37140,-117.79072,0,1,1,"Fire Name: FIDDLER\nStarted: 7/30/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 35.70548,-117.86861,0,1,1,"Fire Name: SHORT\nStarted: 8/1/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 45.02522,-121.94489,0,1,1,"Fire Name: AUSTIN\nStarted: 8/9/2026\nCurrent Reported Acreage: 12,888 Acres\nContainment: 98% Contained"
-Icon: 48.34667,-120.83068,0,1,1,"Fire Name: SISI\nStarted: 8/14/2026\nCurrent Reported Acreage: 4,816 Acres\nContainment: 60% Contained"
-Icon: 43.23922,-123.34710,0,1,1,"Fire Name: Vine St\nStarted: 8/15/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 47.47081,-121.25588,0,1,1,"Fire Name: KING\nStarted: 8/19/2026\nCurrent Reported Acreage: 3,427 Acres\nContainment: 72% Contained"
-Icon: 35.74905,-117.39712,0,1,1,"Fire Name: MTZ/BDC/45A\nStarted: 8/22/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 44.82791,-118.28079,0,1,1,"Fire Name: McCully\nStarted: 8/22/2026\nCurrent Reported Acreage: 13,604 Acres\nContainment: 91% Contained"
-Icon: 43.08804,-123.53415,0,1,1,"Fire Name: Olalla Rd\nStarted: 8/22/2026\nCurrent Reported Acreage: 23 Acres\nContainment: Not reported"
-Icon: 42.94304,-123.26793,0,1,1,"Fire Name: North Gazley\nStarted: 8/22/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 18.01701,-67.00334,0,1,1,"Fire Name: Valle\nStarted: 8/26/2026\nCurrent Reported Acreage: 60 Acres\nContainment: Not reported"
-Icon: 45.66505,-122.52227,0,1,1,"Fire Name: WAREHOUSE\nStarted: 8/26/2026\nCurrent Reported Acreage: 2 Acres\nContainment: Not reported"
-Icon: 45.68205,-122.55249,0,1,1,"Fire Name: PADDEN\nStarted: 8/26/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 42.86234,-122.87068,0,1,1,"Fire Name: Elk Creek\nStarted: 9/2/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 43.66536,-123.40606,0,1,1,"Fire Name: Snell Rd\nStarted: 9/5/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-Icon: 42.92497,-123.41068,0,1,1,"Fire Name: Gravel Pit Lane\nStarted: 9/6/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-Icon: 38.71012,-120.50746,0,1,1,"Fire Name: BONETTI\nStarted: 9/6/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 42.89804,-123.25893,0,1,1,"Fire Name: Canyon Creek\nStarted: 9/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-Icon: 43.29528,-123.31912,0,1,1,"Fire Name: Singing Waters Rd\nStarted: 9/8/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 35.47834,-119.02001,0,1,1,"Fire Name: GRAN\nStarted: 9/20/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-Icon: 17.99131,-67.04582,0,1,1,"Fire Name: Horse\nStarted: 9/22/2026\nCurrent Reported Acreage: 97 Acres\nContainment: Not reported"
-Icon: 45.65167,-107.67834,0,1,1,"Fire Name: Randall\nStarted: 9/24/2026\nCurrent Reported Acreage: 100 Acres\nContainment: Not reported"
-Icon: 47.29319,-119.13181,0,1,1,"Fire Name: BLACK ROCK 2\nStarted: 9/27/2026\nCurrent Reported Acreage: 160 Acres\nContainment: Not reported"
-Icon: 46.13562,-119.09455,0,1,1,"Fire Name: 1924\nStarted: 9/29/2026\nCurrent Reported Acreage: 187 Acres\nContainment: Not reported"
-Icon: 45.98309,-118.82372,0,1,1,"Fire Name: Dorran Road\nStarted: 9/29/2026\nCurrent Reported Acreage: 200 Acres\nContainment: Not reported"
-Icon: 46.12461,-89.38175,0,1,1,"Fire Name: Lune Island\nStarted: 9/28/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 46.28163,-89.90284,0,1,1,"Fire Name: No Mans\nStarted: 10/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 35.63802,-118.23951,0,1,1,"Fire Name: KELSO\nStarted: 10/5/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+; Perimeter: Ridge | Fire Name: Ridge\nPerimeter Acreage: 496 Acres\nContainment: 85% Contained\nSource: NIFC WFIGS current fire perimeters
+Polygon:
+46.59930,-87.62861,255,0,0,89
+46.59936,-87.62717,255,0,0,89
+46.59894,-87.62608,255,0,0,89
+46.59922,-87.62581,255,0,0,89
+46.59988,-87.62663,255,0,0,89
+46.60087,-87.62716,255,0,0,89
+46.60233,-87.62628,255,0,0,89
+46.60184,-87.62493,255,0,0,89
+46.60193,-87.62409,255,0,0,89
+46.60349,-87.62616,255,0,0,89
+46.60391,-87.62573,255,0,0,89
+46.60387,-87.62476,255,0,0,89
+46.60309,-87.62114,255,0,0,89
+46.60242,-87.62052,255,0,0,89
+46.60242,-87.61940,255,0,0,89
+46.60215,-87.61931,255,0,0,89
+46.60135,-87.61656,255,0,0,89
+46.60090,-87.61594,255,0,0,89
+46.60081,-87.61450,255,0,0,89
+46.60037,-87.61340,255,0,0,89
+46.60020,-87.61368,255,0,0,89
+46.59981,-87.61331,255,0,0,89
+46.59965,-87.61256,255,0,0,89
+46.59937,-87.61312,255,0,0,89
+46.59898,-87.61322,255,0,0,89
+46.59903,-87.61398,255,0,0,89
+46.59864,-87.61389,255,0,0,89
+46.59871,-87.61481,255,0,0,89
+46.59777,-87.61614,255,0,0,89
+46.59719,-87.61911,255,0,0,89
+46.59700,-87.61899,255,0,0,89
+46.59719,-87.61749,255,0,0,89
+46.59694,-87.61730,255,0,0,89
+46.59776,-87.61359,255,0,0,89
+46.59734,-87.61184,255,0,0,89
+46.59794,-87.61044,255,0,0,89
+46.59661,-87.61017,255,0,0,89
+46.59433,-87.61321,255,0,0,89
+46.59324,-87.61556,255,0,0,89
+46.59265,-87.61447,255,0,0,89
+46.59180,-87.61667,255,0,0,89
+46.59118,-87.61683,255,0,0,89
+46.59080,-87.61731,255,0,0,89
+46.59061,-87.61717,255,0,0,89
+46.59052,-87.61802,255,0,0,89
+46.59020,-87.61816,255,0,0,89
+46.58983,-87.61758,255,0,0,89
+46.58940,-87.61786,255,0,0,89
+46.58838,-87.61778,255,0,0,89
+46.58824,-87.61813,255,0,0,89
+46.58819,-87.61949,255,0,0,89
+46.58879,-87.62055,255,0,0,89
+46.58873,-87.62109,255,0,0,89
+46.58921,-87.62102,255,0,0,89
+46.58973,-87.62258,255,0,0,89
+46.59083,-87.62228,255,0,0,89
+46.58995,-87.62374,255,0,0,89
+46.58970,-87.62541,255,0,0,89
+46.58931,-87.62597,255,0,0,89
+46.58927,-87.62681,255,0,0,89
+46.58977,-87.62698,255,0,0,89
+46.58967,-87.62897,255,0,0,89
+46.59016,-87.63067,255,0,0,89
+46.59003,-87.63099,255,0,0,89
+46.58940,-87.63093,255,0,0,89
+46.58926,-87.63306,255,0,0,89
+46.58934,-87.63337,255,0,0,89
+46.58992,-87.63342,255,0,0,89
+46.59030,-87.63646,255,0,0,89
+46.59093,-87.63520,255,0,0,89
+46.59152,-87.63526,255,0,0,89
+46.59178,-87.63574,255,0,0,89
+46.59213,-87.63506,255,0,0,89
+46.59260,-87.63556,255,0,0,89
+46.59285,-87.63526,255,0,0,89
+46.59352,-87.63586,255,0,0,89
+46.59393,-87.63521,255,0,0,89
+46.59425,-87.63329,255,0,0,89
+46.59405,-87.63160,255,0,0,89
+46.59472,-87.63092,255,0,0,89
+46.59496,-87.63164,255,0,0,89
+46.59606,-87.63272,255,0,0,89
+46.59593,-87.63158,255,0,0,89
+46.59633,-87.63095,255,0,0,89
+46.59651,-87.63270,255,0,0,89
+46.59725,-87.63398,255,0,0,89
+46.59693,-87.63519,255,0,0,89
+46.59791,-87.63653,255,0,0,89
+46.59843,-87.63551,255,0,0,89
+46.59906,-87.63586,255,0,0,89
+46.59996,-87.63549,255,0,0,89
+46.60033,-87.63433,255,0,0,89
+46.60019,-87.63340,255,0,0,89
+46.59964,-87.63267,255,0,0,89
+46.59913,-87.63254,255,0,0,89
+46.59875,-87.63336,255,0,0,89
+46.59843,-87.63324,255,0,0,89
+46.59810,-87.63161,255,0,0,89
+46.59841,-87.63091,255,0,0,89
+46.59859,-87.63138,255,0,0,89
+46.59955,-87.62912,255,0,0,89
+46.59930,-87.62861,255,0,0,89
+End:
+; Perimeter: County Z 1 | Fire Name: County Z 1\nPerimeter Acreage: 3 Acres\nContainment: Not reported\nSource: NIFC WFIGS current fire perimeters
+Polygon:
+44.99328,-89.41780,255,0,0,89
+44.99420,-89.41777,255,0,0,89
+44.99396,-89.41642,255,0,0,89
+44.99327,-89.41606,255,0,0,89
+44.99288,-89.41693,255,0,0,89
+44.99328,-89.41780,255,0,0,89
+44.99399,-89.41675,255,0,0,89
+44.99400,-89.41673,255,0,0,89
+44.99398,-89.41664,255,0,0,89
+44.99399,-89.41675,255,0,0,89
+End:
+; Perimeter: County Z | Fire Name: County Z\nPerimeter Acreage: 2 Acres\nContainment: Not reported\nSource: NIFC WFIGS current fire perimeters
+Polygon:
+44.99248,-89.41791,255,0,0,89
+44.99287,-89.41783,255,0,0,89
+44.99226,-89.41719,255,0,0,89
+44.99167,-89.41728,255,0,0,89
+44.99181,-89.41792,255,0,0,89
+44.99248,-89.41791,255,0,0,89
+End:
+; Perimeter: Cambridge | Fire Name: Cambridge\nPerimeter Acreage: 0 Acres\nContainment: Not reported\nSource: NIFC WFIGS current fire perimeters
+Polygon:
+44.08524,-90.96395,255,0,0,89
+44.08527,-90.96394,255,0,0,89
+44.08528,-90.96393,255,0,0,89
+44.08524,-90.96395,255,0,0,89
+44.08506,-90.96427,255,0,0,89
+44.08533,-90.96476,255,0,0,89
+44.08576,-90.96457,255,0,0,89
+44.08547,-90.96386,255,0,0,89
+44.08506,-90.96427,255,0,0,89
+End:
+; Perimeter: Tower | Fire Name: Tower\nPerimeter Acreage: 11 Acres\nContainment: Not reported\nSource: NIFC WFIGS current fire perimeters
+Polygon:
+45.36084,-90.02770,255,0,0,89
+45.36083,-90.02707,255,0,0,89
+45.36053,-90.02722,255,0,0,89
+45.36033,-90.02975,255,0,0,89
+45.36124,-90.03089,255,0,0,89
+45.36231,-90.02954,255,0,0,89
+45.36229,-90.02881,255,0,0,89
+45.36191,-90.02895,255,0,0,89
+45.36243,-90.02840,255,0,0,89
+45.36179,-90.02765,255,0,0,89
+45.36120,-90.02768,255,0,0,89
+45.36109,-90.02740,255,0,0,89
+45.36084,-90.02770,255,0,0,89
+End:
+; Perimeter: Cherry Plain | Fire Name: Cherry Plain\nPerimeter Acreage: 251 Acres\nContainment: 99% Contained\nSource: NIFC WFIGS current fire perimeters
+Polygon:
+42.64258,-73.31273,255,0,0,89
+42.64321,-73.31295,255,0,0,89
+42.64347,-73.31262,255,0,0,89
+42.64354,-73.30983,255,0,0,89
+42.64431,-73.30741,255,0,0,89
+42.64377,-73.30535,255,0,0,89
+42.64412,-73.30394,255,0,0,89
+42.64524,-73.30213,255,0,0,89
+42.64510,-73.29894,255,0,0,89
+42.64563,-73.29675,255,0,0,89
+42.64476,-73.29605,255,0,0,89
+42.64390,-73.29661,255,0,0,89
+42.64363,-73.29594,255,0,0,89
+42.64318,-73.29598,255,0,0,89
+42.64250,-73.29679,255,0,0,89
+42.64109,-73.29632,255,0,0,89
+42.63948,-73.29678,255,0,0,89
+42.63697,-73.29647,255,0,0,89
+42.63367,-73.29702,255,0,0,89
+42.63262,-73.30043,255,0,0,89
+42.63270,-73.30158,255,0,0,89
+42.63367,-73.30166,255,0,0,89
+42.63541,-73.30120,255,0,0,89
+42.63663,-73.30209,255,0,0,89
+42.63727,-73.30212,255,0,0,89
+42.63690,-73.30285,255,0,0,89
+42.63797,-73.30505,255,0,0,89
+42.63952,-73.30765,255,0,0,89
+42.64155,-73.30997,255,0,0,89
+42.64194,-73.31083,255,0,0,89
+42.64191,-73.31197,255,0,0,89
+42.64214,-73.31210,255,0,0,89
+42.64250,-73.31170,255,0,0,89
+42.64258,-73.31273,255,0,0,89
+End:
+; Perimeter: Wild River | Fire Name: Wild River\nPerimeter Acreage: 856 Acres\nContainment: 20% Contained\nSource: NIFC WFIGS current fire perimeters
+Polygon:
+44.32684,-71.03574,255,0,0,89
+44.32660,-71.03652,255,0,0,89
+44.32746,-71.03998,255,0,0,89
+44.32798,-71.04392,255,0,0,89
+44.33052,-71.04617,255,0,0,89
+44.33155,-71.04664,255,0,0,89
+44.33284,-71.04634,255,0,0,89
+44.33445,-71.04701,255,0,0,89
+44.33600,-71.04836,255,0,0,89
+44.33658,-71.04978,255,0,0,89
+44.34251,-71.05739,255,0,0,89
+44.34428,-71.05399,255,0,0,89
+44.34486,-71.05358,255,0,0,89
+44.34514,-71.05122,255,0,0,89
+44.34614,-71.04981,255,0,0,89
+44.34577,-71.04883,255,0,0,89
+44.34475,-71.04796,255,0,0,89
+44.34396,-71.04775,255,0,0,89
+44.34337,-71.04572,255,0,0,89
+44.34387,-71.04519,255,0,0,89
+44.34524,-71.04517,255,0,0,89
+44.34732,-71.04636,255,0,0,89
+44.34778,-71.04616,255,0,0,89
+44.34821,-71.04571,255,0,0,89
+44.34795,-71.04429,255,0,0,89
+44.34891,-71.04379,255,0,0,89
+44.34938,-71.04233,255,0,0,89
+44.34899,-71.04210,255,0,0,89
+44.34764,-71.04252,255,0,0,89
+44.34708,-71.04221,255,0,0,89
+44.34686,-71.04015,255,0,0,89
+44.34624,-71.04009,255,0,0,89
+44.34512,-71.03922,255,0,0,89
+44.34291,-71.04120,255,0,0,89
+44.34167,-71.04130,255,0,0,89
+44.34124,-71.04060,255,0,0,89
+44.34149,-71.03971,255,0,0,89
+44.34314,-71.03721,255,0,0,89
+44.34278,-71.03695,255,0,0,89
+44.34161,-71.03716,255,0,0,89
+44.34136,-71.03668,255,0,0,89
+44.34156,-71.03593,255,0,0,89
+44.34252,-71.03413,255,0,0,89
+44.34488,-71.03209,255,0,0,89
+44.34517,-71.03125,255,0,0,89
+44.34413,-71.03024,255,0,0,89
+44.34135,-71.02614,255,0,0,89
+44.33957,-71.02178,255,0,0,89
+44.33760,-71.02312,255,0,0,89
+44.33455,-71.02891,255,0,0,89
+44.33078,-71.02925,255,0,0,89
+44.33024,-71.02973,255,0,0,89
+44.32982,-71.03197,255,0,0,89
+44.32883,-71.03399,255,0,0,89
+44.32684,-71.03574,255,0,0,89
+End:
+; Perimeter: Foot Creek | Fire Name: Foot Creek\nPerimeter Acreage: 535 Acres\nContainment: 41% Contained\nSource: NIFC WFIGS current fire perimeters
+Polygon:
+44.31871,-106.93678,255,0,0,89
+44.31902,-106.93749,255,0,0,89
+44.31960,-106.93774,255,0,0,89
+44.32284,-106.93694,255,0,0,89
+44.32437,-106.93737,255,0,0,89
+44.32523,-106.93668,255,0,0,89
+44.32617,-106.93664,255,0,0,89
+44.32816,-106.93728,255,0,0,89
+44.32822,-106.93353,255,0,0,89
+44.32782,-106.93263,255,0,0,89
+44.32714,-106.93266,255,0,0,89
+44.32770,-106.93135,255,0,0,89
+44.32972,-106.93140,255,0,0,89
+44.33237,-106.92916,255,0,0,89
+44.33417,-106.92893,255,0,0,89
+44.33547,-106.92761,255,0,0,89
+44.33623,-106.92612,255,0,0,89
+44.33665,-106.92489,255,0,0,89
+44.33646,-106.92385,255,0,0,89
+44.33680,-106.92314,255,0,0,89
+44.33629,-106.92234,255,0,0,89
+44.33664,-106.92049,255,0,0,89
+44.33608,-106.91933,255,0,0,89
+44.33561,-106.91911,255,0,0,89
+44.33631,-106.91840,255,0,0,89
+44.33601,-106.91792,255,0,0,89
+44.33526,-106.91908,255,0,0,89
+44.33469,-106.91906,255,0,0,89
+44.33503,-106.92082,255,0,0,89
+44.33438,-106.92132,255,0,0,89
+44.33380,-106.92135,255,0,0,89
+44.33338,-106.92012,255,0,0,89
+44.33318,-106.92133,255,0,0,89
+44.33260,-106.92161,255,0,0,89
+44.33185,-106.92141,255,0,0,89
+44.33040,-106.92250,255,0,0,89
+44.32986,-106.92227,255,0,0,89
+44.32958,-106.92150,255,0,0,89
+44.32977,-106.91881,255,0,0,89
+44.32931,-106.91828,255,0,0,89
+44.32850,-106.91877,255,0,0,89
+44.32816,-106.91764,255,0,0,89
+44.32785,-106.91750,255,0,0,89
+44.32750,-106.91794,255,0,0,89
+44.32693,-106.92037,255,0,0,89
+44.32562,-106.91995,255,0,0,89
+44.32528,-106.92051,255,0,0,89
+44.32490,-106.92051,255,0,0,89
+44.32483,-106.92245,255,0,0,89
+44.32418,-106.92284,255,0,0,89
+44.32348,-106.91730,255,0,0,89
+44.32269,-106.91676,255,0,0,89
+44.32145,-106.91798,255,0,0,89
+44.32142,-106.92043,255,0,0,89
+44.32106,-106.92075,255,0,0,89
+44.31920,-106.92094,255,0,0,89
+44.31859,-106.92254,255,0,0,89
+44.31802,-106.92798,255,0,0,89
+44.31855,-106.93330,255,0,0,89
+44.31834,-106.93520,255,0,0,89
+44.31871,-106.93678,255,0,0,89
+End:
 Icon: 29.71107,-93.91234,0,1,1,"Fire Name: TP Oak\nStarted: 10/9/2026\nCurrent Reported Acreage: 33 Acres\nContainment: Not reported"
-Icon: 46.30736,-90.55616,0,1,1,"Fire Name: Redhouse\nStarted: 10/6/2026\nCurrent Reported Acreage: 22 Acres\nContainment: Not reported"
 Icon: 46.59362,-87.61862,0,1,1,"Fire Name: Ridge\nStarted: 10/9/2026\nCurrent Reported Acreage: 496 Acres\nContainment: 85% Contained"
 Icon: 35.48000,-119.05001,0,1,1,"Fire Name: CARRIER\nStarted: 10/11/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 43.34822,-89.92819,0,1,1,"Fire Name: Natural Bridge\nStarted: 10/8/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
@@ -89,7 +344,6 @@ Icon: 33.32391,-86.09900,0,1,1,"Fire Name: Weewoka Creek\nStarted: 11/1/2026\nCu
 Icon: 36.71336,-83.30596,0,1,1,"Fire Name: White Cliffs\nStarted: 11/1/2026\nCurrent Reported Acreage: 30 Acres\nContainment: 90% Contained"
 Icon: 44.33059,-71.03128,0,1,1,"Fire Name: Wild River\nStarted: 11/1/2026\nCurrent Reported Acreage: 856 Acres\nContainment: 20% Contained"
 Icon: 45.03871,-90.91709,0,1,1,"Fire Name: Par\nStarted: 11/1/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 31.05454,-93.02093,0,1,1,"Fire Name: IUA Forty Eight Range 2 ZH 1\nStarted: 10/8/2026\nCurrent Reported Acreage: 15 Acres\nContainment: Not reported"
 Icon: 42.30281,-71.63663,0,1,1,"Fire Name: FD070082\nStarted: 11/3/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 41.74114,-69.96938,0,1,1,"Fire Name: Horseshoe Lane\nStarted: 11/4/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 34.55826,-117.59608,0,1,1,"Fire Name: MTZ/BDC/RANCHO\nStarted: 11/4/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
@@ -97,13 +351,9 @@ Icon: 33.92400,-118.30909,0,1,1,"Fire Name: LAC-399836\nStarted: 11/5/2026\nCurr
 Icon: 33.82601,-118.21904,0,1,1,"Fire Name: LAC-400054\nStarted: 11/5/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 48.45084,-112.98724,0,1,1,"Fire Name: STOCK YARD\nStarted: 11/4/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 40.97139,-74.53135,0,1,1,"Fire Name: Gorge Road\nStarted: 11/4/2026\nCurrent Reported Acreage: 61 Acres\nContainment: Not reported"
-Icon: 44.31872,-106.93256,0,1,1,"Fire Name: FOOT CREEK\nStarted: 11/5/2026\nCurrent Reported Acreage: 413 Acres\nContainment: 41% Contained"
+Icon: 44.31872,-106.93256,0,1,1,"Fire Name: FOOT CREEK\nStarted: 11/5/2026\nCurrent Reported Acreage: 532 Acres\nContainment: 41% Contained"
 Icon: 35.90406,-117.90126,0,1,1,"Fire Name: BROWN\nStarted: 11/5/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 42.47901,-123.45615,0,1,1,"Fire Name: Ewe Creek\nStarted: 11/5/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-Icon: 34.94992,-103.33650,0,1,1,"Fire Name: Cold Wind\nStarted: 3/27/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 35.03276,-104.40682,0,1,1,"Fire Name: 89 Ford\nStarted: 3/19/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 35.56715,-105.20478,0,1,1,"Fire Name: Olympia\nStarted: 7/4/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 35.24936,-105.39289,0,1,1,"Fire Name: Sena\nStarted: 5/20/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 34.13509,-117.98629,0,1,1,"Fire Name: LAC-400809\nStarted: 11/5/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 34.26001,-94.25791,0,1,1,"Fire Name: Polk 174\nStarted: 11/5/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
 Icon: 34.67487,-118.16070,0,1,1,"Fire Name: LAC-401094\nStarted: 11/5/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
@@ -122,7 +372,7 @@ Icon: 32.00451,-89.25987,0,1,1,"Fire Name: Tower\nStarted: 11/7/2026\nCurrent Re
 Icon: 33.94427,-118.32552,0,1,1,"Fire Name: LAC-402958\nStarted: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 39.12128,-120.98186,0,1,1,"Fire Name: CLYDESDALE\nStarted: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 34.00516,-117.95836,0,1,1,"Fire Name: LAC-403013\nStarted: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-Icon: 40.50420,-121.98262,0,1,1,"Fire Name: TAHOE\nStarted: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+Icon: 40.50439,-121.98236,0,1,1,"Fire Name: TAHOE\nStarted: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 41.31717,-120.74235,0,1,1,"Fire Name: CODY\nStarted: 11/7/2026\nCurrent Reported Acreage: 5 Acres\nContainment: Not reported"
 Icon: 29.11789,-81.71550,0,1,1,"Fire Name: Bombing Range 10\nStarted: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 38.84491,-121.16917,0,1,1,"Fire Name: TAYLOR\nStarted: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
@@ -135,4 +385,5 @@ Icon: 34.98370,-92.40142,0,1,1,"Fire Name: Faulkner 223\nStarted: 11/7/2026\nCur
 Icon: 34.07295,-117.77831,0,1,1,"Fire Name: LAC-403202\nStarted: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 33.94153,-118.18152,0,1,1,"Fire Name: LAC-403235\nStarted: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 33.35020,-92.17307,0,1,1,"Fire Name: Bradley 357\nStarted: 11/7/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
-; Active reported wildfire incidents plotted: 130
+Icon: 39.22259,-121.18224,0,1,1,"Fire Name: RAINTREE\nStarted: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+; Active wildfire incidents plotted: 65; available perimeters plotted: 8
