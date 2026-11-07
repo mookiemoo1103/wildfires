@@ -1,56 +1,110 @@
 #!/usr/bin/env python3
-"""Generate a confirmed/reported active wildfire placefile from NIFC WFIGS."""
+"""Generate a GRLevelX placefile of active NIFC wildfires and available perimeters."""
 
 import json
 import pathlib
 import urllib.parse
 import urllib.request
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from zoneinfo import ZoneInfo
 
 INCIDENT_LAYER = (
     "https://services3.arcgis.com/T4QMspbfLg3qTGWY/arcgis/rest/services/"
     "WFIGS_Incident_Locations_Current/FeatureServer/0/query"
 )
+PERIMETER_LAYER = (
+    "https://services3.arcgis.com/T4QMspbfLg3qTGWY/arcgis/rest/services/"
+    "WFIGS_Interagency_Perimeters_Current/FeatureServer/0/query"
+)
 OUTPUT = pathlib.Path("active_wildfires.txt")
 ICON_URL = (
     "https://raw.githubusercontent.com/mookiemoo1103/wildfires/"
     "main/assets/fire_icon.png"
 )
-USER_AGENT = "AguaceroWx-Confirmed-Wildfires/1.0"
+USER_AGENT = "AguaceroWx-Active-Wildfires/2.0"
 LOCAL_TZ = ZoneInfo("America/Chicago")
+LOOKBACK_DAYS = 30
+# GRLevelX placefile polygon vertex alpha: 255 opaque, 0 transparent.
+# Alpha 89 is approximately 65% transparent.
+PERIMETER_RGBA = (255, 0, 0, 89)
+PERIMETER_MAX_OFFSET_DEGREES = 0.0002
 
 
-def fetch_incidents():
-    """Fetch current wildfire incident points; fail loudly on source errors."""
-    params = {
-        "where": (
-            "IncidentTypeCategory = 'WF' "
-            "AND ContainmentDateTime IS NULL "
-            "AND ControlDateTime IS NULL "
-            "AND FireOutDateTime IS NULL "
-            "AND (PercentContained IS NULL OR PercentContained < 100)"
-        ),
-        "outFields": (
-            "IncidentName,FireDiscoveryDateTime,IncidentSize,"
-            "PercentContained,ContainmentDateTime,ControlDateTime,"
-            "FireOutDateTime,IncidentTypeCategory"
-        ),
-        "returnGeometry": "true",
-        "outSR": "4326",
-        "f": "json",
-        "resultRecordCount": 2000,
-    }
-    url = INCIDENT_LAYER + "?" + urllib.parse.urlencode(params)
-    request = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
-    with urllib.request.urlopen(request, timeout=60) as response:
-        payload = json.loads(response.read().decode("utf-8"))
+def arcgis_query(layer_url, where, out_fields, *, simplify=False):
+    """Fetch all matching ArcGIS features, paging if the service requires it."""
+    features = []
+    offset = 0
 
-    if payload.get("error"):
-        raise RuntimeError(f"NIFC WFIGS returned an error: {payload['error']}")
-    if "features" not in payload:
-        raise RuntimeError("NIFC WFIGS response did not contain incident features.")
-    return payload["features"]
+    while True:
+        params = {
+            "where": where,
+            "outFields": out_fields,
+            "returnGeometry": "true",
+            "outSR": "4326",
+            "f": "json",
+            "resultRecordCount": 2000,
+            "resultOffset": offset,
+        }
+        if simplify:
+            params["geometryPrecision"] = 5
+            params["maxAllowableOffset"] = PERIMETER_MAX_OFFSET_DEGREES
+
+        url = layer_url + "?" + urllib.parse.urlencode(params)
+        request = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+        with urllib.request.urlopen(request, timeout=90) as response:
+            payload = json.loads(response.read().decode("utf-8"))
+
+        if payload.get("error"):
+            raise RuntimeError(f"ArcGIS returned an error: {payload['error']}")
+        if "features" not in payload:
+            raise RuntimeError("ArcGIS response did not contain a features array.")
+
+        page = payload["features"]
+        features.extend(page)
+        if not payload.get("exceededTransferLimit") or not page:
+            break
+        offset += len(page)
+
+    return features
+
+
+def fetch_incidents(cutoff_ms):
+    """Fetch currently active wildfire incident points discovered in 30 days."""
+    where = (
+        "IncidentTypeCategory = 'WF' "
+        f"AND FireDiscoveryDateTime >= {cutoff_ms} "
+        "AND ContainmentDateTime IS NULL "
+        "AND ControlDateTime IS NULL "
+        "AND FireOutDateTime IS NULL "
+        "AND (PercentContained IS NULL OR PercentContained < 100)"
+    )
+    fields = (
+        "IncidentName,FireDiscoveryDateTime,IncidentSize,PercentContained,"
+        "ContainmentDateTime,ControlDateTime,FireOutDateTime,IncidentTypeCategory"
+    )
+    return arcgis_query(INCIDENT_LAYER, where, fields)
+
+
+def fetch_perimeters(cutoff_ms):
+    """Fetch available current wildfire perimeter polygons from NIFC WFIGS."""
+    where = (
+        "attr_IncidentTypeCategory = 'WF' "
+        f"AND attr_FireDiscoveryDateTime >= {cutoff_ms} "
+        "AND attr_ContainmentDateTime IS NULL "
+        "AND attr_ControlDateTime IS NULL "
+        "AND attr_FireOutDateTime IS NULL "
+        "AND (attr_PercentContained IS NULL OR attr_PercentContained < 100) "
+        "AND poly_FeatureAccess = 'Public' "
+        "AND poly_FeatureStatus = 'Approved' "
+        "AND poly_IsVisible = 'Yes'"
+    )
+    fields = (
+        "poly_IncidentName,poly_GISAcres,poly_IRWINID,"
+        "attr_FireDiscoveryDateTime,attr_PercentContained,"
+        "attr_IncidentTypeCategory,attr_ContainmentDateTime,"
+        "attr_ControlDateTime,attr_FireOutDateTime"
+    )
+    return arcgis_query(PERIMETER_LAYER, where, fields, simplify=True)
 
 
 def started_date(value):
@@ -82,19 +136,90 @@ def containment(value):
 
 
 def clean(value):
-    return str(value or "").replace('"', "'").replace("\r", " ").replace("\n", " ").strip()
+    return (
+        str(value or "")
+        .replace('"', "'")
+        .replace("\\r", " ")
+        .replace("\\n", " ")
+        .strip()
+    )
+
+
+def add_perimeter(lines, feature):
+    """Append a filled red RGBA polygon, preserving each exterior/interior ring."""
+    attrs = feature.get("attributes") or {}
+    geometry = feature.get("geometry") or {}
+    rings = geometry.get("rings") or []
+    if not rings:
+        return False
+
+    name = clean(attrs.get("poly_IncidentName")) or "Unnamed Wildfire"
+    acres = acreage(attrs.get("poly_GISAcres"))
+    pct = containment(attrs.get("attr_PercentContained"))
+    tooltip = (
+        f"Fire Name: {name}\\n"
+        f"Perimeter Acreage: {acres}\\n"
+        f"Containment: {pct}\\n"
+        "Source: NIFC WFIGS current fire perimeters"
+    )
+
+    # A GRLevelX Polygon supports RGBA values on each vertex. Repeating the
+    # first vertex closes each ring; separate rings preserve polygon holes.
+    lines.append(f"; Perimeter: {name} | {tooltip.replace(chr(10), ' | ')}")
+    lines.append("Polygon:")
+    red, green, blue, alpha = PERIMETER_RGBA
+    for ring in rings:
+        if len(ring) < 3:
+            continue
+        points = list(ring)
+        if points[0] != points[-1]:
+            points.append(points[0])
+        for point in points:
+            if len(point) < 2:
+                continue
+            lon, lat = point[0], point[1]
+            lines.append(
+                f"{float(lat):.5f},{float(lon):.5f},"
+                f"{red},{green},{blue},{alpha}"
+            )
+    lines.append("End:")
+    return True
 
 
 def main():
-    features = fetch_incidents()
-    icons = []
+    cutoff_ms = int(
+        (datetime.now(timezone.utc) - timedelta(days=LOOKBACK_DAYS)).timestamp()
+        * 1000
+    )
 
-    for feature in features:
+    # Fetch both sources before writing anything. If either service fails, the
+    # previously generated placefile remains intact.
+    incidents = fetch_incidents(cutoff_ms)
+    perimeters = fetch_perimeters(cutoff_ms)
+
+    lines = [
+        "; Active wildfires discovered within the last 30 days",
+        "; Incident status excludes fires with containment, control, or out dates.",
+        "; Perimeters are official NIFC WFIGS current perimeters when available.",
+        "; Red perimeter fill is approximately 65% transparent.",
+        "; Source: NIFC WFIGS Current Incident Locations and Current Perimeters",
+        "Title: Active Wildfires - Last 30 Days (NIFC) with Perimeters",
+        "RefreshSeconds: 300",
+        'Font: 1, 12, 1, "Arial"',
+        f'IconFile: 1, 128, 128, 64, 64, "{ICON_URL}"',
+    ]
+
+    perimeter_count = 0
+    for feature in perimeters:
+        if add_perimeter(lines, feature):
+            perimeter_count += 1
+
+    icon_count = 0
+    for feature in incidents:
         attrs = feature.get("attributes") or {}
         geom = feature.get("geometry") or {}
         lat, lon = geom.get("y"), geom.get("x")
 
-        # Keep only reported wildfire incidents with a usable point location.
         if attrs.get("IncidentTypeCategory") != "WF" or lat is None or lon is None:
             continue
         if any(attrs.get(field) for field in (
@@ -102,8 +227,12 @@ def main():
         )):
             continue
         pct = attrs.get("PercentContained")
-        if pct is not None and float(pct) >= 100:
-            continue
+        if pct is not None:
+            try:
+                if float(pct) >= 100:
+                    continue
+            except (TypeError, ValueError):
+                continue
 
         fire_name = clean(attrs.get("IncidentName")) or "Unnamed Wildfire"
         tooltip = (
@@ -112,33 +241,25 @@ def main():
             f"Current Reported Acreage: {acreage(attrs.get('IncidentSize'))}\\n"
             f"Containment: {containment(pct)}"
         )
-        icons.append(
+        lines.append(
             f'Icon: {float(lat):.5f},{float(lon):.5f},0,1,1,"{tooltip}"'
         )
+        icon_count += 1
 
-    # Do not replace a working placefile with an empty file if the feed unexpectedly
-    # returns no records. A genuinely empty season can be reviewed manually.
-    if not icons:
-        raise RuntimeError(
-            "NIFC returned no qualifying wildfire points; existing placefile was preserved."
-        )
+    lines.append(
+        f"; Active wildfire incidents plotted: {icon_count}; "
+        f"available perimeters plotted: {perimeter_count}"
+    )
 
-    lines = [
-        "; Confirmed/reported active wildfire incidents from NIFC WFIGS only",
-        "; Point icons only. No satellite detections and no fire perimeter polygons.",
-        "; Source: NIFC WFIGS Current Incident Locations",
-        "Title: Confirmed Active Wildfires - NIFC",
-        "RefreshSeconds: 300",
-        'Font: 1, 12, 1, "Arial"',
-        f'IconFile: 1, 128, 128, 64, 64, "{ICON_URL}"',
-        *icons,
-        f"; Active reported wildfire incidents plotted: {len(icons)}",
-    ]
-
+    # A successful empty response is valid: writing it removes fires that have
+    # aged out of the 30-day window. Source errors above still preserve old data.
     temp_output = OUTPUT.with_suffix(".txt.tmp")
-    temp_output.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    temp_output.write_text("\\n".join(lines) + "\\n", encoding="utf-8")
     temp_output.replace(OUTPUT)
-    print(f"Generated {OUTPUT}: {len(icons)} reported active wildfire points.")
+    print(
+        f"Generated {OUTPUT}: {icon_count} active wildfire points and "
+        f"{perimeter_count} available perimeters."
+    )
 
 
 if __name__ == "__main__":
