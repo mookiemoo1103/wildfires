@@ -43,7 +43,6 @@ Icon: 43.28064,-123.47833,0,1,1,"Fire Name: Cleveland Hill Rd\nStarted: 8/8/2026
 Icon: 45.02522,-121.94489,0,1,1,"Fire Name: AUSTIN\nStarted: 8/9/2026\nCurrent Reported Acreage: 12,888 Acres\nContainment: 98% Contained"
 Icon: 48.34667,-120.83068,0,1,1,"Fire Name: SISI\nStarted: 8/14/2026\nCurrent Reported Acreage: 4,816 Acres\nContainment: 60% Contained"
 Icon: 43.23922,-123.34710,0,1,1,"Fire Name: Vine St\nStarted: 8/15/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 30.05646,-85.03430,0,1,1,"Fire Name: Wire Grass 2\nStarted: 8/19/2026\nCurrent Reported Acreage: 2 Acres\nContainment: Not reported"
 Icon: 47.47081,-121.25588,0,1,1,"Fire Name: KING\nStarted: 8/19/2026\nCurrent Reported Acreage: 3,427 Acres\nContainment: 72% Contained"
 Icon: 35.74905,-117.39712,0,1,1,"Fire Name: MTZ/BDC/45A\nStarted: 8/22/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 44.82791,-118.28079,0,1,1,"Fire Name: McCully\nStarted: 8/22/2026\nCurrent Reported Acreage: 13,604 Acres\nContainment: 91% Contained"
@@ -75,7 +74,6 @@ Icon: 35.48000,-119.05001,0,1,1,"Fire Name: CARRIER\nStarted: 10/11/2026\nCurren
 Icon: 43.34822,-89.92819,0,1,1,"Fire Name: Natural Bridge\nStarted: 10/8/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 43.74087,-89.66228,0,1,1,"Fire Name: Fur Ct\nStarted: 10/10/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 43.73987,-89.64272,0,1,1,"Fire Name: Fur Dr\nStarted: 10/10/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 32.81723,-88.92760,0,1,1,"Fire Name: Grey\nStarted: 10/18/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 46.10640,-91.20707,0,1,1,"Fire Name: Spider\nStarted: 10/19/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 44.99367,-89.41780,0,1,1,"Fire Name: County Z 1\nStarted: 10/19/2026\nCurrent Reported Acreage: 3 Acres\nContainment: Not reported"
 Icon: 44.99161,-89.41755,0,1,1,"Fire Name: County Z\nStarted: 10/19/2026\nCurrent Reported Acreage: 2 Acres\nContainment: Not reported"
@@ -105,8 +103,6 @@ Icon: 44.33059,-71.03128,0,1,1,"Fire Name: Wild River\nStarted: 11/1/2026\nCurre
 Icon: 45.03871,-90.91709,0,1,1,"Fire Name: Par\nStarted: 11/1/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 31.05454,-93.02093,0,1,1,"Fire Name: IUA Forty Eight Range 2 ZH 1\nStarted: 10/8/2026\nCurrent Reported Acreage: 15 Acres\nContainment: Not reported"
 Icon: 42.30281,-71.63663,0,1,1,"Fire Name: FD070082\nStarted: 11/3/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 43.62803,-86.02363,0,1,1,"Fire Name: Newaygo-12 W 5 Mile Smoke Check\nStarted: 11/2/2026\nCurrent Reported Acreage: 2 Acres\nContainment: Not reported"
-Icon: 43.56672,-85.84140,0,1,1,"Fire Name: Newaygo-13 Burnt Bone Smoke Check\nStarted: 11/3/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 41.92310,-71.36118,0,1,1,"Fire Name: FD03071\nStarted: 11/3/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 39.48467,-123.07496,0,1,1,"Fire Name: ERICSON\nStarted: 11/4/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 33.99575,-117.93120,0,1,1,"Fire Name: LAC-399041\nStarted: 11/4/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
@@ -139,4 +135,4 @@ Icon: 34.58144,-118.10288,0,1,1,"Fire Name: LAC-402436\nStarted: 11/6/2026\nCurr
 Icon: 34.29449,-118.35872,0,1,1,"Fire Name: ARROW\nStarted: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 34.29499,-118.35801,0,1,1,"Fire Name: ARROW\nStarted: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 33.93084,-118.17871,0,1,1,"Fire Name: LAC-402732\nStarted: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-; Active reported wildfire incidents plotted: 134
+; Active reported wildfire incidents plotted: 130
