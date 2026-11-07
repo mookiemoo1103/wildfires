@@ -157,9 +157,9 @@ def add_perimeter(lines, feature):
     acres = acreage(attrs.get("poly_GISAcres"))
     pct = containment(attrs.get("attr_PercentContained"))
     tooltip = (
-        f"Fire Name: {name}\n"
-        f"Perimeter Acreage: {acres}\n"
-        f"Containment: {pct}\n"
+        f"Fire Name: {name}\\n"
+        f"Perimeter Acreage: {acres}\\n"
+        f"Containment: {pct}\\n"
         "Source: NIFC WFIGS current fire perimeters"
     )
 
@@ -236,7 +236,7 @@ def main():
 
         fire_name = clean(attrs.get("IncidentName")) or "Unnamed Wildfire"
         tooltip = (
-            f"Fire Name: {fire_name}\n"
+            f"Fire Name: {fire_name}\\n"
             f"Started: {started_date(attrs.get('FireDiscoveryDateTime'))}\n"
             f"Current Reported Acreage: {acreage(attrs.get('IncidentSize'))}\n"
             f"Containment: {containment(pct)}"
