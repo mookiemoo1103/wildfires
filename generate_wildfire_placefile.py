@@ -237,8 +237,8 @@ def main():
         fire_name = clean(attrs.get("IncidentName")) or "Unnamed Wildfire"
         tooltip = (
             f"Fire Name: {fire_name}\\n"
-            f"Started: {started_date(attrs.get('FireDiscoveryDateTime'))}\n"
-            f"Current Reported Acreage: {acreage(attrs.get('IncidentSize'))}\n"
+            f"Started: {started_date(attrs.get('FireDiscoveryDateTime'))}\\n"
+            f"Current Reported Acreage: {acreage(attrs.get('IncidentSize'))}\\n"
             f"Containment: {containment(pct)}"
         )
         lines.append(
