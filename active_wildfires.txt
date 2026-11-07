@@ -74,10 +74,8 @@ Icon: 35.48000,-119.05001,0,1,1,"Fire Name: CARRIER\nStarted: 10/11/2026\nCurren
 Icon: 43.34822,-89.92819,0,1,1,"Fire Name: Natural Bridge\nStarted: 10/8/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 43.74087,-89.66228,0,1,1,"Fire Name: Fur Ct\nStarted: 10/10/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 43.73987,-89.64272,0,1,1,"Fire Name: Fur Dr\nStarted: 10/10/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 46.10640,-91.20707,0,1,1,"Fire Name: Spider\nStarted: 10/19/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 44.99367,-89.41780,0,1,1,"Fire Name: County Z 1\nStarted: 10/19/2026\nCurrent Reported Acreage: 3 Acres\nContainment: Not reported"
 Icon: 44.99161,-89.41755,0,1,1,"Fire Name: County Z\nStarted: 10/19/2026\nCurrent Reported Acreage: 2 Acres\nContainment: Not reported"
-Icon: 45.98846,-91.23106,0,1,1,"Fire Name: Callahan\nStarted: 10/20/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 43.75627,-89.96293,0,1,1,"Fire Name: MM 78.4\nStarted: 10/21/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 44.08521,-90.96429,0,1,1,"Fire Name: Cambridge\nStarted: 10/22/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
 Icon: 30.49528,-82.85778,0,1,1,"Fire Name: BEE HAVEN (2) (24-06)\nStarted: 10/21/2026\nCurrent Reported Acreage: 2,060 Acres\nContainment: 85% Contained"
@@ -94,7 +92,6 @@ Icon: 42.28512,-72.45253,0,1,1,"Fire Name: FD10017\nStarted: 10/15/2026\nCurrent
 Icon: 42.28770,-72.38126,0,1,1,"Fire Name: FD10018\nStarted: 10/20/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 42.64154,-73.30507,0,1,1,"Fire Name: Cherry Plain\nStarted: 10/25/2026\nCurrent Reported Acreage: 251 Acres\nContainment: 99% Contained"
 Icon: 42.26111,-72.70388,0,1,1,"Fire Name: FD10021\nStarted: 10/26/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 46.61340,-88.61540,0,1,1,"Fire Name: Gorge Cut Off\nStarted: 10/24/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
 Icon: 33.26267,-79.31400,0,1,1,"Fire Name: Hewitt Lane Fire\nStarted: 10/22/2026\nCurrent Reported Acreage: 109 Acres\nContainment: 90% Contained"
 Icon: 42.43220,-71.10785,0,1,1,"Fire Name: Bellevue Pond Fire\nStarted: 10/28/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 33.32391,-86.09900,0,1,1,"Fire Name: Weewoka Creek\nStarted: 11/1/2026\nCurrent Reported Acreage: 13 Acres\nContainment: Not reported"
@@ -135,4 +132,5 @@ Icon: 34.58144,-118.10288,0,1,1,"Fire Name: LAC-402436\nStarted: 11/6/2026\nCurr
 Icon: 34.29449,-118.35872,0,1,1,"Fire Name: ARROW\nStarted: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 34.29499,-118.35801,0,1,1,"Fire Name: ARROW\nStarted: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 33.93084,-118.17871,0,1,1,"Fire Name: LAC-402732\nStarted: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-; Active reported wildfire incidents plotted: 130
+Icon: 34.03665,-118.16101,0,1,1,"Fire Name: LAC-402851\nStarted: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
+; Active reported wildfire incidents plotted: 128
