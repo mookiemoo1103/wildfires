@@ -379,11 +379,11 @@ Icon: 38.84491,-121.16917,0,1,1,"Fire Name: TAYLOR\nFire Started: 11/7/2026\nCur
 Icon: 44.53954,-121.38030,0,1,1,"Fire Name: 0927 PROSPECT\nFire Started: 11/7/2026\nCurrent Reported Acreage: 40 Acres\nContainment: Not reported"
 Icon: 38.92206,-122.58965,0,1,1,"Fire Name: BONHAM\nFire Started: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 33.92400,-118.30909,0,1,1,"Fire Name: LAC-403165\nFire Started: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-Icon: 41.88201,-122.22451,0,1,1,"Fire Name: EAGLE\nFire Started: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
+Icon: 41.88201,-122.22451,0,1,1,"Fire Name: EAGLE\nFire Started: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 34.42466,-118.53929,0,1,1,"Fire Name: BAR\nFire Started: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 34.98370,-92.40142,0,1,1,"Fire Name: Faulkner 223\nFire Started: 11/7/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
 Icon: 34.07295,-117.77831,0,1,1,"Fire Name: LAC-403202\nFire Started: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 33.94153,-118.18152,0,1,1,"Fire Name: LAC-403235\nFire Started: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 33.35020,-92.17307,0,1,1,"Fire Name: Bradley 357\nFire Started: 11/7/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
-Icon: 45.42675,-118.09597,0,1,1,"Fire Name: Lion Canyon\nFire Started: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+Icon: 45.49546,-118.09340,0,1,1,"Fire Name: Lyons Canyon\nFire Started: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 ; Active wildfire incidents plotted: 65; available perimeters plotted: 8
