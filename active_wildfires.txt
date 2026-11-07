@@ -101,7 +101,6 @@ Icon: 39.48467,-123.07496,0,1,1,"Fire Name: ERICSON\nStarted: 11/4/2026\nCurrent
 Icon: 33.99575,-117.93120,0,1,1,"Fire Name: LAC-399041\nStarted: 11/4/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 34.75986,-118.50189,0,1,1,"Fire Name: LAND\nStarted: 11/4/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 42.27741,-71.40749,0,1,1,"Fire Name: FD140042\nStarted: 11/4/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 41.96306,-78.92754,0,1,1,"Fire Name: Tracy Run\nStarted: 11/4/2026\nCurrent Reported Acreage: 67 Acres\nContainment: Not reported"
 Icon: 41.74114,-69.96938,0,1,1,"Fire Name: Horseshoe Lane\nStarted: 11/4/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 34.55826,-117.59608,0,1,1,"Fire Name: MTZ/BDC/RANCHO\nStarted: 11/4/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 33.92400,-118.30909,0,1,1,"Fire Name: LAC-399836\nStarted: 11/5/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
@@ -133,4 +132,4 @@ Icon: 32.00451,-89.25987,0,1,1,"Fire Name: Tower\nStarted: 11/7/2026\nCurrent Re
 Icon: 33.94427,-118.32552,0,1,1,"Fire Name: LAC-402958\nStarted: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 39.12128,-120.98186,0,1,1,"Fire Name: CLYDESDALE\nStarted: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 34.00516,-117.95836,0,1,1,"Fire Name: LAC-403013\nStarted: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-; Active reported wildfire incidents plotted: 128
+; Active reported wildfire incidents plotted: 127
