@@ -79,7 +79,6 @@ Icon: 43.75627,-89.96293,0,1,1,"Fire Name: MM 78.4\nStarted: 10/21/2026\nCurrent
 Icon: 44.08521,-90.96429,0,1,1,"Fire Name: Cambridge\nStarted: 10/22/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
 Icon: 30.49528,-82.85778,0,1,1,"Fire Name: BEE HAVEN (2) (24-06)\nStarted: 10/21/2026\nCurrent Reported Acreage: 2,060 Acres\nContainment: 85% Contained"
 Icon: 45.36078,-90.02798,0,1,1,"Fire Name: Tower\nStarted: 10/21/2026\nCurrent Reported Acreage: 11 Acres\nContainment: Not reported"
-Icon: 45.09966,-89.23414,0,1,1,"Fire Name: Springbrook\nStarted: 10/15/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
 Icon: 43.37745,-89.67927,0,1,1,"Fire Name: HWY 113\nStarted: 10/25/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 43.33783,-89.40747,0,1,1,"Fire Name: WIBU 4\nStarted: 10/25/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 43.33783,-89.40524,0,1,1,"Fire Name: WIBU 3\nStarted: 10/25/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
@@ -130,8 +129,8 @@ Icon: 34.29449,-118.35872,0,1,1,"Fire Name: ARROW\nStarted: 11/7/2026\nCurrent R
 Icon: 34.29499,-118.35801,0,1,1,"Fire Name: ARROW\nStarted: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 33.93084,-118.17871,0,1,1,"Fire Name: LAC-402732\nStarted: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 34.03665,-118.16101,0,1,1,"Fire Name: LAC-402851\nStarted: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-Icon: 34.98113,-94.37076,0,1,1,"Fire Name: Sebastian 239\nStarted: 11/7/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
 Icon: 32.00451,-89.25987,0,1,1,"Fire Name: Tower\nStarted: 11/7/2026\nCurrent Reported Acreage: 2 Acres\nContainment: Not reported"
 Icon: 33.94427,-118.32552,0,1,1,"Fire Name: LAC-402958\nStarted: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 39.12128,-120.98186,0,1,1,"Fire Name: CLYDESDALE\nStarted: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-; Active reported wildfire incidents plotted: 129
+Icon: 34.00516,-117.95836,0,1,1,"Fire Name: LAC-403013\nStarted: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
+; Active reported wildfire incidents plotted: 128
