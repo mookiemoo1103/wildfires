@@ -125,7 +125,14 @@ Icon: 33.94427,-118.32552,0,1,1,"Fire Name: LAC-402958\nStarted: 11/7/2026\nCurr
 Icon: 39.12128,-120.98186,0,1,1,"Fire Name: CLYDESDALE\nStarted: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 34.00516,-117.95836,0,1,1,"Fire Name: LAC-403013\nStarted: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 39.17516,-123.18745,0,1,1,"Fire Name: REDEMEYER\nStarted: 11/7/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
-Icon: 40.64926,-122.27851,0,1,1,"Fire Name: OLD\nStarted: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+Icon: 40.64926,-122.27851,0,1,1,"Fire Name: OLD\nStarted: 11/7/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
 Icon: 40.50420,-121.98262,0,1,1,"Fire Name: TAHOE\nStarted: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 41.31717,-120.74235,0,1,1,"Fire Name: CODY\nStarted: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-; Active reported wildfire incidents plotted: 123
+Icon: 29.11789,-81.71550,0,1,1,"Fire Name: Bombing Range 10\nStarted: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+Icon: 43.36550,-116.21456,0,1,1,"Fire Name: SANDMAN\nStarted: 11/7/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
+Icon: 38.84491,-121.16917,0,1,1,"Fire Name: TAYLOR\nStarted: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+Icon: 39.47951,-121.44564,0,1,1,"Fire Name: FEATHER\nStarted: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+Icon: 43.29793,-116.20169,0,1,1,"Fire Name: ANDERSON\nStarted: 11/7/2026\nCurrent Reported Acreage: 3 Acres\nContainment: Not reported"
+Icon: 44.54213,-121.38016,0,1,1,"Fire Name: 0927\nStarted: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+Icon: 38.92206,-122.58965,0,1,1,"Fire Name: BONHAM\nStarted: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+; Active reported wildfire incidents plotted: 130
