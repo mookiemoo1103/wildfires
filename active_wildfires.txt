@@ -105,7 +105,6 @@ Icon: 44.33059,-71.03128,0,1,1,"Fire Name: Wild River\nStarted: 11/1/2026\nCurre
 Icon: 45.03871,-90.91709,0,1,1,"Fire Name: Par\nStarted: 11/1/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 31.05454,-93.02093,0,1,1,"Fire Name: IUA Forty Eight Range 2 ZH 1\nStarted: 10/8/2026\nCurrent Reported Acreage: 15 Acres\nContainment: Not reported"
 Icon: 42.30281,-71.63663,0,1,1,"Fire Name: FD070082\nStarted: 11/3/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 34.71497,-118.11247,0,1,1,"Fire Name: LAC-398360\nStarted: 11/3/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 43.62803,-86.02363,0,1,1,"Fire Name: Newaygo-12 W 5 Mile Smoke Check\nStarted: 11/2/2026\nCurrent Reported Acreage: 2 Acres\nContainment: Not reported"
 Icon: 43.56672,-85.84140,0,1,1,"Fire Name: Newaygo-13 Burnt Bone Smoke Check\nStarted: 11/3/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 41.92310,-71.36118,0,1,1,"Fire Name: FD03071\nStarted: 11/3/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
@@ -137,6 +136,5 @@ Icon: 39.55492,-121.31293,0,1,1,"Fire Name: PONDEROSA\nStarted: 11/6/2026\nCurre
 Icon: 41.31764,-123.52665,0,1,1,"Fire Name: Pear\nStarted: 11/6/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 39.03751,-121.17151,0,1,1,"Fire Name: ROSEMARY\nStarted: 11/6/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
 Icon: 41.61325,-122.59575,0,1,1,"Fire Name: GUYS\nStarted: 11/6/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
-Icon: 39.72913,-121.70395,0,1,1,"Fire Name: CENTER\nStarted: 11/6/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 34.67524,-118.04106,0,1,1,"Fire Name: LAC-402238\nStarted: 11/6/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-; Active reported wildfire incidents plotted: 134
+; Active reported wildfire incidents plotted: 132
