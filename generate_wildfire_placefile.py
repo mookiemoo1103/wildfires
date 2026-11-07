@@ -85,26 +85,12 @@ def fetch_incidents(cutoff_ms):
     return arcgis_query(INCIDENT_LAYER, where, fields)
 
 
-def fetch_perimeters(cutoff_ms):
-    """Fetch available current wildfire perimeter polygons from NIFC WFIGS."""
-    where = (
-        "attr_IncidentTypeCategory = 'WF' "
-        f"AND attr_FireDiscoveryDateTime >= {cutoff_ms} "
-        "AND attr_ContainmentDateTime IS NULL "
-        "AND attr_ControlDateTime IS NULL "
-        "AND attr_FireOutDateTime IS NULL "
-        "AND (attr_PercentContained IS NULL OR attr_PercentContained < 100) "
-        "AND poly_FeatureAccess = 'Public' "
-        "AND poly_FeatureStatus = 'Approved' "
-        "AND poly_IsVisible = 'Yes'"
-    )
-    fields = (
-        "poly_IncidentName,poly_GISAcres,poly_IRWINID,"
-        "attr_FireDiscoveryDateTime,attr_PercentContained,"
-        "attr_IncidentTypeCategory,attr_ContainmentDateTime,"
-        "attr_ControlDateTime,attr_FireOutDateTime"
-    )
-    return arcgis_query(PERIMETER_LAYER, where, fields, simplify=True)
+def fetch_perimeters():
+    """Fetch current NIFC perimeter polygons; match to active fires in main()."""
+    # The current perimeter layer does not expose the visibility/status fields
+    # used by older WFIGS products. Retrieve its current public features, then
+    # retain only polygons whose incident names match the active 30-day point feed.
+    return arcgis_query(PERIMETER_LAYER, "1=1", "*", simplify=True)
 
 
 def started_date(value):
@@ -195,7 +181,7 @@ def main():
     # Fetch both sources before writing anything. If either service fails, the
     # previously generated placefile remains intact.
     incidents = fetch_incidents(cutoff_ms)
-    perimeters = fetch_perimeters(cutoff_ms)
+    perimeters = fetch_perimeters()
 
     lines = [
         "; Active wildfires discovered within the last 30 days",
@@ -209,8 +195,21 @@ def main():
         f'IconFile: 1, 128, 128, 64, 64, "{ICON_URL}"',
     ]
 
+    active_names = {
+        clean((feature.get("attributes") or {}).get("IncidentName")).casefold()
+        for feature in incidents
+        if clean((feature.get("attributes") or {}).get("IncidentName"))
+    }
+
     perimeter_count = 0
     for feature in perimeters:
+        perimeter_attrs = feature.get("attributes") or {}
+        perimeter_name = clean(
+            perimeter_attrs.get("poly_IncidentName")
+            or perimeter_attrs.get("attr_IncidentName")
+        ).casefold()
+        if not perimeter_name or perimeter_name not in active_names:
+            continue
         if add_perimeter(lines, feature):
             perimeter_count += 1
 
