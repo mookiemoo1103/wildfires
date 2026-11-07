@@ -93,7 +93,6 @@ Icon: 42.28770,-72.38126,0,1,1,"Fire Name: FD10018\nStarted: 10/20/2026\nCurrent
 Icon: 42.64154,-73.30507,0,1,1,"Fire Name: Cherry Plain\nStarted: 10/25/2026\nCurrent Reported Acreage: 251 Acres\nContainment: 99% Contained"
 Icon: 42.26111,-72.70388,0,1,1,"Fire Name: FD10021\nStarted: 10/26/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 33.26267,-79.31400,0,1,1,"Fire Name: Hewitt Lane Fire\nStarted: 10/22/2026\nCurrent Reported Acreage: 109 Acres\nContainment: 90% Contained"
-Icon: 42.43220,-71.10785,0,1,1,"Fire Name: Bellevue Pond Fire\nStarted: 10/28/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 33.32391,-86.09900,0,1,1,"Fire Name: Weewoka Creek\nStarted: 11/1/2026\nCurrent Reported Acreage: 13 Acres\nContainment: Not reported"
 Icon: 36.71336,-83.30596,0,1,1,"Fire Name: White Cliffs\nStarted: 11/1/2026\nCurrent Reported Acreage: 30 Acres\nContainment: 90% Contained"
 Icon: 44.33059,-71.03128,0,1,1,"Fire Name: Wild River\nStarted: 11/1/2026\nCurrent Reported Acreage: 856 Acres\nContainment: 20% Contained"
@@ -133,4 +132,6 @@ Icon: 34.29449,-118.35872,0,1,1,"Fire Name: ARROW\nStarted: 11/7/2026\nCurrent R
 Icon: 34.29499,-118.35801,0,1,1,"Fire Name: ARROW\nStarted: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 33.93084,-118.17871,0,1,1,"Fire Name: LAC-402732\nStarted: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 34.03665,-118.16101,0,1,1,"Fire Name: LAC-402851\nStarted: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-; Active reported wildfire incidents plotted: 128
+Icon: 34.98113,-94.37076,0,1,1,"Fire Name: Sebastian 239\nStarted: 11/7/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
+Icon: 32.00451,-89.25987,0,1,1,"Fire Name: Tower\nStarted: 11/7/2026\nCurrent Reported Acreage: 2 Acres\nContainment: Not reported"
+; Active reported wildfire incidents plotted: 129
