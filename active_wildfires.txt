@@ -403,4 +403,5 @@ Icon: 38.69925,-120.85100,0,1,1,"Fire Name: MOTHER\nFire Started: 11/7/2026\nCur
 Icon: 34.57692,-118.13355,0,1,1,"Fire Name: LAC-403588\nFire Started: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 33.91710,-118.10461,0,1,1,"Fire Name: LAC-403794\nFire Started: 11/8/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 33.96660,-118.37101,0,1,1,"Fire Name: LAC-403920\nFire Started: 11/8/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-; Active wildfire incidents plotted: 62; available perimeters plotted: 8
+Icon: 37.81007,-82.88855,0,1,1,"Fire Name: U.S. 460\nFire Started: 11/8/2026\nCurrent Reported Acreage: 1 Acres\nContainment: 0% Contained"
+; Active wildfire incidents plotted: 63; available perimeters plotted: 8
