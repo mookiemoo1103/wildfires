@@ -364,7 +364,6 @@ Icon: 36.71336,-83.30596,0,1,1,"Fire Name: White Cliffs\nFire Started: 11/1/2026
 Icon: 44.33059,-71.03128,0,1,1,"Fire Name: Wild River\nFire Started: 11/1/2026\nCurrent Reported Acreage: 856 Acres\nContainment: 20% Contained"
 Icon: 45.03871,-90.91709,0,1,1,"Fire Name: Par\nFire Started: 11/1/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 42.30281,-71.63663,0,1,1,"Fire Name: FD070082\nFire Started: 11/3/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 34.55826,-117.59608,0,1,1,"Fire Name: MTZ/BDC/RANCHO\nFire Started: 11/4/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 33.92400,-118.30909,0,1,1,"Fire Name: LAC-399836\nFire Started: 11/5/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 33.82601,-118.21904,0,1,1,"Fire Name: LAC-400054\nFire Started: 11/5/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 48.45084,-112.98724,0,1,1,"Fire Name: STOCK YARD\nFire Started: 11/4/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
@@ -390,7 +389,6 @@ Icon: 32.00451,-89.25987,0,1,1,"Fire Name: Tower\nFire Started: 11/7/2026\nCurre
 Icon: 33.94427,-118.32552,0,1,1,"Fire Name: LAC-402958\nFire Started: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 34.00516,-117.95836,0,1,1,"Fire Name: LAC-403013\nFire Started: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 29.11789,-81.71550,0,1,1,"Fire Name: Bombing Range 10\nFire Started: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 38.84491,-121.16917,0,1,1,"Fire Name: TAYLOR\nFire Started: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 44.53954,-121.38030,0,1,1,"Fire Name: 0927 PROSPECT\nFire Started: 11/7/2026\nCurrent Reported Acreage: 40 Acres\nContainment: Not reported"
 Icon: 33.92400,-118.30909,0,1,1,"Fire Name: LAC-403165\nFire Started: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 41.88201,-122.22451,0,1,1,"Fire Name: EAGLE\nFire Started: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
@@ -404,6 +402,6 @@ Icon: 33.92393,-118.30934,0,1,1,"Fire Name: LAC-403382\nFire Started: 11/7/2026\
 Icon: 38.65344,-120.70402,0,1,1,"Fire Name: BUCKS\nFire Started: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 34.11987,-117.78671,0,1,1,"Fire Name: LAC-403445\nFire Started: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 33.96501,-118.37127,0,1,1,"Fire Name: LAC-403491\nFire Started: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-Icon: 38.70143,-120.85475,0,1,1,"Fire Name: MOTHER\nFire Started: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+Icon: 38.69925,-120.85100,0,1,1,"Fire Name: MOTHER\nFire Started: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 34.57692,-118.13355,0,1,1,"Fire Name: LAC-403588\nFire Started: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-; Active wildfire incidents plotted: 65; available perimeters plotted: 8
+; Active wildfire incidents plotted: 63; available perimeters plotted: 8
