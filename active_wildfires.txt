@@ -341,7 +341,6 @@ Polygon:
 44.32791,-106.91658,255,0,0,89
 44.32705,-106.91971,255,0,0,89
 End:
-Icon: 29.71107,-93.91234,0,1,1,"Fire Name: TP Oak\nFire Started: 10/9/2026\nCurrent Reported Acreage: 33 Acres\nContainment: Not reported"
 Icon: 46.59362,-87.61862,0,1,1,"Fire Name: Ridge\nFire Started: 10/9/2026\nCurrent Reported Acreage: 496 Acres\nContainment: 85% Contained"
 Icon: 35.48000,-119.05001,0,1,1,"Fire Name: CARRIER\nFire Started: 10/11/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 43.73987,-89.64272,0,1,1,"Fire Name: Fur Dr\nFire Started: 10/10/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
@@ -405,4 +404,4 @@ Icon: 38.69925,-120.85100,0,1,1,"Fire Name: MOTHER\nFire Started: 11/7/2026\nCur
 Icon: 34.57692,-118.13355,0,1,1,"Fire Name: LAC-403588\nFire Started: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 33.91710,-118.10461,0,1,1,"Fire Name: LAC-403794\nFire Started: 11/8/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 33.96660,-118.37101,0,1,1,"Fire Name: LAC-403920\nFire Started: 11/8/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-; Active wildfire incidents plotted: 64; available perimeters plotted: 8
+; Active wildfire incidents plotted: 63; available perimeters plotted: 8
