@@ -7,111 +7,6 @@ Title: Active Wildfires - Last 30 Days (NIFC) with Perimeters
 RefreshSeconds: 300
 Font: 1, 12, 1, "Arial"
 IconFile: 1, 128, 128, 64, 64, "https://raw.githubusercontent.com/mookiemoo1103/wildfires/main/assets/fire_icon.png"
-; Perimeter: Ridge | Fire Name: Ridge\nPerimeter Acreage: 496 Acres\nContainment: 85% Contained\nSource: NIFC WFIGS current fire perimeters
-Polygon:
-46.59930,-87.62861,255,0,0,89
-46.59936,-87.62717,255,0,0,89
-46.59894,-87.62608,255,0,0,89
-46.59922,-87.62581,255,0,0,89
-46.59988,-87.62663,255,0,0,89
-46.60087,-87.62716,255,0,0,89
-46.60233,-87.62628,255,0,0,89
-46.60184,-87.62493,255,0,0,89
-46.60193,-87.62409,255,0,0,89
-46.60349,-87.62616,255,0,0,89
-46.60391,-87.62573,255,0,0,89
-46.60387,-87.62476,255,0,0,89
-46.60309,-87.62114,255,0,0,89
-46.60242,-87.62052,255,0,0,89
-46.60242,-87.61940,255,0,0,89
-46.60215,-87.61931,255,0,0,89
-46.60135,-87.61656,255,0,0,89
-46.60090,-87.61594,255,0,0,89
-46.60081,-87.61450,255,0,0,89
-46.60037,-87.61340,255,0,0,89
-46.60020,-87.61368,255,0,0,89
-46.59981,-87.61331,255,0,0,89
-46.59965,-87.61256,255,0,0,89
-46.59937,-87.61312,255,0,0,89
-46.59898,-87.61322,255,0,0,89
-46.59903,-87.61398,255,0,0,89
-46.59864,-87.61389,255,0,0,89
-46.59871,-87.61481,255,0,0,89
-46.59777,-87.61614,255,0,0,89
-46.59719,-87.61911,255,0,0,89
-46.59700,-87.61899,255,0,0,89
-46.59719,-87.61749,255,0,0,89
-46.59694,-87.61730,255,0,0,89
-46.59776,-87.61359,255,0,0,89
-46.59734,-87.61184,255,0,0,89
-46.59794,-87.61044,255,0,0,89
-46.59661,-87.61017,255,0,0,89
-46.59433,-87.61321,255,0,0,89
-46.59324,-87.61556,255,0,0,89
-46.59265,-87.61447,255,0,0,89
-46.59180,-87.61667,255,0,0,89
-46.59118,-87.61683,255,0,0,89
-46.59080,-87.61731,255,0,0,89
-46.59061,-87.61717,255,0,0,89
-46.59052,-87.61802,255,0,0,89
-46.59020,-87.61816,255,0,0,89
-46.58983,-87.61758,255,0,0,89
-46.58940,-87.61786,255,0,0,89
-46.58838,-87.61778,255,0,0,89
-46.58824,-87.61813,255,0,0,89
-46.58819,-87.61949,255,0,0,89
-46.58879,-87.62055,255,0,0,89
-46.58873,-87.62109,255,0,0,89
-46.58921,-87.62102,255,0,0,89
-46.58973,-87.62258,255,0,0,89
-46.59083,-87.62228,255,0,0,89
-46.58995,-87.62374,255,0,0,89
-46.58970,-87.62541,255,0,0,89
-46.58931,-87.62597,255,0,0,89
-46.58927,-87.62681,255,0,0,89
-46.58977,-87.62698,255,0,0,89
-46.58967,-87.62897,255,0,0,89
-46.59016,-87.63067,255,0,0,89
-46.59003,-87.63099,255,0,0,89
-46.58940,-87.63093,255,0,0,89
-46.58926,-87.63306,255,0,0,89
-46.58934,-87.63337,255,0,0,89
-46.58992,-87.63342,255,0,0,89
-46.59030,-87.63646,255,0,0,89
-46.59093,-87.63520,255,0,0,89
-46.59152,-87.63526,255,0,0,89
-46.59178,-87.63574,255,0,0,89
-46.59213,-87.63506,255,0,0,89
-46.59260,-87.63556,255,0,0,89
-46.59285,-87.63526,255,0,0,89
-46.59352,-87.63586,255,0,0,89
-46.59393,-87.63521,255,0,0,89
-46.59425,-87.63329,255,0,0,89
-46.59405,-87.63160,255,0,0,89
-46.59472,-87.63092,255,0,0,89
-46.59496,-87.63164,255,0,0,89
-46.59606,-87.63272,255,0,0,89
-46.59593,-87.63158,255,0,0,89
-46.59633,-87.63095,255,0,0,89
-46.59651,-87.63270,255,0,0,89
-46.59725,-87.63398,255,0,0,89
-46.59693,-87.63519,255,0,0,89
-46.59791,-87.63653,255,0,0,89
-46.59843,-87.63551,255,0,0,89
-46.59906,-87.63586,255,0,0,89
-46.59996,-87.63549,255,0,0,89
-46.60033,-87.63433,255,0,0,89
-46.60019,-87.63340,255,0,0,89
-46.59964,-87.63267,255,0,0,89
-46.59913,-87.63254,255,0,0,89
-46.59875,-87.63336,255,0,0,89
-46.59843,-87.63324,255,0,0,89
-46.59810,-87.63161,255,0,0,89
-46.59841,-87.63091,255,0,0,89
-46.59859,-87.63138,255,0,0,89
-46.59955,-87.62912,255,0,0,89
-46.59930,-87.62861,255,0,0,89
-End:
 ; Perimeter: County Z 1 | Fire Name: County Z 1\nPerimeter Acreage: 3 Acres\nContainment: Not reported\nSource: NIFC WFIGS current fire perimeters
 Polygon:
 44.99328,-89.41780,255,0,0,89
@@ -329,14 +224,12 @@ Polygon:
 44.32791,-106.91658,255,0,0,89
 44.32705,-106.91971,255,0,0,89
 End:
-Icon: 46.59362,-87.61862,0,1,1,"Fire Name: Ridge\nFire Started: 10/9/2026\nCurrent Reported Acreage: 496 Acres\nContainment: 85% Contained"
 Icon: 35.48000,-119.05001,0,1,1,"Fire Name: CARRIER\nFire Started: 10/11/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 44.99367,-89.41780,0,1,1,"Fire Name: County Z 1\nFire Started: 10/19/2026\nCurrent Reported Acreage: 3 Acres\nContainment: Not reported"
 Icon: 44.99161,-89.41755,0,1,1,"Fire Name: County Z\nFire Started: 10/19/2026\nCurrent Reported Acreage: 2 Acres\nContainment: Not reported"
 Icon: 30.49528,-82.85778,0,1,1,"Fire Name: BEE HAVEN (2) (24-06)\nFire Started: 10/21/2026\nCurrent Reported Acreage: 2,060 Acres\nContainment: 85% Contained"
 Icon: 45.36078,-90.02798,0,1,1,"Fire Name: Tower\nFire Started: 10/21/2026\nCurrent Reported Acreage: 11 Acres\nContainment: Not reported"
 Icon: 43.37745,-89.67927,0,1,1,"Fire Name: HWY 113\nFire Started: 10/25/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 43.75654,-90.02795,0,1,1,"Fire Name: Hwy 12 Noe Rd\nFire Started: 10/25/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 43.73998,-89.93101,0,1,1,"Fire Name: MM 76\nFire Started: 10/27/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 42.64154,-73.30507,0,1,1,"Fire Name: Cherry Plain\nFire Started: 10/25/2026\nCurrent Reported Acreage: 251 Acres\nContainment: 99% Contained"
 Icon: 33.26267,-79.31400,0,1,1,"Fire Name: Hewitt Lane Fire\nFire Started: 10/22/2026\nCurrent Reported Acreage: 109 Acres\nContainment: 90% Contained"
@@ -387,5 +280,8 @@ Icon: 42.21639,-123.01851,0,1,1,"Fire Name: BLM-38-3-26.1\nFire Started: 11/7/20
 Icon: 33.87703,-118.14261,0,1,1,"Fire Name: LAC-404310\nFire Started: 11/8/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 45.34404,-118.68623,0,1,1,"Fire Name: Jungle\nFire Started: 11/7/2026\nCurrent Reported Acreage: 5 Acres\nContainment: Not reported"
 Icon: 33.12216,-92.70087,0,1,1,"Fire Name: Union 343\nFire Started: 11/8/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
-Icon: 40.43941,-122.41647,0,1,1,"Fire Name: OLINDA\nFire Started: 11/8/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-; Active wildfire incidents plotted: 59; available perimeters plotted: 7
+Icon: 40.43941,-122.41647,0,1,1,"Fire Name: OLINDA\nFire Started: 11/8/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
+Icon: 38.15410,-120.47419,0,1,1,"Fire Name: MERCER\nFire Started: 11/8/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+Icon: 36.82107,-83.55069,0,1,1,"Fire Name: Newtown Branch Road\nFire Started: 11/8/2026\nCurrent Reported Acreage: 0 Acres\nContainment: 0% Contained"
+Icon: 40.64937,-122.26884,0,1,1,"Fire Name: INTERMOUNTAIN RD  BELLAVISTA\nFire Started: 11/8/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+; Active wildfire incidents plotted: 60; available perimeters plotted: 6
