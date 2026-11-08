@@ -364,7 +364,6 @@ Icon: 36.71336,-83.30596,0,1,1,"Fire Name: White Cliffs\nFire Started: 11/1/2026
 Icon: 44.33059,-71.03128,0,1,1,"Fire Name: Wild River\nFire Started: 11/1/2026\nCurrent Reported Acreage: 856 Acres\nContainment: 20% Contained"
 Icon: 45.03871,-90.91709,0,1,1,"Fire Name: Par\nFire Started: 11/1/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 42.30281,-71.63663,0,1,1,"Fire Name: FD070082\nFire Started: 11/3/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 33.92400,-118.30909,0,1,1,"Fire Name: LAC-399836\nFire Started: 11/5/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 33.82601,-118.21904,0,1,1,"Fire Name: LAC-400054\nFire Started: 11/5/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 48.45084,-112.98724,0,1,1,"Fire Name: STOCK YARD\nFire Started: 11/4/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 40.97139,-74.53135,0,1,1,"Fire Name: Gorge Road\nFire Started: 11/4/2026\nCurrent Reported Acreage: 61 Acres\nContainment: Not reported"
@@ -405,4 +404,5 @@ Icon: 33.96501,-118.37127,0,1,1,"Fire Name: LAC-403491\nFire Started: 11/7/2026\
 Icon: 38.69925,-120.85100,0,1,1,"Fire Name: MOTHER\nFire Started: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 34.57692,-118.13355,0,1,1,"Fire Name: LAC-403588\nFire Started: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 33.91710,-118.10461,0,1,1,"Fire Name: LAC-403794\nFire Started: 11/8/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
+Icon: 33.96660,-118.37101,0,1,1,"Fire Name: LAC-403920\nFire Started: 11/8/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 ; Active wildfire incidents plotted: 64; available perimeters plotted: 8
