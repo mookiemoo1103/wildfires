@@ -134,18 +134,6 @@ Polygon:
 44.99181,-89.41792,255,0,0,89
 44.99248,-89.41791,255,0,0,89
 End:
-; Perimeter: Cambridge | Fire Name: Cambridge\nPerimeter Acreage: 0 Acres\nContainment: Not reported\nSource: NIFC WFIGS current fire perimeters
-Polygon:
-44.08524,-90.96395,255,0,0,89
-44.08527,-90.96394,255,0,0,89
-44.08528,-90.96393,255,0,0,89
-44.08524,-90.96395,255,0,0,89
-44.08506,-90.96427,255,0,0,89
-44.08533,-90.96476,255,0,0,89
-44.08576,-90.96457,255,0,0,89
-44.08547,-90.96386,255,0,0,89
-44.08506,-90.96427,255,0,0,89
-End:
 ; Perimeter: Tower | Fire Name: Tower\nPerimeter Acreage: 11 Acres\nContainment: Not reported\nSource: NIFC WFIGS current fire perimeters
 Polygon:
 45.36084,-90.02770,255,0,0,89
@@ -343,11 +331,9 @@ Polygon:
 End:
 Icon: 46.59362,-87.61862,0,1,1,"Fire Name: Ridge\nFire Started: 10/9/2026\nCurrent Reported Acreage: 496 Acres\nContainment: 85% Contained"
 Icon: 35.48000,-119.05001,0,1,1,"Fire Name: CARRIER\nFire Started: 10/11/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-Icon: 43.73987,-89.64272,0,1,1,"Fire Name: Fur Dr\nFire Started: 10/10/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 44.99367,-89.41780,0,1,1,"Fire Name: County Z 1\nFire Started: 10/19/2026\nCurrent Reported Acreage: 3 Acres\nContainment: Not reported"
 Icon: 44.99161,-89.41755,0,1,1,"Fire Name: County Z\nFire Started: 10/19/2026\nCurrent Reported Acreage: 2 Acres\nContainment: Not reported"
 Icon: 43.75627,-89.96293,0,1,1,"Fire Name: MM 78.4\nFire Started: 10/21/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 44.08521,-90.96429,0,1,1,"Fire Name: Cambridge\nFire Started: 10/22/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
 Icon: 30.49528,-82.85778,0,1,1,"Fire Name: BEE HAVEN (2) (24-06)\nFire Started: 10/21/2026\nCurrent Reported Acreage: 2,060 Acres\nContainment: 85% Contained"
 Icon: 45.36078,-90.02798,0,1,1,"Fire Name: Tower\nFire Started: 10/21/2026\nCurrent Reported Acreage: 11 Acres\nContainment: Not reported"
 Icon: 43.37745,-89.67927,0,1,1,"Fire Name: HWY 113\nFire Started: 10/25/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
@@ -362,7 +348,6 @@ Icon: 33.32391,-86.09900,0,1,1,"Fire Name: Weewoka Creek\nFire Started: 11/1/202
 Icon: 36.71336,-83.30596,0,1,1,"Fire Name: White Cliffs\nFire Started: 11/1/2026\nCurrent Reported Acreage: 30 Acres\nContainment: 90% Contained"
 Icon: 44.33059,-71.03128,0,1,1,"Fire Name: Wild River\nFire Started: 11/1/2026\nCurrent Reported Acreage: 856 Acres\nContainment: 20% Contained"
 Icon: 45.03871,-90.91709,0,1,1,"Fire Name: Par\nFire Started: 11/1/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 48.45084,-112.98724,0,1,1,"Fire Name: STOCK YARD\nFire Started: 11/4/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 40.97139,-74.53135,0,1,1,"Fire Name: Gorge Road\nFire Started: 11/4/2026\nCurrent Reported Acreage: 61 Acres\nContainment: Not reported"
 Icon: 44.31872,-106.93256,0,1,1,"Fire Name: FOOT CREEK\nFire Started: 11/5/2026\nCurrent Reported Acreage: 532 Acres\nContainment: 41% Contained"
 Icon: 35.90406,-117.90126,0,1,1,"Fire Name: BROWN\nFire Started: 11/5/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
@@ -401,4 +386,4 @@ Icon: 38.69925,-120.85100,0,1,1,"Fire Name: MOTHER\nFire Started: 11/7/2026\nCur
 Icon: 34.57692,-118.13355,0,1,1,"Fire Name: LAC-403588\nFire Started: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 33.91710,-118.10461,0,1,1,"Fire Name: LAC-403794\nFire Started: 11/8/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 33.96660,-118.37101,0,1,1,"Fire Name: LAC-403920\nFire Started: 11/8/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-; Active wildfire incidents plotted: 60; available perimeters plotted: 8
+; Active wildfire incidents plotted: 57; available perimeters plotted: 7
