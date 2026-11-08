@@ -339,10 +339,7 @@ Icon: 45.36078,-90.02798,0,1,1,"Fire Name: Tower\nFire Started: 10/21/2026\nCurr
 Icon: 43.37745,-89.67927,0,1,1,"Fire Name: HWY 113\nFire Started: 10/25/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 43.75654,-90.02795,0,1,1,"Fire Name: Hwy 12 Noe Rd\nFire Started: 10/25/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 43.73998,-89.93101,0,1,1,"Fire Name: MM 76\nFire Started: 10/27/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 42.28512,-72.45253,0,1,1,"Fire Name: FD10017\nFire Started: 10/15/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 42.28770,-72.38126,0,1,1,"Fire Name: FD10018\nFire Started: 10/20/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 42.64154,-73.30507,0,1,1,"Fire Name: Cherry Plain\nFire Started: 10/25/2026\nCurrent Reported Acreage: 251 Acres\nContainment: 99% Contained"
-Icon: 42.26111,-72.70388,0,1,1,"Fire Name: FD10021\nFire Started: 10/26/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 33.26267,-79.31400,0,1,1,"Fire Name: Hewitt Lane Fire\nFire Started: 10/22/2026\nCurrent Reported Acreage: 109 Acres\nContainment: 90% Contained"
 Icon: 33.32391,-86.09900,0,1,1,"Fire Name: Weewoka Creek\nFire Started: 11/1/2026\nCurrent Reported Acreage: 13 Acres\nContainment: Not reported"
 Icon: 36.71336,-83.30596,0,1,1,"Fire Name: White Cliffs\nFire Started: 11/1/2026\nCurrent Reported Acreage: 30 Acres\nContainment: 90% Contained"
@@ -367,7 +364,6 @@ Icon: 34.29449,-118.35872,0,1,1,"Fire Name: ARROW\nFire Started: 11/7/2026\nCurr
 Icon: 34.29499,-118.35801,0,1,1,"Fire Name: ARROW\nFire Started: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 33.93084,-118.17871,0,1,1,"Fire Name: LAC-402732\nFire Started: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 34.03665,-118.16101,0,1,1,"Fire Name: LAC-402851\nFire Started: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-Icon: 32.00451,-89.25987,0,1,1,"Fire Name: Tower\nFire Started: 11/7/2026\nCurrent Reported Acreage: 2 Acres\nContainment: Not reported"
 Icon: 33.94427,-118.32552,0,1,1,"Fire Name: LAC-402958\nFire Started: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 34.00516,-117.95836,0,1,1,"Fire Name: LAC-403013\nFire Started: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 29.11789,-81.71550,0,1,1,"Fire Name: Bombing Range 10\nFire Started: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
@@ -389,6 +385,6 @@ Icon: 33.91710,-118.10461,0,1,1,"Fire Name: LAC-403794\nFire Started: 11/8/2026\
 Icon: 33.96660,-118.37101,0,1,1,"Fire Name: LAC-403920\nFire Started: 11/8/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 38.84504,-79.42197,0,1,1,"Fire Name: Allegheny Drive\nFire Started: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 42.21639,-123.01851,0,1,1,"Fire Name: BLM-38-3-26.1\nFire Started: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 37.76745,-82.97642,0,1,1,"Fire Name: Upper Mash Fork\nFire Started: 11/8/2026\nCurrent Reported Acreage: 1 Acres\nContainment: 0% Contained"
 Icon: 33.87703,-118.14261,0,1,1,"Fire Name: LAC-404310\nFire Started: 11/8/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-; Active wildfire incidents plotted: 62; available perimeters plotted: 7
+Icon: 43.35641,-116.23229,0,1,1,"Fire Name: VALLEY\nFire Started: 11/8/2026\nCurrent Reported Acreage: 2 Acres\nContainment: Not reported"
+; Active wildfire incidents plotted: 58; available perimeters plotted: 7
