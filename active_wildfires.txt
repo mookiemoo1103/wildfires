@@ -344,7 +344,6 @@ Icon: 36.71336,-83.30596,0,1,1,"Fire Name: White Cliffs\nFire Started: 11/1/2026
 Icon: 44.33059,-71.03128,0,1,1,"Fire Name: Wild River\nFire Started: 11/1/2026\nCurrent Reported Acreage: 856 Acres\nContainment: 20% Contained"
 Icon: 45.03871,-90.91709,0,1,1,"Fire Name: Par\nFire Started: 11/1/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 42.30281,-71.63663,0,1,1,"Fire Name: FD070082\nFire Started: 11/3/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 41.74114,-69.96938,0,1,1,"Fire Name: Horseshoe Lane\nFire Started: 11/4/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 34.55826,-117.59608,0,1,1,"Fire Name: MTZ/BDC/RANCHO\nFire Started: 11/4/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 33.92400,-118.30909,0,1,1,"Fire Name: LAC-399836\nFire Started: 11/5/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 33.82601,-118.21904,0,1,1,"Fire Name: LAC-400054\nFire Started: 11/5/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
@@ -382,11 +381,10 @@ Icon: 34.98370,-92.40142,0,1,1,"Fire Name: Faulkner 223\nFire Started: 11/7/2026
 Icon: 34.07295,-117.77831,0,1,1,"Fire Name: LAC-403202\nFire Started: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 33.94153,-118.18152,0,1,1,"Fire Name: LAC-403235\nFire Started: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 33.35020,-92.17307,0,1,1,"Fire Name: Bradley 357\nFire Started: 11/7/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
-Icon: 45.49546,-118.09340,0,1,1,"Fire Name: Lyons Canyon\nFire Started: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 40.36521,-120.63828,0,1,1,"Fire Name: FLORENCE\nFire Started: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 34.60916,-118.14774,0,1,1,"Fire Name: LAC-403366\nFire Started: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-Icon: 40.89370,-121.18354,0,1,1,"Fire Name: VALLEY\nFire Started: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 40.14376,-120.90073,0,1,1,"Fire Name: BLUE KNOLL\nFire Started: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 33.92393,-118.30934,0,1,1,"Fire Name: LAC-403382\nFire Started: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-Icon: 38.65344,-120.70402,0,1,1,"Fire Name: BUCKS BAR CIR  OAK_HILL\nFire Started: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-; Active wildfire incidents plotted: 68; available perimeters plotted: 8
+Icon: 38.65344,-120.70402,0,1,1,"Fire Name: BUCKS\nFire Started: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+Icon: 34.11987,-117.78671,0,1,1,"Fire Name: LAC-403445\nFire Started: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
+Icon: 33.96501,-118.37127,0,1,1,"Fire Name: LAC-403491\nFire Started: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
+; Active wildfire incidents plotted: 66; available perimeters plotted: 8
