@@ -389,6 +389,6 @@ Icon: 33.91710,-118.10461,0,1,1,"Fire Name: LAC-403794\nFire Started: 11/8/2026\
 Icon: 33.96660,-118.37101,0,1,1,"Fire Name: LAC-403920\nFire Started: 11/8/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 38.84504,-79.42197,0,1,1,"Fire Name: Allegheny Drive\nFire Started: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 42.21639,-123.01851,0,1,1,"Fire Name: BLM-38-3-26.1\nFire Started: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 33.97337,-93.17259,0,1,1,"Fire Name: Clark 286\nFire Started: 11/8/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
-Icon: 37.76745,-82.97642,0,1,1,"Fire Name: Magoffin County - 439 Upper Mash Fork Road\nFire Started: 11/8/2026\nCurrent Reported Acreage: 1 Acres\nContainment: 0% Contained"
+Icon: 37.76745,-82.97642,0,1,1,"Fire Name: Upper Mash Fork\nFire Started: 11/8/2026\nCurrent Reported Acreage: 1 Acres\nContainment: 0% Contained"
+Icon: 33.87703,-118.14261,0,1,1,"Fire Name: LAC-404310\nFire Started: 11/8/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 ; Active wildfire incidents plotted: 62; available perimeters plotted: 7
