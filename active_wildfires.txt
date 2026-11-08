@@ -271,7 +271,7 @@ Icon: 33.92393,-118.30934,0,1,1,"Fire Name: LAC-403382\nFire Started: 11/7/2026\
 Icon: 38.65344,-120.70402,0,1,1,"Fire Name: BUCKS\nFire Started: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 34.11987,-117.78671,0,1,1,"Fire Name: LAC-403445\nFire Started: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 33.96501,-118.37127,0,1,1,"Fire Name: LAC-403491\nFire Started: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-Icon: 38.69925,-120.85100,0,1,1,"Fire Name: MOTHER\nFire Started: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+Icon: 38.69932,-120.85106,0,1,1,"Fire Name: MOTHER\nFire Started: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 34.57692,-118.13355,0,1,1,"Fire Name: LAC-403588\nFire Started: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 33.91710,-118.10461,0,1,1,"Fire Name: LAC-403794\nFire Started: 11/8/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 33.96660,-118.37101,0,1,1,"Fire Name: LAC-403920\nFire Started: 11/8/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
@@ -283,5 +283,5 @@ Icon: 33.12216,-92.70087,0,1,1,"Fire Name: Union 343\nFire Started: 11/8/2026\nC
 Icon: 40.43941,-122.41647,0,1,1,"Fire Name: OLINDA\nFire Started: 11/8/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
 Icon: 38.15410,-120.47419,0,1,1,"Fire Name: MERCER\nFire Started: 11/8/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 36.82107,-83.55069,0,1,1,"Fire Name: Newtown Branch Road\nFire Started: 11/8/2026\nCurrent Reported Acreage: 0 Acres\nContainment: 0% Contained"
-Icon: 40.64937,-122.26884,0,1,1,"Fire Name: INTERMOUNTAIN RD  BELLAVISTA\nFire Started: 11/8/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+Icon: 40.64937,-122.26884,0,1,1,"Fire Name: KEITH\nFire Started: 11/8/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 ; Active wildfire incidents plotted: 60; available perimeters plotted: 6
