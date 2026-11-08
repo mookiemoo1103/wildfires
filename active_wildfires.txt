@@ -82,7 +82,7 @@ Polygon:
 42.64250,-73.31170,255,0,0,89
 42.64258,-73.31273,255,0,0,89
 End:
-; Perimeter: Wild River | Fire Name: Wild River\nPerimeter Acreage: 821 Acres\nContainment: 20% Contained\nSource: NIFC WFIGS current fire perimeters
+; Perimeter: Wild River | Fire Name: Wild River\nPerimeter Acreage: 821 Acres\nContainment: 29% Contained\nSource: NIFC WFIGS current fire perimeters
 Polygon:
 44.34711,-71.04099,255,0,0,89
 44.34673,-71.04043,255,0,0,89
@@ -224,6 +224,29 @@ Polygon:
 44.32791,-106.91658,255,0,0,89
 44.32705,-106.91971,255,0,0,89
 End:
+; Perimeter: LON - Mill Creek | Fire Name: LON - Mill Creek\nPerimeter Acreage: Not reported\nContainment: Not reported\nSource: NIFC WFIGS current fire perimeters
+Polygon:
+37.38416,-83.99004,255,0,0,89
+37.38454,-83.99048,255,0,0,89
+37.38538,-83.98995,255,0,0,89
+37.38563,-83.98883,255,0,0,89
+37.38538,-83.98874,255,0,0,89
+37.38541,-83.98804,255,0,0,89
+37.38407,-83.98911,255,0,0,89
+37.38416,-83.99004,255,0,0,89
+37.38405,-83.98933,255,0,0,89
+37.38407,-83.98932,255,0,0,89
+37.38406,-83.98936,255,0,0,89
+37.38405,-83.98933,255,0,0,89
+37.38418,-83.98913,255,0,0,89
+37.38421,-83.98912,255,0,0,89
+37.38421,-83.98912,255,0,0,89
+37.38418,-83.98913,255,0,0,89
+37.38439,-83.99035,255,0,0,89
+37.38439,-83.99031,255,0,0,89
+37.38441,-83.99034,255,0,0,89
+37.38439,-83.99035,255,0,0,89
+End:
 Icon: 35.48000,-119.05001,0,1,1,"Fire Name: CARRIER\nFire Started: 10/11/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 44.99367,-89.41780,0,1,1,"Fire Name: County Z 1\nFire Started: 10/19/2026\nCurrent Reported Acreage: 3 Acres\nContainment: Not reported"
 Icon: 44.99161,-89.41755,0,1,1,"Fire Name: County Z\nFire Started: 10/19/2026\nCurrent Reported Acreage: 2 Acres\nContainment: Not reported"
@@ -235,8 +258,7 @@ Icon: 42.64154,-73.30507,0,1,1,"Fire Name: Cherry Plain\nFire Started: 10/25/202
 Icon: 33.26267,-79.31400,0,1,1,"Fire Name: Hewitt Lane Fire\nFire Started: 10/22/2026\nCurrent Reported Acreage: 109 Acres\nContainment: 90% Contained"
 Icon: 33.32391,-86.09900,0,1,1,"Fire Name: Weewoka Creek\nFire Started: 11/1/2026\nCurrent Reported Acreage: 13 Acres\nContainment: Not reported"
 Icon: 36.71336,-83.30596,0,1,1,"Fire Name: White Cliffs\nFire Started: 11/1/2026\nCurrent Reported Acreage: 30 Acres\nContainment: 90% Contained"
-Icon: 44.33059,-71.03128,0,1,1,"Fire Name: Wild River\nFire Started: 11/1/2026\nCurrent Reported Acreage: 856 Acres\nContainment: 20% Contained"
-Icon: 45.03871,-90.91709,0,1,1,"Fire Name: Par\nFire Started: 11/1/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+Icon: 44.33059,-71.03128,0,1,1,"Fire Name: Wild River\nFire Started: 11/1/2026\nCurrent Reported Acreage: 821 Acres\nContainment: 29% Contained"
 Icon: 40.97139,-74.53135,0,1,1,"Fire Name: Gorge Road\nFire Started: 11/4/2026\nCurrent Reported Acreage: 61 Acres\nContainment: Not reported"
 Icon: 44.31872,-106.93256,0,1,1,"Fire Name: FOOT CREEK\nFire Started: 11/5/2026\nCurrent Reported Acreage: 683 Acres\nContainment: 36% Contained"
 Icon: 35.90406,-117.90126,0,1,1,"Fire Name: BROWN\nFire Started: 11/5/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
@@ -279,11 +301,12 @@ Icon: 38.84504,-79.42197,0,1,1,"Fire Name: Allegheny Drive\nFire Started: 11/7/2
 Icon: 42.21639,-123.01851,0,1,1,"Fire Name: BLM-38-3-26.1\nFire Started: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 33.87703,-118.14261,0,1,1,"Fire Name: LAC-404310\nFire Started: 11/8/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 45.34404,-118.68623,0,1,1,"Fire Name: Jungle\nFire Started: 11/7/2026\nCurrent Reported Acreage: 5 Acres\nContainment: Not reported"
-Icon: 33.12216,-92.70087,0,1,1,"Fire Name: Union 343\nFire Started: 11/8/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
-Icon: 40.43941,-122.41647,0,1,1,"Fire Name: OLINDA\nFire Started: 11/8/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
+Icon: 40.44077,-122.41716,0,1,1,"Fire Name: OLINDA\nFire Started: 11/8/2026\nCurrent Reported Acreage: 3 Acres\nContainment: Not reported"
 Icon: 40.64937,-122.26884,0,1,1,"Fire Name: KEITH\nFire Started: 11/8/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
 Icon: 39.48354,-82.18050,0,1,1,"Fire Name: Long Run\nFire Started: 11/8/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 37.38446,-83.99019,0,1,1,"Fire Name: LON - Mill Creek\nFire Started: 11/8/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
+Icon: 37.38446,-83.99019,0,1,1,"Fire Name: LON - Mill Creek\nFire Started: 11/8/2026\nCurrent Reported Acreage: 6 Acres\nContainment: Not reported"
 Icon: 38.27917,-120.37185,0,1,1,"Fire Name: SUMMIT\nFire Started: 11/8/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 39.23195,-121.09561,0,1,1,"Fire Name: MOINTAINEER\nFire Started: 11/8/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-; Active wildfire incidents plotted: 62; available perimeters plotted: 6
+Icon: 39.23195,-121.09561,0,1,1,"Fire Name: MOUNTAINEER\nFire Started: 11/8/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+Icon: 34.06134,-117.78912,0,1,1,"Fire Name: LAC-404642\nFire Started: 11/8/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
+Icon: 35.21112,-87.80936,0,1,1,"Fire Name: Wayne - Downing Hollow Road\nFire Started: 11/8/2026\nCurrent Reported Acreage: 0 Acres\nContainment: 0% Contained"
+; Active wildfire incidents plotted: 62; available perimeters plotted: 7
