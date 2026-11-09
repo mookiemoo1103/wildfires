@@ -262,7 +262,6 @@ Icon: 44.33059,-71.03128,0,1,1,"Fire Name: Wild River\nFire Started: 11/1/2026\n
 Icon: 40.97139,-74.53135,0,1,1,"Fire Name: Gorge Road\nFire Started: 11/4/2026\nCurrent Reported Acreage: 61 Acres\nContainment: Not reported"
 Icon: 44.31872,-106.93256,0,1,1,"Fire Name: FOOT CREEK\nFire Started: 11/5/2026\nCurrent Reported Acreage: 683 Acres\nContainment: 36% Contained"
 Icon: 35.90406,-117.90126,0,1,1,"Fire Name: BROWN\nFire Started: 11/5/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 42.47901,-123.45615,0,1,1,"Fire Name: Ewe Creek\nFire Started: 11/5/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 34.13509,-117.98629,0,1,1,"Fire Name: LAC-400809\nFire Started: 11/5/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 34.26001,-94.25791,0,1,1,"Fire Name: Polk 174\nFire Started: 11/5/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
 Icon: 34.67487,-118.16070,0,1,1,"Fire Name: LAC-401094\nFire Started: 11/5/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
@@ -292,6 +291,7 @@ Icon: 34.60916,-118.14774,0,1,1,"Fire Name: LAC-403366\nFire Started: 11/7/2026\
 Icon: 33.92393,-118.30934,0,1,1,"Fire Name: LAC-403382\nFire Started: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 38.65344,-120.70402,0,1,1,"Fire Name: BUCKS\nFire Started: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 34.11987,-117.78671,0,1,1,"Fire Name: LAC-403445\nFire Started: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
+Icon: 38.27917,-120.37168,0,1,1,"Fire Name: TCU SUMMIT\nFire Started: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 33.96501,-118.37127,0,1,1,"Fire Name: LAC-403491\nFire Started: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 38.69932,-120.85106,0,1,1,"Fire Name: MOTHER\nFire Started: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 34.57692,-118.13355,0,1,1,"Fire Name: LAC-403588\nFire Started: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
@@ -308,4 +308,7 @@ Icon: 34.06134,-117.78912,0,1,1,"Fire Name: LAC-404642\nFire Started: 11/8/2026\
 Icon: 34.57034,-118.68680,0,1,1,"Fire Name: GOLDEN\nFire Started: 11/8/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 36.57499,-120.70036,0,1,1,"Fire Name: RANGE\nFire Started: 11/8/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 31.89352,-94.48727,0,1,1,"Fire Name: Rusk 9882\nFire Started: 11/8/2026\nCurrent Reported Acreage: 0 Acres\nContainment: 0% Contained"
-; Active wildfire incidents plotted: 61; available perimeters plotted: 7
+Icon: 38.43439,-121.99660,0,1,1,"Fire Name: GLEN\nFire Started: 11/8/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+Icon: 33.38715,-117.17449,0,1,1,"Fire Name: MISSION 7\nFire Started: 11/8/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
+Icon: 36.64969,-120.65591,0,1,1,"Fire Name: O29\nFire Started: 11/8/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
+; Active wildfire incidents plotted: 64; available perimeters plotted: 7
