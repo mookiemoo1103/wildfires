@@ -314,7 +314,6 @@ Polygon:
 44.32791,-106.91658,255,0,0,89
 44.32705,-106.91971,255,0,0,89
 End:
-Icon: 35.48000,-119.05001,0,1,1,"Fire Name: CARRIER\nFire Started: 10/11/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 46.39992,-93.74982,0,1,1,"Fire Name: Tame Fish 2\nFire Started: 10/10/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 45.31394,-91.39853,0,1,1,"Fire Name: Island Lake\nFire Started: 10/20/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 43.75627,-89.96293,0,1,1,"Fire Name: MM 78.4\nFire Started: 10/21/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
@@ -379,14 +378,13 @@ Icon: 36.65636,-120.66649,0,1,1,"Fire Name: ILLEGAL BURNING IN WILDLAND\nFire St
 Icon: 34.71877,-118.11229,0,1,1,"Fire Name: LAC-404830\nFire Started: 11/8/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 34.68285,-118.13421,0,1,1,"Fire Name: LAC-404865\nFire Started: 11/8/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 48.57306,-112.89168,0,1,1,"Fire Name: BLACKFOOT\nFire Started: 11/5/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-Icon: 36.44656,-84.23785,0,1,1,"Fire Name: Campbell - Glassman Way\nFire Started: 11/8/2026\nCurrent Reported Acreage: 115 Acres\nContainment: 40% Contained"
+Icon: 36.44656,-84.23785,0,1,1,"Fire Name: Campbell - Glassman Way\nFire Started: 11/8/2026\nCurrent Reported Acreage: 115 Acres\nContainment: 65% Contained"
 Icon: 34.01574,-117.84976,0,1,1,"Fire Name: LAC-405228\nFire Started: 11/9/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 45.69674,-88.14187,0,1,1,"Fire Name: Bolt\nFire Started: 11/6/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 34.68765,-118.13503,0,1,1,"Fire Name: LAC-405512\nFire Started: 11/9/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 43.87968,-90.14017,0,1,1,"Fire Name: Outskirts\nFire Started: 11/8/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 43.82232,-89.93343,0,1,1,"Fire Name: Marion\nFire Started: 11/8/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 34.46947,-117.76511,0,1,1,"Fire Name: LARGO\nFire Started: 11/9/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-Icon: 37.47274,-82.21681,0,1,1,"Fire Name: Ash Lick Fork\nFire Started: 11/9/2026\nCurrent Reported Acreage: 10 Acres\nContainment: 50% Contained"
 Icon: 46.09558,-100.63625,0,1,1,"Fire Name: Lazy\nFire Started: 11/8/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 41.53269,-122.96058,0,1,1,"Fire Name: KIDDER\nFire Started: 11/8/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 37.78684,-122.50665,0,1,1,"Fire Name: Mile Rock 2\nFire Started: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
@@ -399,10 +397,11 @@ Icon: 43.96196,-90.49445,0,1,1,"Fire Name: Knot\nFire Started: 11/9/2026\nCurren
 Icon: 30.03204,-84.40270,0,1,1,"Fire Name: Lake Avenue N 0549\nFire Started: 11/9/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 43.96196,-90.49445,0,1,1,"Fire Name: Knee\nFire Started: 11/9/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 33.42117,-117.14534,0,1,1,"Fire Name: SDU/RAINBOW6\nFire Started: 11/9/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 37.49511,-82.84740,0,1,1,"Fire Name: Bosco Tipple Road\nFire Started: 11/9/2026\nCurrent Reported Acreage: 4 Acres\nContainment: 40% Contained"
 Icon: 47.86253,-92.92811,0,1,1,"Fire Name: Last Call\nFire Started: 11/9/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 30.96767,-93.10956,0,1,1,"Fire Name: Big Branch\nFire Started: 11/9/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 40.30392,-121.04011,0,1,1,"Fire Name: AIRPORT\nFire Started: 11/9/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+Icon: 40.30862,-121.03286,0,1,1,"Fire Name: AIRPORT\nFire Started: 11/9/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 36.94640,-83.71626,0,1,1,"Fire Name: Parkers Branch\nFire Started: 11/9/2026\nCurrent Reported Acreage: 3 Acres\nContainment: 0% Contained"
 Icon: 35.42299,-117.75670,0,1,1,"Fire Name: GARLOCK\nFire Started: 11/9/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-; Active wildfire incidents plotted: 91; available perimeters plotted: 13
+Icon: 45.12071,-119.36518,0,1,1,"Fire Name: Wee Lambie\nFire Started: 11/9/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+Icon: 34.63113,-118.12990,0,1,1,"Fire Name: LAC-406080\nFire Started: 11/9/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
+; Active wildfire incidents plotted: 90; available perimeters plotted: 13
