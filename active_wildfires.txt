@@ -228,6 +228,8 @@ Polygon:
 37.38416,-83.99004,255,0,0,89
 End:
 Icon: 35.48000,-119.05001,0,1,1,"Fire Name: CARRIER\nFire Started: 10/11/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
+Icon: 46.43547,-93.64241,0,1,1,"Fire Name: Long Lake Rd\nFire Started: 10/10/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+Icon: 46.39992,-93.74982,0,1,1,"Fire Name: Tame Fish 2\nFire Started: 10/10/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 45.31394,-91.39853,0,1,1,"Fire Name: Island Lake\nFire Started: 10/20/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 43.75627,-89.96293,0,1,1,"Fire Name: MM 78.4\nFire Started: 10/21/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 30.49528,-82.85778,0,1,1,"Fire Name: BEE HAVEN (2) (24-06)\nFire Started: 10/21/2026\nCurrent Reported Acreage: 2,060 Acres\nContainment: 85% Contained"
@@ -244,8 +246,6 @@ Icon: 44.33059,-71.03128,0,1,1,"Fire Name: Wild River\nFire Started: 11/1/2026\n
 Icon: 40.97139,-74.53135,0,1,1,"Fire Name: Gorge Road\nFire Started: 11/4/2026\nCurrent Reported Acreage: 61 Acres\nContainment: Not reported"
 Icon: 44.31872,-106.93256,0,1,1,"Fire Name: FOOT CREEK\nFire Started: 11/5/2026\nCurrent Reported Acreage: 683 Acres\nContainment: 36% Contained"
 Icon: 35.90406,-117.90126,0,1,1,"Fire Name: BROWN\nFire Started: 11/5/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 34.73365,-118.07697,0,1,1,"Fire Name: LAC-401562\nFire Started: 11/6/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-Icon: 33.91084,-118.16891,0,1,1,"Fire Name: LAC-401583\nFire Started: 11/6/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 41.31764,-123.52665,0,1,1,"Fire Name: Pear\nFire Started: 11/6/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 41.61325,-122.59575,0,1,1,"Fire Name: GUYS\nFire Started: 11/6/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
 Icon: 32.83119,-116.62834,0,1,1,"Fire Name: MOTORHOME\nFire Started: 11/6/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
@@ -264,7 +264,6 @@ Icon: 41.88201,-122.22451,0,1,1,"Fire Name: EAGLE\nFire Started: 11/7/2026\nCurr
 Icon: 34.42466,-118.53929,0,1,1,"Fire Name: BAR\nFire Started: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 34.07295,-117.77831,0,1,1,"Fire Name: LAC-403202\nFire Started: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 33.94153,-118.18152,0,1,1,"Fire Name: LAC-403235\nFire Started: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-Icon: 33.35020,-92.17307,0,1,1,"Fire Name: Bradley 357\nFire Started: 11/7/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
 Icon: 34.60916,-118.14774,0,1,1,"Fire Name: LAC-403366\nFire Started: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 33.92393,-118.30934,0,1,1,"Fire Name: LAC-403382\nFire Started: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 38.65344,-120.70402,0,1,1,"Fire Name: BUCKS\nFire Started: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
@@ -298,4 +297,7 @@ Icon: 46.09558,-100.63625,0,1,1,"Fire Name: Lazy\nFire Started: 11/8/2026\nCurre
 Icon: 41.53269,-122.96058,0,1,1,"Fire Name: KIDDER\nFire Started: 11/8/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 37.78684,-122.50665,0,1,1,"Fire Name: Mile Rock 2\nFire Started: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 42.58805,-121.71677,0,1,1,"Fire Name: MA #19\nFire Started: 11/6/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-; Active wildfire incidents plotted: 71; available perimeters plotted: 7
+Icon: 38.71594,-117.36914,0,1,1,"Fire Name: Peavine\nFire Started: 11/8/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+Icon: 39.49306,-120.53235,0,1,1,"Fire Name: EAST MEADOW\nFire Started: 11/9/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+Icon: 47.67581,-117.18181,0,1,1,"Fire Name: FLORA PIT\nFire Started: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+; Active wildfire incidents plotted: 73; available perimeters plotted: 7
