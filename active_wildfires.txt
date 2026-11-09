@@ -7,28 +7,6 @@ Title: Active Wildfires - Last 30 Days (NIFC) with Perimeters
 RefreshSeconds: 300
 Font: 1, 12, 1, "Arial"
 IconFile: 1, 128, 128, 64, 64, "https://raw.githubusercontent.com/mookiemoo1103/wildfires/main/assets/fire_icon.png"
-; Perimeter: County Z 1 | Fire Name: County Z 1\nPerimeter Acreage: 3 Acres\nContainment: Not reported\nSource: NIFC WFIGS current fire perimeters
-Polygon:
-44.99328,-89.41780,255,0,0,89
-44.99420,-89.41777,255,0,0,89
-44.99396,-89.41642,255,0,0,89
-44.99327,-89.41606,255,0,0,89
-44.99288,-89.41693,255,0,0,89
-44.99328,-89.41780,255,0,0,89
-44.99399,-89.41675,255,0,0,89
-44.99400,-89.41673,255,0,0,89
-44.99398,-89.41664,255,0,0,89
-44.99399,-89.41675,255,0,0,89
-End:
-; Perimeter: County Z | Fire Name: County Z\nPerimeter Acreage: 2 Acres\nContainment: Not reported\nSource: NIFC WFIGS current fire perimeters
-Polygon:
-44.99248,-89.41791,255,0,0,89
-44.99287,-89.41783,255,0,0,89
-44.99226,-89.41719,255,0,0,89
-44.99167,-89.41728,255,0,0,89
-44.99181,-89.41792,255,0,0,89
-44.99248,-89.41791,255,0,0,89
-End:
 ; Perimeter: Tower | Fire Name: Tower\nPerimeter Acreage: 11 Acres\nContainment: Not reported\nSource: NIFC WFIGS current fire perimeters
 Polygon:
 45.36084,-90.02770,255,0,0,89
@@ -248,8 +226,6 @@ Polygon:
 37.38439,-83.99035,255,0,0,89
 End:
 Icon: 35.48000,-119.05001,0,1,1,"Fire Name: CARRIER\nFire Started: 10/11/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-Icon: 44.99367,-89.41780,0,1,1,"Fire Name: County Z 1\nFire Started: 10/19/2026\nCurrent Reported Acreage: 3 Acres\nContainment: Not reported"
-Icon: 44.99161,-89.41755,0,1,1,"Fire Name: County Z\nFire Started: 10/19/2026\nCurrent Reported Acreage: 2 Acres\nContainment: Not reported"
 Icon: 30.49528,-82.85778,0,1,1,"Fire Name: BEE HAVEN (2) (24-06)\nFire Started: 10/21/2026\nCurrent Reported Acreage: 2,060 Acres\nContainment: 85% Contained"
 Icon: 45.36078,-90.02798,0,1,1,"Fire Name: Tower\nFire Started: 10/21/2026\nCurrent Reported Acreage: 11 Acres\nContainment: Not reported"
 Icon: 43.37745,-89.67927,0,1,1,"Fire Name: HWY 113\nFire Started: 10/25/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
@@ -307,4 +283,6 @@ Icon: 34.57034,-118.68680,0,1,1,"Fire Name: GOLDEN\nFire Started: 11/8/2026\nCur
 Icon: 36.65636,-120.66649,0,1,1,"Fire Name: ILLEGAL BURNING IN WILDLAND\nFire Started: 11/8/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 34.71877,-118.11229,0,1,1,"Fire Name: LAC-404830\nFire Started: 11/8/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 34.68285,-118.13421,0,1,1,"Fire Name: LAC-404865\nFire Started: 11/8/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-; Active wildfire incidents plotted: 60; available perimeters plotted: 7
+Icon: 48.57306,-112.89168,0,1,1,"Fire Name: BLACKFOOT\nFire Started: 11/5/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
+Icon: 36.49687,-84.23792,0,1,1,"Fire Name: Campbell - Glassman Way\nFire Started: 11/8/2026\nCurrent Reported Acreage: 45 Acres\nContainment: 10% Contained"
+; Active wildfire incidents plotted: 60; available perimeters plotted: 5
