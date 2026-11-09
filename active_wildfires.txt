@@ -60,6 +60,29 @@ Polygon:
 45.09970,-89.23443,255,0,0,89
 45.09969,-89.23445,255,0,0,89
 End:
+; Perimeter: Hill | Fire Name: Hill\nPerimeter Acreage: 0 Acres\nContainment: Not reported\nSource: NIFC WFIGS current fire perimeters
+Polygon:
+45.97233,-89.95437,255,0,0,89
+45.97296,-89.95439,255,0,0,89
+45.97260,-89.95409,255,0,0,89
+45.97233,-89.95437,255,0,0,89
+45.97233,-89.95437,255,0,0,89
+45.97230,-89.95436,255,0,0,89
+45.97230,-89.95438,255,0,0,89
+45.97233,-89.95437,255,0,0,89
+45.97227,-89.95437,255,0,0,89
+45.97228,-89.95436,255,0,0,89
+45.97226,-89.95433,255,0,0,89
+45.97227,-89.95437,255,0,0,89
+45.97230,-89.95436,255,0,0,89
+45.97229,-89.95435,255,0,0,89
+45.97228,-89.95436,255,0,0,89
+45.97230,-89.95436,255,0,0,89
+45.97228,-89.95436,255,0,0,89
+45.97228,-89.95436,255,0,0,89
+45.97228,-89.95436,255,0,0,89
+45.97228,-89.95436,255,0,0,89
+End:
 ; Perimeter: Oak Knob | Fire Name: Oak Knob\nPerimeter Acreage: 0 Acres\nContainment: Not reported\nSource: NIFC WFIGS current fire perimeters
 Polygon:
 45.54562,-88.04645,255,0,0,89
@@ -224,6 +247,16 @@ Polygon:
 44.34666,-71.04205,255,0,0,89
 44.34711,-71.04099,255,0,0,89
 End:
+; Perimeter: Lynx | Fire Name: Lynx\nPerimeter Acreage: 1 Acres\nContainment: Not reported\nSource: NIFC WFIGS current fire perimeters
+Polygon:
+43.24107,-91.05843,255,0,0,89
+43.24142,-91.05844,255,0,0,89
+43.24195,-91.05730,255,0,0,89
+43.24136,-91.05789,255,0,0,89
+43.24082,-91.05765,255,0,0,89
+43.24063,-91.05809,255,0,0,89
+43.24107,-91.05843,255,0,0,89
+End:
 ; Perimeter: Foot Creek | Fire Name: Foot Creek\nPerimeter Acreage: 683 Acres\nContainment: 36% Contained\nSource: NIFC WFIGS current fire perimeters
 Polygon:
 44.32705,-106.91971,255,0,0,89
@@ -292,6 +325,7 @@ Icon: 30.49528,-82.85778,0,1,1,"Fire Name: BEE HAVEN (2) (24-06)\nFire Started: 
 Icon: 45.36078,-90.02798,0,1,1,"Fire Name: Tower\nFire Started: 10/21/2026\nCurrent Reported Acreage: 11 Acres\nContainment: Not reported"
 Icon: 45.39467,-90.71593,0,1,1,"Fire Name: County M\nFire Started: 10/23/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 45.09966,-89.23414,0,1,1,"Fire Name: Springbrook\nFire Started: 10/15/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
+Icon: 45.97231,-89.95440,0,1,1,"Fire Name: Hill\nFire Started: 10/24/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 45.55708,-92.06443,0,1,1,"Fire Name: Sand Lake\nFire Started: 10/24/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 45.54548,-88.04637,0,1,1,"Fire Name: Oak Knob\nFire Started: 10/24/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 43.75654,-90.02795,0,1,1,"Fire Name: Hwy 12 Noe Rd\nFire Started: 10/25/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
@@ -301,6 +335,7 @@ Icon: 33.26267,-79.31400,0,1,1,"Fire Name: Hewitt Lane Fire\nFire Started: 10/22
 Icon: 33.32391,-86.09900,0,1,1,"Fire Name: Weewoka Creek\nFire Started: 11/1/2026\nCurrent Reported Acreage: 13 Acres\nContainment: Not reported"
 Icon: 36.71336,-83.30596,0,1,1,"Fire Name: White Cliffs\nFire Started: 11/1/2026\nCurrent Reported Acreage: 30 Acres\nContainment: 90% Contained"
 Icon: 44.33059,-71.03128,0,1,1,"Fire Name: Wild River\nFire Started: 11/1/2026\nCurrent Reported Acreage: 821 Acres\nContainment: 29% Contained"
+Icon: 43.24126,-91.05863,0,1,1,"Fire Name: Lynx\nFire Started: 11/1/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
 Icon: 40.97139,-74.53135,0,1,1,"Fire Name: Gorge Road\nFire Started: 11/4/2026\nCurrent Reported Acreage: 61 Acres\nContainment: Not reported"
 Icon: 44.31872,-106.93256,0,1,1,"Fire Name: FOOT CREEK\nFire Started: 11/5/2026\nCurrent Reported Acreage: 683 Acres\nContainment: 36% Contained"
 Icon: 35.90406,-117.90126,0,1,1,"Fire Name: BROWN\nFire Started: 11/5/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
@@ -360,11 +395,12 @@ Icon: 25.39785,-80.23410,0,1,1,"Fire Name: Adams Key\nFire Started: 11/9/2026\nC
 Icon: 39.11575,-120.84242,0,1,1,"Fire Name: IOWA\nFire Started: 11/9/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 43.96196,-90.49445,0,1,1,"Fire Name: Knot\nFire Started: 11/9/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 30.03204,-84.40270,0,1,1,"Fire Name: Lake Avenue N 0549\nFire Started: 11/9/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 36.72435,-83.55160,0,1,1,"Fire Name: Blacklick Branch Road\nFire Started: 11/9/2026\nCurrent Reported Acreage: 1 Acres\nContainment: 0% Contained"
 Icon: 43.96196,-90.49445,0,1,1,"Fire Name: Knee\nFire Started: 11/9/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 33.42117,-117.14534,0,1,1,"Fire Name: RAINBOW6/SDU\nFire Started: 11/9/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+Icon: 33.42117,-117.14534,0,1,1,"Fire Name: SDU/RAINBOW6\nFire Started: 11/9/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 36.84641,-83.86470,0,1,1,"Fire Name: Fighting Creek\nFire Started: 11/9/2026\nCurrent Reported Acreage: 1 Acres\nContainment: 0% Contained"
 Icon: 37.49511,-82.84740,0,1,1,"Fire Name: Bosco Tipple Road\nFire Started: 11/9/2026\nCurrent Reported Acreage: 4 Acres\nContainment: 40% Contained"
 Icon: 47.86253,-92.92811,0,1,1,"Fire Name: Last Call\nFire Started: 11/9/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 36.68132,-84.30886,0,1,1,"Fire Name: 3 C\nFire Started: 11/9/2026\nCurrent Reported Acreage: 0 Acres\nContainment: 0% Contained"
-; Active wildfire incidents plotted: 86; available perimeters plotted: 11
+Icon: 48.40612,-118.66071,0,1,1,"Fire Name: 21 Mile\nFire Started: 11/9/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+Icon: 30.96767,-93.10956,0,1,1,"Fire Name: Big Branch\nFire Started: 11/9/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+Icon: 40.30392,-121.04011,0,1,1,"Fire Name: AIRPORT\nFire Started: 11/9/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+; Active wildfire incidents plotted: 89; available perimeters plotted: 13
