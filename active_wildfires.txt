@@ -284,4 +284,5 @@ Icon: 34.68285,-118.13421,0,1,1,"Fire Name: LAC-404865\nFire Started: 11/8/2026\
 Icon: 48.57306,-112.89168,0,1,1,"Fire Name: BLACKFOOT\nFire Started: 11/5/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 36.49687,-84.23792,0,1,1,"Fire Name: Campbell - Glassman Way\nFire Started: 11/8/2026\nCurrent Reported Acreage: 45 Acres\nContainment: 10% Contained"
 Icon: 40.92274,-122.41145,0,1,1,"Fire Name: Shore\nFire Started: 11/8/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-; Active wildfire incidents plotted: 59; available perimeters plotted: 5
+Icon: 34.01574,-117.84976,0,1,1,"Fire Name: LAC-405228\nFire Started: 11/9/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
+; Active wildfire incidents plotted: 60; available perimeters plotted: 5
