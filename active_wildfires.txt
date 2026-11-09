@@ -60,6 +60,13 @@ Polygon:
 45.09970,-89.23443,255,0,0,89
 45.09969,-89.23445,255,0,0,89
 End:
+; Perimeter: Oak Knob | Fire Name: Oak Knob\nPerimeter Acreage: 0 Acres\nContainment: Not reported\nSource: NIFC WFIGS current fire perimeters
+Polygon:
+45.54562,-88.04645,255,0,0,89
+45.54567,-88.04631,255,0,0,89
+45.54546,-88.04624,255,0,0,89
+45.54562,-88.04645,255,0,0,89
+End:
 ; Perimeter: Sand Lake | Fire Name: Sand Lake\nPerimeter Acreage: 1 Acres\nContainment: Not reported\nSource: NIFC WFIGS current fire perimeters
 Polygon:
 45.55679,-92.06444,255,0,0,89
@@ -275,7 +282,6 @@ Polygon:
 44.32705,-106.91971,255,0,0,89
 End:
 Icon: 35.48000,-119.05001,0,1,1,"Fire Name: CARRIER\nFire Started: 10/11/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-Icon: 46.43547,-93.64241,0,1,1,"Fire Name: Long Lake Rd\nFire Started: 10/10/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 46.39992,-93.74982,0,1,1,"Fire Name: Tame Fish 2\nFire Started: 10/10/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 45.31394,-91.39853,0,1,1,"Fire Name: Island Lake\nFire Started: 10/20/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 43.75627,-89.96293,0,1,1,"Fire Name: MM 78.4\nFire Started: 10/21/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
@@ -287,8 +293,9 @@ Icon: 45.36078,-90.02798,0,1,1,"Fire Name: Tower\nFire Started: 10/21/2026\nCurr
 Icon: 45.39467,-90.71593,0,1,1,"Fire Name: County M\nFire Started: 10/23/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 45.09966,-89.23414,0,1,1,"Fire Name: Springbrook\nFire Started: 10/15/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
 Icon: 45.55708,-92.06443,0,1,1,"Fire Name: Sand Lake\nFire Started: 10/24/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+Icon: 45.54548,-88.04637,0,1,1,"Fire Name: Oak Knob\nFire Started: 10/24/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 43.75654,-90.02795,0,1,1,"Fire Name: Hwy 12 Noe Rd\nFire Started: 10/25/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 43.73998,-89.93101,0,1,1,"Fire Name: MM 76\nFire Started: 10/27/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+Icon: 43.79811,-89.63352,0,1,1,"Fire Name: North Shore Dr\nFire Started: 10/25/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 42.64154,-73.30507,0,1,1,"Fire Name: Cherry Plain\nFire Started: 10/25/2026\nCurrent Reported Acreage: 251 Acres\nContainment: 99% Contained"
 Icon: 33.26267,-79.31400,0,1,1,"Fire Name: Hewitt Lane Fire\nFire Started: 10/22/2026\nCurrent Reported Acreage: 109 Acres\nContainment: 90% Contained"
 Icon: 33.32391,-86.09900,0,1,1,"Fire Name: Weewoka Creek\nFire Started: 11/1/2026\nCurrent Reported Acreage: 13 Acres\nContainment: Not reported"
@@ -342,13 +349,22 @@ Icon: 34.68765,-118.13503,0,1,1,"Fire Name: LAC-405512\nFire Started: 11/9/2026\
 Icon: 43.87968,-90.14017,0,1,1,"Fire Name: Outskirts\nFire Started: 11/8/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 43.82232,-89.93343,0,1,1,"Fire Name: Marion\nFire Started: 11/8/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 34.46947,-117.76511,0,1,1,"Fire Name: LARGO\nFire Started: 11/9/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-Icon: 37.47274,-82.21681,0,1,1,"Fire Name: Ash Lick Fork\nFire Started: 11/9/2026\nCurrent Reported Acreage: 10 Acres\nContainment: 0% Contained"
+Icon: 37.47274,-82.21681,0,1,1,"Fire Name: Ash Lick Fork\nFire Started: 11/9/2026\nCurrent Reported Acreage: 10 Acres\nContainment: 50% Contained"
 Icon: 46.09558,-100.63625,0,1,1,"Fire Name: Lazy\nFire Started: 11/8/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 41.53269,-122.96058,0,1,1,"Fire Name: KIDDER\nFire Started: 11/8/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 37.78684,-122.50665,0,1,1,"Fire Name: Mile Rock 2\nFire Started: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 42.58805,-121.71677,0,1,1,"Fire Name: MA #19\nFire Started: 11/6/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 38.76217,-117.38760,0,1,1,"Fire Name: Peavine\nFire Started: 11/8/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+Icon: 38.76217,-117.38760,0,1,1,"Fire Name: Peavine\nFire Started: 11/8/2026\nCurrent Reported Acreage: 150 Acres\nContainment: Not reported"
 Icon: 45.31036,-87.83743,0,1,1,"Fire Name: Wonder\nFire Started: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 25.39785,-80.23410,0,1,1,"Fire Name: Adams Key\nFire Started: 11/9/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 39.11575,-120.84242,0,1,1,"Fire Name: IOWA\nFire Started: 11/9/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-; Active wildfire incidents plotted: 77; available perimeters plotted: 10
+Icon: 43.96196,-90.49445,0,1,1,"Fire Name: Knot\nFire Started: 11/9/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+Icon: 30.03204,-84.40270,0,1,1,"Fire Name: Lake Avenue N 0549\nFire Started: 11/9/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+Icon: 36.72435,-83.55160,0,1,1,"Fire Name: Blacklick Branch Road\nFire Started: 11/9/2026\nCurrent Reported Acreage: 1 Acres\nContainment: 0% Contained"
+Icon: 43.96196,-90.49445,0,1,1,"Fire Name: Knee\nFire Started: 11/9/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+Icon: 33.42117,-117.14534,0,1,1,"Fire Name: RAINBOW6/SDU\nFire Started: 11/9/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+Icon: 36.84641,-83.86470,0,1,1,"Fire Name: Fighting Creek\nFire Started: 11/9/2026\nCurrent Reported Acreage: 1 Acres\nContainment: 0% Contained"
+Icon: 37.49511,-82.84740,0,1,1,"Fire Name: Bosco Tipple Road\nFire Started: 11/9/2026\nCurrent Reported Acreage: 4 Acres\nContainment: 40% Contained"
+Icon: 47.86253,-92.92811,0,1,1,"Fire Name: Last Call\nFire Started: 11/9/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+Icon: 36.68132,-84.30886,0,1,1,"Fire Name: 3 C\nFire Started: 11/9/2026\nCurrent Reported Acreage: 0 Acres\nContainment: 0% Contained"
+; Active wildfire incidents plotted: 86; available perimeters plotted: 11
