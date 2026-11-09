@@ -289,11 +289,13 @@ Icon: 48.57306,-112.89168,0,1,1,"Fire Name: BLACKFOOT\nFire Started: 11/5/2026\n
 Icon: 36.44656,-84.23785,0,1,1,"Fire Name: Campbell - Glassman Way\nFire Started: 11/8/2026\nCurrent Reported Acreage: 45 Acres\nContainment: 10% Contained"
 Icon: 34.01574,-117.84976,0,1,1,"Fire Name: LAC-405228\nFire Started: 11/9/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 45.69674,-88.14187,0,1,1,"Fire Name: Bolt\nFire Started: 11/6/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 37.44206,-82.77853,0,1,1,"Fire Name: Sizemore Mountain\nFire Started: 11/9/2026\nCurrent Reported Acreage: 1 Acres\nContainment: 0% Contained"
-Icon: 34.39410,-94.30682,0,1,1,"Fire Name: Polk 176\nFire Started: 11/9/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
 Icon: 34.68765,-118.13503,0,1,1,"Fire Name: LAC-405512\nFire Started: 11/9/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-Icon: 38.93077,-120.74318,0,1,1,"Fire Name: OSO\nFire Started: 11/9/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 43.87968,-90.14017,0,1,1,"Fire Name: Outskirts\nFire Started: 11/8/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 43.82232,-89.93343,0,1,1,"Fire Name: Marion\nFire Started: 11/8/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 34.46947,-117.76511,0,1,1,"Fire Name: LARGO\nFire Started: 11/9/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-; Active wildfire incidents plotted: 69; available perimeters plotted: 7
+Icon: 37.47274,-82.21681,0,1,1,"Fire Name: Ash Lick Fork\nFire Started: 11/9/2026\nCurrent Reported Acreage: 10 Acres\nContainment: 0% Contained"
+Icon: 46.09558,-100.63625,0,1,1,"Fire Name: Lazy\nFire Started: 11/8/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+Icon: 41.53269,-122.96058,0,1,1,"Fire Name: KIDDER\nFire Started: 11/8/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
+Icon: 37.78684,-122.50665,0,1,1,"Fire Name: Mile Rock 2\nFire Started: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+Icon: 42.58805,-121.71677,0,1,1,"Fire Name: MA #19\nFire Started: 11/6/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+; Active wildfire incidents plotted: 71; available perimeters plotted: 7
