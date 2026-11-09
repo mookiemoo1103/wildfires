@@ -301,10 +301,10 @@ Icon: 33.87703,-118.14261,0,1,1,"Fire Name: LAC-404310\nFire Started: 11/8/2026\
 Icon: 45.34404,-118.68623,0,1,1,"Fire Name: Jungle\nFire Started: 11/7/2026\nCurrent Reported Acreage: 5 Acres\nContainment: Not reported"
 Icon: 39.48354,-82.18050,0,1,1,"Fire Name: Long Run\nFire Started: 11/8/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 37.38446,-83.99019,0,1,1,"Fire Name: LON - Mill Creek\nFire Started: 11/8/2026\nCurrent Reported Acreage: 6 Acres\nContainment: Not reported"
-Icon: 38.27917,-120.37185,0,1,1,"Fire Name: SUMMIT\nFire Started: 11/8/2026\nCurrent Reported Acreage: 6 Acres\nContainment: Not reported"
+Icon: 38.27694,-120.37003,0,1,1,"Fire Name: SUMMIT\nFire Started: 11/8/2026\nCurrent Reported Acreage: 6 Acres\nContainment: Not reported"
 Icon: 34.06134,-117.78912,0,1,1,"Fire Name: LAC-404642\nFire Started: 11/8/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 34.57034,-118.68680,0,1,1,"Fire Name: GOLDEN\nFire Started: 11/8/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 36.65636,-120.66649,0,1,1,"Fire Name: ILLEGAL BURNING IN WILDLAND\nFire Started: 11/8/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 38.08211,-83.69170,0,1,1,"Fire Name: Highway 36\nFire Started: 11/8/2026\nCurrent Reported Acreage: 1 Acres\nContainment: 0% Contained"
 Icon: 34.71877,-118.11229,0,1,1,"Fire Name: LAC-404830\nFire Started: 11/8/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
+Icon: 34.68285,-118.13421,0,1,1,"Fire Name: LAC-404865\nFire Started: 11/8/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 ; Active wildfire incidents plotted: 60; available perimeters plotted: 7
