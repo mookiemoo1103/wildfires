@@ -60,6 +60,34 @@ Polygon:
 45.09970,-89.23443,255,0,0,89
 45.09969,-89.23445,255,0,0,89
 End:
+; Perimeter: Sand Lake | Fire Name: Sand Lake\nPerimeter Acreage: 1 Acres\nContainment: Not reported\nSource: NIFC WFIGS current fire perimeters
+Polygon:
+45.55679,-92.06444,255,0,0,89
+45.55714,-92.06495,255,0,0,89
+45.55735,-92.06455,255,0,0,89
+45.55692,-92.06423,255,0,0,89
+45.55679,-92.06444,255,0,0,89
+45.55736,-92.06410,255,0,0,89
+45.55721,-92.06396,255,0,0,89
+45.55700,-92.06409,255,0,0,89
+45.55736,-92.06410,255,0,0,89
+45.55694,-92.06414,255,0,0,89
+45.55700,-92.06409,255,0,0,89
+45.55698,-92.06410,255,0,0,89
+45.55694,-92.06414,255,0,0,89
+45.55692,-92.06423,255,0,0,89
+45.55693,-92.06418,255,0,0,89
+45.55692,-92.06423,255,0,0,89
+45.55692,-92.06423,255,0,0,89
+45.55693,-92.06418,255,0,0,89
+45.55694,-92.06415,255,0,0,89
+45.55694,-92.06416,255,0,0,89
+45.55693,-92.06418,255,0,0,89
+45.55694,-92.06415,255,0,0,89
+45.55694,-92.06414,255,0,0,89
+45.55694,-92.06415,255,0,0,89
+45.55694,-92.06415,255,0,0,89
+End:
 ; Perimeter: County M | Fire Name: County M\nPerimeter Acreage: 0 Acres\nContainment: Not reported\nSource: NIFC WFIGS current fire perimeters
 Polygon:
 45.39466,-90.71590,255,0,0,89
@@ -252,12 +280,13 @@ Icon: 46.39992,-93.74982,0,1,1,"Fire Name: Tame Fish 2\nFire Started: 10/10/2026
 Icon: 45.31394,-91.39853,0,1,1,"Fire Name: Island Lake\nFire Started: 10/20/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 43.75627,-89.96293,0,1,1,"Fire Name: MM 78.4\nFire Started: 10/21/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 45.11582,-88.44351,0,1,1,"Fire Name: South Shore\nFire Started: 10/21/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+Icon: 44.38006,-121.26730,0,1,1,"Fire Name: 0902 QUAIL\nFire Started: 10/21/2026\nCurrent Reported Acreage: 4 Acres\nContainment: Not reported"
 Icon: 45.71629,-92.66012,0,1,1,"Fire Name: Corn\nFire Started: 10/22/2026\nCurrent Reported Acreage: 2 Acres\nContainment: Not reported"
 Icon: 30.49528,-82.85778,0,1,1,"Fire Name: BEE HAVEN (2) (24-06)\nFire Started: 10/21/2026\nCurrent Reported Acreage: 2,060 Acres\nContainment: 85% Contained"
 Icon: 45.36078,-90.02798,0,1,1,"Fire Name: Tower\nFire Started: 10/21/2026\nCurrent Reported Acreage: 11 Acres\nContainment: Not reported"
 Icon: 45.39467,-90.71593,0,1,1,"Fire Name: County M\nFire Started: 10/23/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 45.09966,-89.23414,0,1,1,"Fire Name: Springbrook\nFire Started: 10/15/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
-Icon: 43.37745,-89.67927,0,1,1,"Fire Name: HWY 113\nFire Started: 10/25/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+Icon: 45.55708,-92.06443,0,1,1,"Fire Name: Sand Lake\nFire Started: 10/24/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 43.75654,-90.02795,0,1,1,"Fire Name: Hwy 12 Noe Rd\nFire Started: 10/25/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 43.73998,-89.93101,0,1,1,"Fire Name: MM 76\nFire Started: 10/27/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 42.64154,-73.30507,0,1,1,"Fire Name: Cherry Plain\nFire Started: 10/25/2026\nCurrent Reported Acreage: 251 Acres\nContainment: 99% Contained"
@@ -319,7 +348,7 @@ Icon: 41.53269,-122.96058,0,1,1,"Fire Name: KIDDER\nFire Started: 11/8/2026\nCur
 Icon: 37.78684,-122.50665,0,1,1,"Fire Name: Mile Rock 2\nFire Started: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 42.58805,-121.71677,0,1,1,"Fire Name: MA #19\nFire Started: 11/6/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 38.76217,-117.38760,0,1,1,"Fire Name: Peavine\nFire Started: 11/8/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 39.49306,-120.53235,0,1,1,"Fire Name: EAST MEADOW\nFire Started: 11/9/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 45.31036,-87.83743,0,1,1,"Fire Name: abc\nFire Started: 11/8/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+Icon: 45.31036,-87.83743,0,1,1,"Fire Name: Wonder\nFire Started: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 25.39785,-80.23410,0,1,1,"Fire Name: Adams Key\nFire Started: 11/9/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-; Active wildfire incidents plotted: 76; available perimeters plotted: 9
+Icon: 39.11575,-120.84242,0,1,1,"Fire Name: IOWA\nFire Started: 11/9/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+; Active wildfire incidents plotted: 77; available perimeters plotted: 10
