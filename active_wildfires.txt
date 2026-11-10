@@ -409,7 +409,7 @@ Icon: 30.03204,-84.40270,0,1,1,"Fire Name: Lake Avenue N 0549\nFire Started: 11/
 Icon: 43.96196,-90.49445,0,1,1,"Fire Name: Knee\nFire Started: 11/9/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 33.42117,-117.14534,0,1,1,"Fire Name: MTZ/SDU/RAINBOW6\nFire Started: 11/9/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 47.86253,-92.92811,0,1,1,"Fire Name: Last Call\nFire Started: 11/9/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 36.94640,-83.71626,0,1,1,"Fire Name: Parkers Branch\nFire Started: 11/9/2026\nCurrent Reported Acreage: 20 Acres\nContainment: 60% Contained"
+Icon: 36.94640,-83.71626,0,1,1,"Fire Name: Parkers Branch\nFire Started: 11/9/2026\nCurrent Reported Acreage: 30 Acres\nContainment: 80% Contained"
 Icon: 35.42299,-117.75670,0,1,1,"Fire Name: GARLOCK\nFire Started: 11/9/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 45.12071,-119.36518,0,1,1,"Fire Name: Wee Lambie\nFire Started: 11/9/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 34.63113,-118.12990,0,1,1,"Fire Name: LAC-406080\nFire Started: 11/9/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
@@ -420,5 +420,4 @@ Icon: 34.63113,-118.14764,0,1,1,"Fire Name: LAC-406124\nFire Started: 11/9/2026\
 Icon: 37.10892,-83.67057,0,1,1,"Fire Name: Belles Fork Road\nFire Started: 11/9/2026\nCurrent Reported Acreage: 8 Acres\nContainment: 80% Contained"
 Icon: 33.86086,-118.28607,0,1,1,"Fire Name: LAC-406202\nFire Started: 11/9/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 34.71876,-118.16619,0,1,1,"Fire Name: LAC-406357\nFire Started: 11/9/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-Icon: 39.16045,-120.85812,0,1,1,"Fire Name: GARRETT\nFire Started: 11/9/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-; Active wildfire incidents plotted: 92; available perimeters plotted: 13
+; Active wildfire incidents plotted: 91; available perimeters plotted: 13
