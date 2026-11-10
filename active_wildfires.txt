@@ -763,7 +763,6 @@ Icon: 35.90406,-117.90126,0,1,1,"Fire Name: BROWN\nFire Started: 11/5/2026\nCurr
 Icon: 41.31764,-123.52665,0,1,1,"Fire Name: Pear\nFire Started: 11/6/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 32.83119,-116.62834,0,1,1,"Fire Name: MOTORHOME\nFire Started: 11/6/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 34.29499,-118.35801,0,1,1,"Fire Name: ARROW\nFire Started: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 33.94427,-118.32552,0,1,1,"Fire Name: LAC-402958\nFire Started: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 34.00516,-117.95836,0,1,1,"Fire Name: LAC-403013\nFire Started: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 29.11789,-81.71550,0,1,1,"Fire Name: Bombing Range 10\nFire Started: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 44.53954,-121.38030,0,1,1,"Fire Name: 0927 PROSPECT\nFire Started: 11/7/2026\nCurrent Reported Acreage: 243 Acres\nContainment: Not reported"
@@ -811,7 +810,7 @@ Icon: 30.03204,-84.40270,0,1,1,"Fire Name: Lake Avenue N 0549\nFire Started: 11/
 Icon: 43.96196,-90.49445,0,1,1,"Fire Name: Knee\nFire Started: 11/9/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 33.42117,-117.14534,0,1,1,"Fire Name: MTZ/SDU/RAINBOW6\nFire Started: 11/9/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 47.86253,-92.92811,0,1,1,"Fire Name: Last Call\nFire Started: 11/9/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 36.94640,-83.71626,0,1,1,"Fire Name: Parkers Branch\nFire Started: 11/9/2026\nCurrent Reported Acreage: 30 Acres\nContainment: 80% Contained"
+Icon: 36.94640,-83.71626,0,1,1,"Fire Name: Parkers Branch\nFire Started: 11/9/2026\nCurrent Reported Acreage: 35 Acres\nContainment: 90% Contained"
 Icon: 35.42299,-117.75670,0,1,1,"Fire Name: GARLOCK\nFire Started: 11/9/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 45.12071,-119.36518,0,1,1,"Fire Name: Wee Lambie\nFire Started: 11/9/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 34.63113,-118.12990,0,1,1,"Fire Name: LAC-406080\nFire Started: 11/9/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
@@ -830,4 +829,4 @@ Icon: 47.96445,-98.86973,0,1,1,"Fire Name: Silver\nFire Started: 11/9/2026\nCurr
 Icon: 33.96213,-118.36961,0,1,1,"Fire Name: LAC-406907\nFire Started: 11/10/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 41.35138,-70.81179,0,1,1,"Fire Name: Lighthouse Rd\nFire Started: 11/10/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 43.01979,-122.37276,0,1,1,"Fire Name: Foster\nFire Started: 11/10/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-; Active wildfire incidents plotted: 95; available perimeters plotted: 15
+; Active wildfire incidents plotted: 94; available perimeters plotted: 15
