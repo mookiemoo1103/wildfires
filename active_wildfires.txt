@@ -355,7 +355,6 @@ Icon: 44.31872,-106.93256,0,1,1,"Fire Name: FOOT CREEK\nFire Started: 11/5/2026\
 Icon: 35.90406,-117.90126,0,1,1,"Fire Name: BROWN\nFire Started: 11/5/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 41.31764,-123.52665,0,1,1,"Fire Name: Pear\nFire Started: 11/6/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 32.83119,-116.62834,0,1,1,"Fire Name: MOTORHOME\nFire Started: 11/6/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 34.67524,-118.04106,0,1,1,"Fire Name: LAC-402238\nFire Started: 11/6/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 34.58144,-118.10288,0,1,1,"Fire Name: LAC-402436\nFire Started: 11/6/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 34.29449,-118.35872,0,1,1,"Fire Name: ARROW\nFire Started: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 34.29499,-118.35801,0,1,1,"Fire Name: ARROW\nFire Started: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
@@ -420,4 +419,6 @@ Icon: 36.69759,-84.04763,0,1,1,"Fire Name: Rickett Hollow\nFire Started: 11/9/20
 Icon: 34.63113,-118.14764,0,1,1,"Fire Name: LAC-406124\nFire Started: 11/9/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 37.10892,-83.67057,0,1,1,"Fire Name: Belles Fork Road\nFire Started: 11/9/2026\nCurrent Reported Acreage: 8 Acres\nContainment: 80% Contained"
 Icon: 33.86086,-118.28607,0,1,1,"Fire Name: LAC-406202\nFire Started: 11/9/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-; Active wildfire incidents plotted: 91; available perimeters plotted: 13
+Icon: 34.71876,-118.16619,0,1,1,"Fire Name: LAC-406357\nFire Started: 11/9/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
+Icon: 39.16045,-120.85812,0,1,1,"Fire Name: GARRETT\nFire Started: 11/9/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+; Active wildfire incidents plotted: 92; available perimeters plotted: 13
