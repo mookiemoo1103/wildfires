@@ -415,9 +415,11 @@ Icon: 45.12071,-119.36518,0,1,1,"Fire Name: Wee Lambie\nFire Started: 11/9/2026\
 Icon: 34.63113,-118.12990,0,1,1,"Fire Name: LAC-406080\nFire Started: 11/9/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 45.38130,-117.69859,0,1,1,"Fire Name: Moonrise\nFire Started: 11/9/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 45.40259,-117.69067,0,1,1,"Fire Name: Bluch\nFire Started: 11/9/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 36.69759,-84.04763,0,1,1,"Fire Name: Rickett Hollow\nFire Started: 11/9/2026\nCurrent Reported Acreage: 40 Acres\nContainment: 0% Contained"
+Icon: 36.69759,-84.04763,0,1,1,"Fire Name: Rickett Hollow\nFire Started: 11/9/2026\nCurrent Reported Acreage: 60 Acres\nContainment: 50% Contained"
 Icon: 34.63113,-118.14764,0,1,1,"Fire Name: LAC-406124\nFire Started: 11/9/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 37.10892,-83.67057,0,1,1,"Fire Name: Belles Fork Road\nFire Started: 11/9/2026\nCurrent Reported Acreage: 8 Acres\nContainment: 80% Contained"
 Icon: 33.86086,-118.28607,0,1,1,"Fire Name: LAC-406202\nFire Started: 11/9/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 34.71876,-118.16619,0,1,1,"Fire Name: LAC-406357\nFire Started: 11/9/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-; Active wildfire incidents plotted: 91; available perimeters plotted: 13
+Icon: 34.70408,-118.11256,0,1,1,"Fire Name: LAC-406484\nFire Started: 11/9/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
+Icon: 33.93084,-118.17871,0,1,1,"Fire Name: LAC-406486\nFire Started: 11/9/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
+; Active wildfire incidents plotted: 93; available perimeters plotted: 13
