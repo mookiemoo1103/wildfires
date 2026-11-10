@@ -162,9 +162,41 @@ Polygon:
 42.64250,-73.31170,255,0,0,89
 42.64258,-73.31273,255,0,0,89
 End:
-; Perimeter: Wild River | Fire Name: Wild River\nPerimeter Acreage: 821 Acres\nContainment: 29% Contained\nSource: NIFC WFIGS current fire perimeters
+; Perimeter: Wild River | Fire Name: Wild River\nPerimeter Acreage: 817 Acres\nContainment: 53% Contained\nSource: NIFC WFIGS current fire perimeters
 Polygon:
-44.34711,-71.04099,255,0,0,89
+44.34577,-71.04882,255,0,0,89
+44.34564,-71.04856,255,0,0,89
+44.34477,-71.04900,255,0,0,89
+44.34492,-71.04833,255,0,0,89
+44.34455,-71.04791,255,0,0,89
+44.34395,-71.04836,255,0,0,89
+44.34352,-71.04703,255,0,0,89
+44.34288,-71.04652,255,0,0,89
+44.34238,-71.04708,255,0,0,89
+44.34293,-71.04763,255,0,0,89
+44.34154,-71.04860,255,0,0,89
+44.34134,-71.04828,255,0,0,89
+44.34168,-71.04686,255,0,0,89
+44.34213,-71.04615,255,0,0,89
+44.34288,-71.04611,255,0,0,89
+44.34325,-71.04545,255,0,0,89
+44.34381,-71.04557,255,0,0,89
+44.34542,-71.04451,255,0,0,89
+44.34558,-71.04510,255,0,0,89
+44.34607,-71.04528,255,0,0,89
+44.34735,-71.04686,255,0,0,89
+44.34780,-71.04680,255,0,0,89
+44.34734,-71.04616,255,0,0,89
+44.34756,-71.04583,255,0,0,89
+44.34817,-71.04581,255,0,0,89
+44.34790,-71.04538,255,0,0,89
+44.34795,-71.04429,255,0,0,89
+44.34936,-71.04358,255,0,0,89
+44.34927,-71.04188,255,0,0,89
+44.34763,-71.04251,255,0,0,89
+44.34681,-71.04239,255,0,0,89
+44.34666,-71.04205,255,0,0,89
+44.34725,-71.04113,255,0,0,89
 44.34673,-71.04043,255,0,0,89
 44.34611,-71.04086,255,0,0,89
 44.34512,-71.03922,255,0,0,89
@@ -191,61 +223,44 @@ Polygon:
 44.32883,-71.03399,255,0,0,89
 44.32684,-71.03574,255,0,0,89
 44.32660,-71.03652,255,0,0,89
-44.32746,-71.03998,255,0,0,89
-44.32798,-71.04392,255,0,0,89
-44.33052,-71.04617,255,0,0,89
-44.33155,-71.04664,255,0,0,89
-44.33284,-71.04634,255,0,0,89
-44.33445,-71.04701,255,0,0,89
-44.33600,-71.04836,255,0,0,89
-44.33658,-71.04978,255,0,0,89
-44.34251,-71.05739,255,0,0,89
-44.34344,-71.05570,255,0,0,89
-44.34353,-71.05511,255,0,0,89
-44.34316,-71.05502,255,0,0,89
-44.34315,-71.05460,255,0,0,89
-44.34474,-71.05350,255,0,0,89
-44.34451,-71.05287,255,0,0,89
-44.34484,-71.05252,255,0,0,89
-44.34495,-71.05092,255,0,0,89
+44.32795,-71.04360,255,0,0,89
+44.32814,-71.04284,255,0,0,89
+44.32851,-71.04312,255,0,0,89
+44.32855,-71.04398,255,0,0,89
+44.32937,-71.04473,255,0,0,89
+44.32954,-71.04540,255,0,0,89
+44.32969,-71.04517,255,0,0,89
+44.33045,-71.04553,255,0,0,89
+44.33038,-71.04593,255,0,0,89
+44.33068,-71.04553,255,0,0,89
+44.33115,-71.04618,255,0,0,89
+44.33283,-71.04664,255,0,0,89
+44.33332,-71.04649,255,0,0,89
+44.33437,-71.04721,255,0,0,89
+44.33469,-71.04696,255,0,0,89
+44.33455,-71.04638,255,0,0,89
+44.33484,-71.04632,255,0,0,89
+44.33515,-71.04791,255,0,0,89
+44.33608,-71.04806,255,0,0,89
+44.33596,-71.04836,255,0,0,89
+44.33651,-71.04956,255,0,0,89
+44.33753,-71.05056,255,0,0,89
+44.33803,-71.05181,255,0,0,89
+44.33979,-71.05361,255,0,0,89
+44.34157,-71.05655,255,0,0,89
+44.34234,-71.05729,255,0,0,89
+44.34239,-71.05659,255,0,0,89
+44.34333,-71.05609,255,0,0,89
+44.34355,-71.05524,255,0,0,89
+44.34307,-71.05511,255,0,0,89
+44.34310,-71.05465,255,0,0,89
+44.34473,-71.05358,255,0,0,89
+44.34444,-71.05296,255,0,0,89
+44.34491,-71.05220,255,0,0,89
+44.34494,-71.05092,255,0,0,89
 44.34538,-71.05028,255,0,0,89
 44.34568,-71.05031,255,0,0,89
 44.34577,-71.04882,255,0,0,89
-44.34477,-71.04900,255,0,0,89
-44.34492,-71.04833,255,0,0,89
-44.34455,-71.04791,255,0,0,89
-44.34395,-71.04836,255,0,0,89
-44.34352,-71.04703,255,0,0,89
-44.34288,-71.04652,255,0,0,89
-44.34238,-71.04704,255,0,0,89
-44.34294,-71.04758,255,0,0,89
-44.34250,-71.04802,255,0,0,89
-44.34154,-71.04860,255,0,0,89
-44.34141,-71.04776,255,0,0,89
-44.34213,-71.04615,255,0,0,89
-44.34288,-71.04610,255,0,0,89
-44.34325,-71.04545,255,0,0,89
-44.34382,-71.04557,255,0,0,89
-44.34402,-71.04521,255,0,0,89
-44.34471,-71.04515,255,0,0,89
-44.34521,-71.04453,255,0,0,89
-44.34553,-71.04459,255,0,0,89
-44.34558,-71.04510,255,0,0,89
-44.34607,-71.04528,255,0,0,89
-44.34734,-71.04686,255,0,0,89
-44.34788,-71.04673,255,0,0,89
-44.34734,-71.04620,255,0,0,89
-44.34756,-71.04583,255,0,0,89
-44.34817,-71.04581,255,0,0,89
-44.34790,-71.04538,255,0,0,89
-44.34795,-71.04429,255,0,0,89
-44.34936,-71.04358,255,0,0,89
-44.34936,-71.04232,255,0,0,89
-44.34899,-71.04210,255,0,0,89
-44.34763,-71.04253,255,0,0,89
-44.34681,-71.04239,255,0,0,89
-44.34666,-71.04205,255,0,0,89
-44.34711,-71.04099,255,0,0,89
 End:
 ; Perimeter: Lynx | Fire Name: Lynx\nPerimeter Acreage: 1 Acres\nContainment: Not reported\nSource: NIFC WFIGS current fire perimeters
 Polygon:
@@ -314,7 +329,6 @@ Polygon:
 44.32791,-106.91658,255,0,0,89
 44.32705,-106.91971,255,0,0,89
 End:
-Icon: 46.39992,-93.74982,0,1,1,"Fire Name: Tame Fish 2\nFire Started: 10/10/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 45.31394,-91.39853,0,1,1,"Fire Name: Island Lake\nFire Started: 10/20/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 43.75627,-89.96293,0,1,1,"Fire Name: MM 78.4\nFire Started: 10/21/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 45.11582,-88.44351,0,1,1,"Fire Name: South Shore\nFire Started: 10/21/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
@@ -335,13 +349,12 @@ Icon: 33.26267,-79.31400,0,1,1,"Fire Name: Hewitt Lane Fire\nFire Started: 10/22
 Icon: 44.13061,-90.11504,0,1,1,"Fire Name: Camper\nFire Started: 10/30/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 33.32391,-86.09900,0,1,1,"Fire Name: Weewoka Creek\nFire Started: 11/1/2026\nCurrent Reported Acreage: 13 Acres\nContainment: Not reported"
 Icon: 36.71336,-83.30596,0,1,1,"Fire Name: White Cliffs\nFire Started: 11/1/2026\nCurrent Reported Acreage: 30 Acres\nContainment: 90% Contained"
-Icon: 44.33059,-71.03128,0,1,1,"Fire Name: Wild River\nFire Started: 11/1/2026\nCurrent Reported Acreage: 821 Acres\nContainment: 29% Contained"
+Icon: 44.33059,-71.03128,0,1,1,"Fire Name: Wild River\nFire Started: 11/1/2026\nCurrent Reported Acreage: 821 Acres\nContainment: 53% Contained"
 Icon: 43.24126,-91.05863,0,1,1,"Fire Name: Lynx\nFire Started: 11/1/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
 Icon: 40.97139,-74.53135,0,1,1,"Fire Name: Gorge Road\nFire Started: 11/4/2026\nCurrent Reported Acreage: 61 Acres\nContainment: Not reported"
 Icon: 44.31872,-106.93256,0,1,1,"Fire Name: FOOT CREEK\nFire Started: 11/5/2026\nCurrent Reported Acreage: 683 Acres\nContainment: 36% Contained"
 Icon: 35.90406,-117.90126,0,1,1,"Fire Name: BROWN\nFire Started: 11/5/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 41.31764,-123.52665,0,1,1,"Fire Name: Pear\nFire Started: 11/6/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 41.61325,-122.59575,0,1,1,"Fire Name: GUYS\nFire Started: 11/6/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
 Icon: 32.83119,-116.62834,0,1,1,"Fire Name: MOTORHOME\nFire Started: 11/6/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 34.67524,-118.04106,0,1,1,"Fire Name: LAC-402238\nFire Started: 11/6/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 34.58144,-118.10288,0,1,1,"Fire Name: LAC-402436\nFire Started: 11/6/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
@@ -407,6 +420,7 @@ Icon: 45.38130,-117.69859,0,1,1,"Fire Name: Moonrise\nFire Started: 11/9/2026\nC
 Icon: 45.40259,-117.69067,0,1,1,"Fire Name: Bluch\nFire Started: 11/9/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 34.36245,-117.56493,0,1,1,"Fire Name: SC/CI/33X\nFire Started: 11/9/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 36.69759,-84.04763,0,1,1,"Fire Name: Rickett Hollow\nFire Started: 11/9/2026\nCurrent Reported Acreage: 20 Acres\nContainment: 0% Contained"
-Icon: 41.79349,-122.36094,0,1,1,"Fire Name: SYLVA\nFire Started: 11/9/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 34.63113,-118.14764,0,1,1,"Fire Name: LAC-406124\nFire Started: 11/9/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-; Active wildfire incidents plotted: 95; available perimeters plotted: 13
+Icon: 37.10883,-83.66750,0,1,1,"Fire Name: Belles Fork Road\nFire Started: 11/9/2026\nCurrent Reported Acreage: 2 Acres\nContainment: 0% Contained"
+Icon: 33.86086,-118.28607,0,1,1,"Fire Name: LAC-406202\nFire Started: 11/9/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
+; Active wildfire incidents plotted: 94; available perimeters plotted: 13
