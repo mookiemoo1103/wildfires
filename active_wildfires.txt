@@ -356,7 +356,6 @@ Icon: 35.90406,-117.90126,0,1,1,"Fire Name: BROWN\nFire Started: 11/5/2026\nCurr
 Icon: 41.31764,-123.52665,0,1,1,"Fire Name: Pear\nFire Started: 11/6/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 32.83119,-116.62834,0,1,1,"Fire Name: MOTORHOME\nFire Started: 11/6/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 34.29499,-118.35801,0,1,1,"Fire Name: ARROW\nFire Started: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 33.93084,-118.17871,0,1,1,"Fire Name: LAC-402732\nFire Started: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 34.03665,-118.16101,0,1,1,"Fire Name: LAC-402851\nFire Started: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 33.94427,-118.32552,0,1,1,"Fire Name: LAC-402958\nFire Started: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 34.00516,-117.95836,0,1,1,"Fire Name: LAC-403013\nFire Started: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
@@ -419,4 +418,5 @@ Icon: 33.86086,-118.28607,0,1,1,"Fire Name: LAC-406202\nFire Started: 11/9/2026\
 Icon: 34.71876,-118.16619,0,1,1,"Fire Name: LAC-406357\nFire Started: 11/9/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 34.70408,-118.11256,0,1,1,"Fire Name: LAC-406484\nFire Started: 11/9/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 33.93084,-118.17871,0,1,1,"Fire Name: LAC-406486\nFire Started: 11/9/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
+Icon: 38.86655,-121.11982,0,1,1,"Fire Name: DUKELANA\nFire Started: 11/10/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 ; Active wildfire incidents plotted: 90; available perimeters plotted: 13
