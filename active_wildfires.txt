@@ -21,6 +21,14 @@ Polygon:
 45.11582,-88.44358,255,0,0,89
 45.11585,-88.44347,255,0,0,89
 End:
+; Perimeter: Kernel | Fire Name: Kernel\nPerimeter Acreage: 1 Acres\nContainment: Not reported\nSource: NIFC WFIGS current fire perimeters
+Polygon:
+44.04966,-89.93054,255,0,0,89
+44.04944,-89.93074,255,0,0,89
+44.04986,-89.93123,255,0,0,89
+44.05008,-89.93082,255,0,0,89
+44.04966,-89.93054,255,0,0,89
+End:
 ; Perimeter: Corn | Fire Name: Corn\nPerimeter Acreage: 2 Acres\nContainment: Not reported\nSource: NIFC WFIGS current fire perimeters
 Polygon:
 45.71657,-92.66055,255,0,0,89
@@ -330,6 +338,7 @@ Polygon:
 44.32705,-106.91971,255,0,0,89
 End:
 Icon: 45.31394,-91.39853,0,1,1,"Fire Name: Island Lake\nFire Started: 10/20/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+Icon: 44.04966,-89.93085,0,1,1,"Fire Name: Kernel\nFire Started: 10/20/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
 Icon: 43.75627,-89.96293,0,1,1,"Fire Name: MM 78.4\nFire Started: 10/21/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 45.11582,-88.44351,0,1,1,"Fire Name: South Shore\nFire Started: 10/21/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 44.38006,-121.26730,0,1,1,"Fire Name: 0902 QUAIL\nFire Started: 10/21/2026\nCurrent Reported Acreage: 4 Acres\nContainment: Not reported"
@@ -344,6 +353,7 @@ Icon: 45.55708,-92.06443,0,1,1,"Fire Name: Sand Lake\nFire Started: 10/24/2026\n
 Icon: 45.54548,-88.04637,0,1,1,"Fire Name: Oak Knob\nFire Started: 10/24/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 43.75654,-90.02795,0,1,1,"Fire Name: Hwy 12 Noe Rd\nFire Started: 10/25/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 43.79811,-89.63352,0,1,1,"Fire Name: North Shore Dr\nFire Started: 10/25/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+Icon: 43.73998,-89.93101,0,1,1,"Fire Name: MM 76\nFire Started: 10/27/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 42.64154,-73.30507,0,1,1,"Fire Name: Cherry Plain\nFire Started: 10/25/2026\nCurrent Reported Acreage: 251 Acres\nContainment: 99% Contained"
 Icon: 33.26267,-79.31400,0,1,1,"Fire Name: Hewitt Lane Fire\nFire Started: 10/22/2026\nCurrent Reported Acreage: 109 Acres\nContainment: 90% Contained"
 Icon: 44.13061,-90.11504,0,1,1,"Fire Name: Camper\nFire Started: 10/30/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
@@ -419,4 +429,5 @@ Icon: 34.71876,-118.16619,0,1,1,"Fire Name: LAC-406357\nFire Started: 11/9/2026\
 Icon: 34.70408,-118.11256,0,1,1,"Fire Name: LAC-406484\nFire Started: 11/9/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 33.93084,-118.17871,0,1,1,"Fire Name: LAC-406486\nFire Started: 11/9/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 38.86655,-121.11982,0,1,1,"Fire Name: DUKELANA\nFire Started: 11/10/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-; Active wildfire incidents plotted: 90; available perimeters plotted: 13
+Icon: 33.83280,-118.25934,0,1,1,"Fire Name: LAC-406785\nFire Started: 11/10/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
+; Active wildfire incidents plotted: 93; available perimeters plotted: 14
