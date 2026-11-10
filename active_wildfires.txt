@@ -421,5 +421,4 @@ Icon: 33.86086,-118.28607,0,1,1,"Fire Name: LAC-406202\nFire Started: 11/9/2026\
 Icon: 34.71876,-118.16619,0,1,1,"Fire Name: LAC-406357\nFire Started: 11/9/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 34.70408,-118.11256,0,1,1,"Fire Name: LAC-406484\nFire Started: 11/9/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 33.93084,-118.17871,0,1,1,"Fire Name: LAC-406486\nFire Started: 11/9/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-Icon: 33.15889,-95.02612,0,1,1,"Fire Name: Titus 9896\nFire Started: 11/10/2026\nCurrent Reported Acreage: 1 Acres\nContainment: 0% Contained"
-; Active wildfire incidents plotted: 93; available perimeters plotted: 13
+; Active wildfire incidents plotted: 92; available perimeters plotted: 13
