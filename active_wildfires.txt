@@ -755,6 +755,7 @@ Icon: 43.73998,-89.93101,0,1,1,"Fire Name: MM 76\nFire Started: 10/27/2026\nCurr
 Icon: 42.64154,-73.30507,0,1,1,"Fire Name: Cherry Plain\nFire Started: 10/25/2026\nCurrent Reported Acreage: 251 Acres\nContainment: 99% Contained"
 Icon: 33.26267,-79.31400,0,1,1,"Fire Name: Hewitt Lane Fire\nFire Started: 10/22/2026\nCurrent Reported Acreage: 109 Acres\nContainment: 90% Contained"
 Icon: 44.13061,-90.11504,0,1,1,"Fire Name: Camper\nFire Started: 10/30/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+Icon: 44.57192,-89.29134,0,1,1,"Fire Name: Baler 1\nFire Started: 10/30/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 44.33059,-71.03128,0,1,1,"Fire Name: Wild River\nFire Started: 11/1/2026\nCurrent Reported Acreage: 821 Acres\nContainment: 53% Contained"
 Icon: 43.24102,-91.05840,0,1,1,"Fire Name: Lynx\nFire Started: 11/1/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
 Icon: 40.97139,-74.53135,0,1,1,"Fire Name: Gorge Road\nFire Started: 11/4/2026\nCurrent Reported Acreage: 61 Acres\nContainment: Not reported"
@@ -829,4 +830,5 @@ Icon: 47.96445,-98.86973,0,1,1,"Fire Name: Silver\nFire Started: 11/9/2026\nCurr
 Icon: 33.96213,-118.36961,0,1,1,"Fire Name: LAC-406907\nFire Started: 11/10/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 41.35138,-70.81179,0,1,1,"Fire Name: Lighthouse Rd\nFire Started: 11/10/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 43.01979,-122.37276,0,1,1,"Fire Name: Foster\nFire Started: 11/10/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-; Active wildfire incidents plotted: 94; available perimeters plotted: 15
+Icon: 33.71853,-117.70986,0,1,1,"Fire Name: BEE\nFire Started: 11/10/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
+; Active wildfire incidents plotted: 96; available perimeters plotted: 15
