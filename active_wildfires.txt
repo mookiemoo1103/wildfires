@@ -767,7 +767,6 @@ Icon: 34.29499,-118.35801,0,1,1,"Fire Name: ARROW\nFire Started: 11/7/2026\nCurr
 Icon: 44.53954,-121.38030,0,1,1,"Fire Name: 0927 PROSPECT\nFire Started: 11/7/2026\nCurrent Reported Acreage: 243 Acres\nContainment: Not reported"
 Icon: 38.65344,-120.70402,0,1,1,"Fire Name: BUCKS\nFire Started: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 38.27917,-120.37168,0,1,1,"Fire Name: TCU SUMMIT\nFire Started: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 33.96501,-118.37127,0,1,1,"Fire Name: LAC-403491\nFire Started: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 38.69932,-120.85106,0,1,1,"Fire Name: MOTHER\nFire Started: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 34.57692,-118.13355,0,1,1,"Fire Name: LAC-403588\nFire Started: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 33.91710,-118.10461,0,1,1,"Fire Name: LAC-403794\nFire Started: 11/8/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
@@ -822,4 +821,4 @@ Icon: 41.35138,-70.81179,0,1,1,"Fire Name: Lighthouse Rd\nFire Started: 11/10/20
 Icon: 43.01979,-122.37276,0,1,1,"Fire Name: Foster\nFire Started: 11/10/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 33.71853,-117.70986,0,1,1,"Fire Name: BEE\nFire Started: 11/10/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 36.78109,-83.32650,0,1,1,"Fire Name: Noe Branch\nFire Started: 11/10/2026\nCurrent Reported Acreage: 20 Acres\nContainment: 30% Contained"
-; Active wildfire incidents plotted: 87; available perimeters plotted: 15
+; Active wildfire incidents plotted: 86; available perimeters plotted: 15
