@@ -821,4 +821,9 @@ Icon: 36.78109,-83.32650,0,1,1,"Fire Name: Noe Branch\nFire Started: 11/10/2026\
 Icon: 33.93838,-118.36675,0,1,1,"Fire Name: LAC-407925\nFire Started: 11/11/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 34.36242,-118.55501,0,1,1,"Fire Name: LAC-408003\nFire Started: 11/11/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 34.54473,-88.27612,0,1,1,"Fire Name: Jordan\nFire Started: 11/10/2026\nCurrent Reported Acreage: 5 Acres\nContainment: Not reported"
-; Active wildfire incidents plotted: 86; available perimeters plotted: 15
+Icon: 34.05914,-117.73274,0,1,1,"Fire Name: LAC-408117\nFire Started: 11/11/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
+Icon: 37.26273,-82.89236,0,1,1,"Fire Name: Lumpkins Lane\nFire Started: 11/11/2026\nCurrent Reported Acreage: 5 Acres\nContainment: 0% Contained"
+Icon: 35.72020,-94.37790,0,1,1,"Fire Name: Switchback\nFire Started: 11/10/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+Icon: 36.50309,-82.05940,0,1,1,"Fire Name: Big Creek\nFire Started: 11/9/2026\nCurrent Reported Acreage: 13 Acres\nContainment: Not reported"
+Icon: 39.52611,-78.31470,0,1,1,"Fire Name: Kessel\nFire Started: 11/9/2026\nCurrent Reported Acreage: 70 Acres\nContainment: Not reported"
+; Active wildfire incidents plotted: 91; available perimeters plotted: 15
