@@ -819,4 +819,5 @@ Icon: 43.01979,-122.37276,0,1,1,"Fire Name: Foster\nFire Started: 11/10/2026\nCu
 Icon: 33.71853,-117.70986,0,1,1,"Fire Name: BEE\nFire Started: 11/10/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 36.78109,-83.32650,0,1,1,"Fire Name: Noe Branch\nFire Started: 11/10/2026\nCurrent Reported Acreage: 50 Acres\nContainment: 70% Contained"
 Icon: 33.93838,-118.36675,0,1,1,"Fire Name: LAC-407925\nFire Started: 11/11/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-; Active wildfire incidents plotted: 84; available perimeters plotted: 15
+Icon: 34.36242,-118.55501,0,1,1,"Fire Name: LAC-408003\nFire Started: 11/11/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
+; Active wildfire incidents plotted: 85; available perimeters plotted: 15
