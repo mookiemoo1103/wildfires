@@ -765,9 +765,6 @@ Icon: 41.31764,-123.52665,0,1,1,"Fire Name: Pear\nFire Started: 11/6/2026\nCurre
 Icon: 32.83119,-116.62834,0,1,1,"Fire Name: MOTORHOME\nFire Started: 11/6/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 34.29499,-118.35801,0,1,1,"Fire Name: ARROW\nFire Started: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 44.53954,-121.38030,0,1,1,"Fire Name: 0927 PROSPECT\nFire Started: 11/7/2026\nCurrent Reported Acreage: 243 Acres\nContainment: Not reported"
-Icon: 41.88201,-122.22451,0,1,1,"Fire Name: EAGLE\nFire Started: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 34.60916,-118.14774,0,1,1,"Fire Name: LAC-403366\nFire Started: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-Icon: 33.92393,-118.30934,0,1,1,"Fire Name: LAC-403382\nFire Started: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 38.65344,-120.70402,0,1,1,"Fire Name: BUCKS\nFire Started: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 34.11987,-117.78671,0,1,1,"Fire Name: LAC-403445\nFire Started: 11/7/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 38.27917,-120.37168,0,1,1,"Fire Name: TCU SUMMIT\nFire Started: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
@@ -825,4 +822,4 @@ Icon: 33.96213,-118.36961,0,1,1,"Fire Name: LAC-406907\nFire Started: 11/10/2026
 Icon: 41.35138,-70.81179,0,1,1,"Fire Name: Lighthouse Rd\nFire Started: 11/10/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 43.01979,-122.37276,0,1,1,"Fire Name: Foster\nFire Started: 11/10/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 33.71853,-117.70986,0,1,1,"Fire Name: BEE\nFire Started: 11/10/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-; Active wildfire incidents plotted: 90; available perimeters plotted: 15
+; Active wildfire incidents plotted: 87; available perimeters plotted: 15
