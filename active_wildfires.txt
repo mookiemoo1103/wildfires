@@ -794,8 +794,6 @@ Icon: 38.69932,-120.85106,0,1,1,"Fire Name: MOTHER\nFire Started: 11/7/2026\nCur
 Icon: 45.34404,-118.68623,0,1,1,"Fire Name: Jungle\nFire Started: 11/7/2026\nCurrent Reported Acreage: 5 Acres\nContainment: Not reported"
 Icon: 34.57034,-118.68680,0,1,1,"Fire Name: GOLDEN\nFire Started: 11/8/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 36.65636,-120.66649,0,1,1,"Fire Name: ILLEGAL BURNING IN WILDLAND\nFire Started: 11/8/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 34.71877,-118.11229,0,1,1,"Fire Name: LAC-404830\nFire Started: 11/8/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-Icon: 34.68285,-118.13421,0,1,1,"Fire Name: LAC-404865\nFire Started: 11/8/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 48.57306,-112.89168,0,1,1,"Fire Name: BLACKFOOT\nFire Started: 11/5/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 36.44656,-84.23785,0,1,1,"Fire Name: Campbell - Glassman Way\nFire Started: 11/8/2026\nCurrent Reported Acreage: 380 Acres\nContainment: 85% Contained"
 Icon: 34.01574,-117.84976,0,1,1,"Fire Name: LAC-405228\nFire Started: 11/9/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
@@ -860,4 +858,7 @@ Icon: 34.67487,-118.16070,0,1,1,"Fire Name: LAC-408845\nFire Started: 11/11/2026
 Icon: 40.05266,-123.55413,0,1,1,"Fire Name: LOOP\nFire Started: 11/11/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 35.86001,-83.20945,0,1,1,"Fire Name: Cocke - Deerfoot Road\nFire Started: 11/11/2026\nCurrent Reported Acreage: 2 Acres\nContainment: 0% Contained"
 Icon: 40.50220,-121.90585,0,1,1,"Fire Name: SHASTA\nFire Started: 11/11/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-; Active wildfire incidents plotted: 100; available perimeters plotted: 18
+Icon: 36.65151,-83.95997,0,1,1,"Fire Name: Highway 1595\nFire Started: 11/11/2026\nCurrent Reported Acreage: 1 Acres\nContainment: 0% Contained"
+Icon: 36.99504,-83.77659,0,1,1,"Fire Name: Hammons Fork\nFire Started: 11/11/2026\nCurrent Reported Acreage: 8 Acres\nContainment: 30% Contained"
+Icon: 45.32239,-116.98702,0,1,1,"Fire Name: Armin road\nFire Started: 11/11/2026\nCurrent Reported Acreage: 2 Acres\nContainment: Not reported"
+; Active wildfire incidents plotted: 101; available perimeters plotted: 18
