@@ -751,7 +751,6 @@ Polygon:
 End:
 Icon: 45.31394,-91.39853,0,1,1,"Fire Name: Island Lake\nFire Started: 10/20/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 44.04966,-89.93085,0,1,1,"Fire Name: Kernel\nFire Started: 10/20/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
-Icon: 43.75627,-89.96293,0,1,1,"Fire Name: MM 78.4\nFire Started: 10/21/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 45.11582,-88.44351,0,1,1,"Fire Name: South Shore\nFire Started: 10/21/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 44.38006,-121.26730,0,1,1,"Fire Name: 0902 QUAIL\nFire Started: 10/21/2026\nCurrent Reported Acreage: 4 Acres\nContainment: Not reported"
 Icon: 45.71629,-92.66012,0,1,1,"Fire Name: Corn\nFire Started: 10/22/2026\nCurrent Reported Acreage: 2 Acres\nContainment: Not reported"
@@ -849,4 +848,7 @@ Icon: 36.66154,-83.97505,0,1,1,"Fire Name: Trace Branch\nFire Started: 11/11/202
 Icon: 31.13007,-89.06386,0,1,1,"Fire Name: Red Hill\nFire Started: 11/11/2026\nCurrent Reported Acreage: 519 Acres\nContainment: Not reported"
 Icon: 44.44624,-72.72627,0,1,1,"Fire Name: 2026083\nFire Started: 10/27/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 43.69316,-73.07659,0,1,1,"Fire Name: 2026085\nFire Started: 10/25/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-; Active wildfire incidents plotted: 100; available perimeters plotted: 17
+Icon: 33.92601,-118.17771,0,1,1,"Fire Name: LAC-409431\nFire Started: 11/12/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
+Icon: 38.80651,-120.80618,0,1,1,"Fire Name: FLY\nFire Started: 11/12/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+Icon: 34.67487,-118.16070,0,1,1,"Fire Name: LAC-409444\nFire Started: 11/12/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
+; Active wildfire incidents plotted: 102; available perimeters plotted: 17
