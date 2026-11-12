@@ -840,12 +840,10 @@ Icon: 34.37806,-92.02873,0,1,1,"Fire Name: Jefferson 359\nFire Started: 11/11/20
 Icon: 43.14316,-100.90141,0,1,1,"Fire Name: 221 Cottonwood\nFire Started: 11/11/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 37.35293,-82.68706,0,1,1,"Fire Name: Harris Hollow Lane\nFire Started: 11/11/2026\nCurrent Reported Acreage: 60 Acres\nContainment: 30% Contained"
 Icon: 34.67487,-118.16070,0,1,1,"Fire Name: LAC-408845\nFire Started: 11/11/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-Icon: 40.05266,-123.55413,0,1,1,"Fire Name: LOOP\nFire Started: 11/11/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
 Icon: 35.86001,-83.20945,0,1,1,"Fire Name: Cocke - Deerfoot Road\nFire Started: 11/11/2026\nCurrent Reported Acreage: 3 Acres\nContainment: 75% Contained"
-Icon: 36.99504,-83.77659,0,1,1,"Fire Name: Hammons Fork\nFire Started: 11/11/2026\nCurrent Reported Acreage: 8 Acres\nContainment: 30% Contained"
 Icon: 45.32239,-116.98702,0,1,1,"Fire Name: Armin road\nFire Started: 11/11/2026\nCurrent Reported Acreage: 2 Acres\nContainment: Not reported"
 Icon: 34.67487,-118.16070,0,1,1,"Fire Name: LAC-409065\nFire Started: 11/11/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-Icon: 36.31737,-82.73285,0,1,1,"Fire Name: Greene - West Pines Road\nFire Started: 11/11/2026\nCurrent Reported Acreage: 0 Acres\nContainment: 0% Contained"
 Icon: 37.08798,-83.68733,0,1,1,"Fire Name: Grannies Branch\nFire Started: 11/11/2026\nCurrent Reported Acreage: 25 Acres\nContainment: 5% Contained"
-Icon: 36.66522,-83.97308,0,1,1,"Fire Name: Trace Branch\nFire Started: 11/11/2026\nCurrent Reported Acreage: 10 Acres\nContainment: 0% Contained"
-; Active wildfire incidents plotted: 99; available perimeters plotted: 17
+Icon: 36.66154,-83.97505,0,1,1,"Fire Name: Trace Branch\nFire Started: 11/11/2026\nCurrent Reported Acreage: 20 Acres\nContainment: 75% Contained"
+Icon: 31.13007,-89.06386,0,1,1,"Fire Name: Red Hill\nFire Started: 11/11/2026\nCurrent Reported Acreage: 519 Acres\nContainment: Not reported"
+; Active wildfire incidents plotted: 97; available perimeters plotted: 17
