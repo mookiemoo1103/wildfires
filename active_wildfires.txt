@@ -413,29 +413,6 @@ Polygon:
 44.05008,-89.93082,255,0,0,89
 44.04966,-89.93054,255,0,0,89
 End:
-; Perimeter: Hill | Fire Name: Hill\nPerimeter Acreage: 0 Acres\nContainment: Not reported\nSource: NIFC WFIGS current fire perimeters
-Polygon:
-45.97233,-89.95437,255,0,0,89
-45.97296,-89.95439,255,0,0,89
-45.97260,-89.95409,255,0,0,89
-45.97233,-89.95437,255,0,0,89
-45.97233,-89.95437,255,0,0,89
-45.97230,-89.95436,255,0,0,89
-45.97230,-89.95438,255,0,0,89
-45.97233,-89.95437,255,0,0,89
-45.97227,-89.95437,255,0,0,89
-45.97228,-89.95436,255,0,0,89
-45.97226,-89.95433,255,0,0,89
-45.97227,-89.95437,255,0,0,89
-45.97230,-89.95436,255,0,0,89
-45.97229,-89.95435,255,0,0,89
-45.97228,-89.95436,255,0,0,89
-45.97230,-89.95436,255,0,0,89
-45.97228,-89.95436,255,0,0,89
-45.97228,-89.95436,255,0,0,89
-45.97228,-89.95436,255,0,0,89
-45.97228,-89.95436,255,0,0,89
-End:
 ; Perimeter: Cherry Plain | Fire Name: Cherry Plain\nPerimeter Acreage: 251 Acres\nContainment: 99% Contained\nSource: NIFC WFIGS current fire perimeters
 Polygon:
 42.64258,-73.31273,255,0,0,89
@@ -659,7 +636,6 @@ Icon: 30.49528,-82.85778,0,1,1,"Fire Name: BEE HAVEN (2) (24-06)\nFire Started: 
 Icon: 45.94277,-91.37256,0,1,1,"Fire Name: Trepania\nFire Started: 10/24/2026\nCurrent Reported Acreage: 3 Acres\nContainment: Not reported"
 Icon: 45.59214,-92.72342,0,1,1,"Fire Name: Evergreen\nFire Started: 10/24/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 44.65781,-89.82691,0,1,1,"Fire Name: Bitternut\nFire Started: 10/23/2026\nCurrent Reported Acreage: 4 Acres\nContainment: Not reported"
-Icon: 45.97231,-89.95440,0,1,1,"Fire Name: Hill\nFire Started: 10/24/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 43.79811,-89.63352,0,1,1,"Fire Name: North Shore Dr\nFire Started: 10/25/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 44.11722,-88.99621,0,1,1,"Fire Name: New Address\nFire Started: 10/26/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 43.73998,-89.93101,0,1,1,"Fire Name: MM 76\nFire Started: 10/27/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
@@ -742,4 +718,4 @@ Icon: 35.04331,-94.00011,0,1,1,"Fire Name: Logan 240\nFire Started: 11/12/2026\n
 Icon: 38.94430,-123.32048,0,1,1,"Fire Name: MEYER\nFire Started: 11/12/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 31.91660,-95.61628,0,1,1,"Fire Name: Anderson 9931\nFire Started: 11/12/2026\nCurrent Reported Acreage: 15 Acres\nContainment: 0% Contained"
 Icon: 39.37995,-121.23829,0,1,1,"Fire Name: TOLLES\nFire Started: 11/12/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-; Active wildfire incidents plotted: 88; available perimeters plotted: 9
+; Active wildfire incidents plotted: 87; available perimeters plotted: 8
