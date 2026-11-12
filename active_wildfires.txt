@@ -749,6 +749,17 @@ Polygon:
 35.42599,-117.75675,255,0,0,89
 35.42550,-117.75647,255,0,0,89
 End:
+; Perimeter: Geis Spring | Fire Name: Geis Spring\nPerimeter Acreage: 10 Acres\nContainment: Not reported\nSource: NIFC WFIGS current fire perimeters
+Polygon:
+44.68709,-104.35361,255,0,0,89
+44.68659,-104.35352,255,0,0,89
+44.68636,-104.35455,255,0,0,89
+44.68724,-104.35650,255,0,0,89
+44.68807,-104.35700,255,0,0,89
+44.68844,-104.35642,255,0,0,89
+44.68845,-104.35543,255,0,0,89
+44.68709,-104.35361,255,0,0,89
+End:
 Icon: 45.31394,-91.39853,0,1,1,"Fire Name: Island Lake\nFire Started: 10/20/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 44.04966,-89.93085,0,1,1,"Fire Name: Kernel\nFire Started: 10/20/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
 Icon: 43.75627,-89.96293,0,1,1,"Fire Name: MM 78.4\nFire Started: 10/21/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
@@ -826,7 +837,7 @@ Icon: 33.96213,-118.36961,0,1,1,"Fire Name: LAC-406907\nFire Started: 11/10/2026
 Icon: 41.35138,-70.81179,0,1,1,"Fire Name: Lighthouse Rd\nFire Started: 11/10/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 43.01979,-122.37276,0,1,1,"Fire Name: Foster\nFire Started: 11/10/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 33.71853,-117.70986,0,1,1,"Fire Name: BEE\nFire Started: 11/10/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-Icon: 36.78109,-83.32650,0,1,1,"Fire Name: Noe Branch\nFire Started: 11/10/2026\nCurrent Reported Acreage: 50 Acres\nContainment: 70% Contained"
+Icon: 36.78109,-83.32650,0,1,1,"Fire Name: Noe Branch\nFire Started: 11/10/2026\nCurrent Reported Acreage: 60 Acres\nContainment: 70% Contained"
 Icon: 33.93838,-118.36675,0,1,1,"Fire Name: LAC-407925\nFire Started: 11/11/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 34.36242,-118.55501,0,1,1,"Fire Name: LAC-408003\nFire Started: 11/11/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 34.54473,-88.27612,0,1,1,"Fire Name: Jordan\nFire Started: 11/10/2026\nCurrent Reported Acreage: 5 Acres\nContainment: Not reported"
@@ -842,13 +853,13 @@ Icon: 34.51520,-118.11031,0,1,1,"Fire Name: LAC-408395\nFire Started: 11/11/2026
 Icon: 44.68440,-104.34620,0,1,1,"Fire Name: Geis Spring\nFire Started: 11/11/2026\nCurrent Reported Acreage: 10 Acres\nContainment: Not reported"
 Icon: 39.04200,-120.73675,0,1,1,"Fire Name: MICHIGAN\nFire Started: 11/11/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
 Icon: 36.65099,-83.65354,0,1,1,"Fire Name: Highway 988\nFire Started: 11/11/2026\nCurrent Reported Acreage: 7 Acres\nContainment: 50% Contained"
-Icon: 39.06712,-122.95837,0,1,1,"Fire Name: DESSIE\nFire Started: 11/11/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 36.75879,-84.00435,0,1,1,"Fire Name: Smith Bend #2\nFire Started: 11/11/2026\nCurrent Reported Acreage: 10 Acres\nContainment: 60% Contained"
 Icon: 45.04251,-118.89365,0,1,1,"Fire Name: Bridge Creek\nFire Started: 11/11/2026\nCurrent Reported Acreage: 157 Acres\nContainment: Not reported"
 Icon: 34.56323,-92.53649,0,1,1,"Fire Name: Saline 290\nFire Started: 11/11/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
 Icon: 38.23494,-83.07621,0,1,1,"Fire Name: 229 Pine Springs Road\nFire Started: 11/11/2026\nCurrent Reported Acreage: 5 Acres\nContainment: 0% Contained"
 Icon: 34.37806,-92.02873,0,1,1,"Fire Name: Jefferson 359\nFire Started: 11/11/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
 Icon: 38.14326,-82.72624,0,1,1,"Fire Name: Lawrence County - 1622 Morgans Creek Road\nFire Started: 11/11/2026\nCurrent Reported Acreage: 1 Acres\nContainment: 0% Contained"
-Icon: 37.44151,-82.17848,0,1,1,"Fire Name: Hwy 194\nFire Started: 11/11/2026\nCurrent Reported Acreage: 40 Acres\nContainment: 60% Contained"
+Icon: 37.44151,-82.17848,0,1,1,"Fire Name: Hwy 194\nFire Started: 11/11/2026\nCurrent Reported Acreage: 40 Acres\nContainment: 80% Contained"
 Icon: 35.06896,-91.95664,0,1,1,"Fire Name: White 226\nFire Started: 11/11/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
-; Active wildfire incidents plotted: 102; available perimeters plotted: 17
+Icon: 43.14316,-100.90141,0,1,1,"Fire Name: 221 Cottonwood\nFire Started: 11/11/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+Icon: 36.95204,-83.85462,0,1,1,"Fire Name: Highway 1304\nFire Started: 11/11/2026\nCurrent Reported Acreage: 7 Acres\nContainment: 55% Contained"
+; Active wildfire incidents plotted: 102; available perimeters plotted: 18
