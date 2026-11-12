@@ -783,7 +783,6 @@ Icon: 38.69932,-120.85106,0,1,1,"Fire Name: MOTHER\nFire Started: 11/7/2026\nCur
 Icon: 45.34404,-118.68623,0,1,1,"Fire Name: Jungle\nFire Started: 11/7/2026\nCurrent Reported Acreage: 5 Acres\nContainment: Not reported"
 Icon: 34.57034,-118.68680,0,1,1,"Fire Name: GOLDEN\nFire Started: 11/8/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 36.44656,-84.23785,0,1,1,"Fire Name: Campbell - Glassman Way\nFire Started: 11/8/2026\nCurrent Reported Acreage: 380 Acres\nContainment: 85% Contained"
-Icon: 34.01574,-117.84976,0,1,1,"Fire Name: LAC-405228\nFire Started: 11/9/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 45.69674,-88.14187,0,1,1,"Fire Name: Bolt\nFire Started: 11/6/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 34.68765,-118.13503,0,1,1,"Fire Name: LAC-405512\nFire Started: 11/9/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 43.87968,-90.14017,0,1,1,"Fire Name: Outskirts\nFire Started: 11/8/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
@@ -846,4 +845,4 @@ Icon: 34.67487,-118.16070,0,1,1,"Fire Name: LAC-409065\nFire Started: 11/11/2026
 Icon: 37.08798,-83.68733,0,1,1,"Fire Name: Grannies Branch\nFire Started: 11/11/2026\nCurrent Reported Acreage: 25 Acres\nContainment: 5% Contained"
 Icon: 36.66154,-83.97505,0,1,1,"Fire Name: Trace Branch\nFire Started: 11/11/2026\nCurrent Reported Acreage: 20 Acres\nContainment: 75% Contained"
 Icon: 31.13007,-89.06386,0,1,1,"Fire Name: Red Hill\nFire Started: 11/11/2026\nCurrent Reported Acreage: 519 Acres\nContainment: Not reported"
-; Active wildfire incidents plotted: 97; available perimeters plotted: 17
+; Active wildfire incidents plotted: 96; available perimeters plotted: 17
