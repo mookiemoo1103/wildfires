@@ -845,4 +845,5 @@ Icon: 34.67487,-118.16070,0,1,1,"Fire Name: LAC-409065\nFire Started: 11/11/2026
 Icon: 37.08798,-83.68733,0,1,1,"Fire Name: Grannies Branch\nFire Started: 11/11/2026\nCurrent Reported Acreage: 25 Acres\nContainment: 5% Contained"
 Icon: 36.66154,-83.97505,0,1,1,"Fire Name: Trace Branch\nFire Started: 11/11/2026\nCurrent Reported Acreage: 20 Acres\nContainment: 75% Contained"
 Icon: 31.13007,-89.06386,0,1,1,"Fire Name: Red Hill\nFire Started: 11/11/2026\nCurrent Reported Acreage: 519 Acres\nContainment: Not reported"
-; Active wildfire incidents plotted: 96; available perimeters plotted: 17
+Icon: 39.21904,-121.09859,0,1,1,"Fire Name: DIXON\nFire Started: 11/12/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+; Active wildfire incidents plotted: 97; available perimeters plotted: 17
