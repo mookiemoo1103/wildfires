@@ -405,13 +405,6 @@ Polygon:
 48.66299,-116.64140,255,0,0,89
 48.66249,-116.64145,255,0,0,89
 End:
-; Perimeter: Island Lake | Fire Name: Island Lake\nPerimeter Acreage: Not reported\nContainment: Not reported\nSource: NIFC WFIGS current fire perimeters
-Polygon:
-45.31390,-91.39851,255,0,0,89
-45.31377,-91.39859,255,0,0,89
-45.31389,-91.39876,255,0,0,89
-45.31390,-91.39851,255,0,0,89
-End:
 ; Perimeter: South Shore | Fire Name: South Shore\nPerimeter Acreage: 0 Acres\nContainment: Not reported\nSource: NIFC WFIGS current fire perimeters
 Polygon:
 45.11585,-88.44347,255,0,0,89
@@ -749,7 +742,6 @@ Polygon:
 35.42599,-117.75675,255,0,0,89
 35.42550,-117.75647,255,0,0,89
 End:
-Icon: 45.31394,-91.39853,0,1,1,"Fire Name: Island Lake\nFire Started: 10/20/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 44.04966,-89.93085,0,1,1,"Fire Name: Kernel\nFire Started: 10/20/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
 Icon: 45.11582,-88.44351,0,1,1,"Fire Name: South Shore\nFire Started: 10/21/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 44.38006,-121.26730,0,1,1,"Fire Name: 0902 QUAIL\nFire Started: 10/21/2026\nCurrent Reported Acreage: 4 Acres\nContainment: Not reported"
@@ -783,7 +775,6 @@ Icon: 38.65344,-120.70402,0,1,1,"Fire Name: BUCKS\nFire Started: 11/7/2026\nCurr
 Icon: 38.69932,-120.85106,0,1,1,"Fire Name: MOTHER\nFire Started: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 34.57034,-118.68680,0,1,1,"Fire Name: GOLDEN\nFire Started: 11/8/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 36.44656,-84.23785,0,1,1,"Fire Name: Campbell - Glassman Way\nFire Started: 11/8/2026\nCurrent Reported Acreage: 380 Acres\nContainment: 85% Contained"
-Icon: 34.68765,-118.13503,0,1,1,"Fire Name: LAC-405512\nFire Started: 11/9/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 43.87968,-90.14017,0,1,1,"Fire Name: Outskirts\nFire Started: 11/8/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 43.82232,-89.93343,0,1,1,"Fire Name: Marion\nFire Started: 11/8/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 34.46947,-117.76511,0,1,1,"Fire Name: LARGO\nFire Started: 11/9/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
@@ -847,8 +838,14 @@ Icon: 44.44624,-72.72627,0,1,1,"Fire Name: 2026083\nFire Started: 10/27/2026\nCu
 Icon: 43.69316,-73.07659,0,1,1,"Fire Name: 2026085\nFire Started: 10/25/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 33.92601,-118.17771,0,1,1,"Fire Name: LAC-409431\nFire Started: 11/12/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 34.67487,-118.16070,0,1,1,"Fire Name: LAC-409444\nFire Started: 11/12/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-Icon: 41.27029,-77.77445,0,1,1,"Fire Name: Mack's Curve\nFire Started: 11/4/2026\nCurrent Reported Acreage: 170 Acres\nContainment: 45% Contained"
-Icon: 37.02208,-83.46848,0,1,1,"Fire Name: RED - 326\nFire Started: 11/12/2026\nCurrent Reported Acreage: 5 Acres\nContainment: Not reported"
+Icon: 37.02208,-83.46848,0,1,1,"Fire Name: RED - Jacks Creek\nFire Started: 11/12/2026\nCurrent Reported Acreage: 5 Acres\nContainment: Not reported"
 Icon: 34.61500,-85.03056,0,1,1,"Fire Name: Bravo\nFire Started: 11/11/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 41.10781,-74.97739,0,1,1,"Fire Name: Rosenkrans\nFire Started: 11/12/2026\nCurrent Reported Acreage: 3 Acres\nContainment: Not reported"
-; Active wildfire incidents plotted: 102; available perimeters plotted: 17
+Icon: 33.90885,-118.01174,0,1,1,"Fire Name: LAC-409499\nFire Started: 11/12/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
+Icon: 45.36449,-90.94738,0,1,1,"Fire Name: Hwy V\nFire Started: 11/7/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+Icon: 45.52574,-91.10787,0,1,1,"Fire Name: Cutoff\nFire Started: 11/8/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
+Icon: 34.63114,-118.12587,0,1,1,"Fire Name: LAC-409520\nFire Started: 11/12/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
+Icon: 34.00304,-117.87166,0,1,1,"Fire Name: LAC-409525\nFire Started: 11/12/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
+Icon: 34.68377,-118.16571,0,1,1,"Fire Name: LAC-409534\nFire Started: 11/12/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
+Icon: 30.51394,-88.77192,0,1,1,"Fire Name: Brad-AL\nFire Started: 11/8/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+; Active wildfire incidents plotted: 106; available perimeters plotted: 16
