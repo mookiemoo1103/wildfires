@@ -851,14 +851,11 @@ Icon: 44.68440,-104.34620,0,1,1,"Fire Name: Geis Spring\nFire Started: 11/11/202
 Icon: 36.65099,-83.65354,0,1,1,"Fire Name: Highway 988\nFire Started: 11/11/2026\nCurrent Reported Acreage: 9 Acres\nContainment: 90% Contained"
 Icon: 45.04251,-118.89365,0,1,1,"Fire Name: Bridge Creek\nFire Started: 11/11/2026\nCurrent Reported Acreage: 157 Acres\nContainment: Not reported"
 Icon: 34.37806,-92.02873,0,1,1,"Fire Name: Jefferson 359\nFire Started: 11/11/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
-Icon: 35.06896,-91.95664,0,1,1,"Fire Name: White 226\nFire Started: 11/11/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
 Icon: 43.14316,-100.90141,0,1,1,"Fire Name: 221 Cottonwood\nFire Started: 11/11/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 37.35293,-82.68706,0,1,1,"Fire Name: Harris Hollow Lane\nFire Started: 11/11/2026\nCurrent Reported Acreage: 40 Acres\nContainment: 0% Contained"
+Icon: 37.35293,-82.68706,0,1,1,"Fire Name: Harris Hollow Lane\nFire Started: 11/11/2026\nCurrent Reported Acreage: 45 Acres\nContainment: 30% Contained"
 Icon: 34.67487,-118.16070,0,1,1,"Fire Name: LAC-408845\nFire Started: 11/11/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 40.05266,-123.55413,0,1,1,"Fire Name: LOOP\nFire Started: 11/11/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 35.86001,-83.20945,0,1,1,"Fire Name: Cocke - Deerfoot Road\nFire Started: 11/11/2026\nCurrent Reported Acreage: 2 Acres\nContainment: 0% Contained"
-Icon: 40.50220,-121.90585,0,1,1,"Fire Name: SHASTA\nFire Started: 11/11/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 36.65151,-83.95997,0,1,1,"Fire Name: Highway 1595\nFire Started: 11/11/2026\nCurrent Reported Acreage: 1 Acres\nContainment: 0% Contained"
 Icon: 36.99504,-83.77659,0,1,1,"Fire Name: Hammons Fork\nFire Started: 11/11/2026\nCurrent Reported Acreage: 8 Acres\nContainment: 30% Contained"
 Icon: 45.32239,-116.98702,0,1,1,"Fire Name: Armin road\nFire Started: 11/11/2026\nCurrent Reported Acreage: 2 Acres\nContainment: Not reported"
-; Active wildfire incidents plotted: 101; available perimeters plotted: 18
+; Active wildfire incidents plotted: 98; available perimeters plotted: 18
