@@ -405,13 +405,6 @@ Polygon:
 48.66299,-116.64140,255,0,0,89
 48.66249,-116.64145,255,0,0,89
 End:
-; Perimeter: South Shore | Fire Name: South Shore\nPerimeter Acreage: 0 Acres\nContainment: Not reported\nSource: NIFC WFIGS current fire perimeters
-Polygon:
-45.11585,-88.44347,255,0,0,89
-45.11579,-88.44348,255,0,0,89
-45.11582,-88.44358,255,0,0,89
-45.11585,-88.44347,255,0,0,89
-End:
 ; Perimeter: Kernel | Fire Name: Kernel\nPerimeter Acreage: 1 Acres\nContainment: Not reported\nSource: NIFC WFIGS current fire perimeters
 Polygon:
 44.04966,-89.93054,255,0,0,89
@@ -428,36 +421,6 @@ Polygon:
 45.71613,-92.65984,255,0,0,89
 45.71613,-92.66043,255,0,0,89
 45.71657,-92.66055,255,0,0,89
-End:
-; Perimeter: Tower | Fire Name: Tower\nPerimeter Acreage: 11 Acres\nContainment: Not reported\nSource: NIFC WFIGS current fire perimeters
-Polygon:
-45.36084,-90.02770,255,0,0,89
-45.36083,-90.02707,255,0,0,89
-45.36053,-90.02722,255,0,0,89
-45.36033,-90.02975,255,0,0,89
-45.36124,-90.03089,255,0,0,89
-45.36231,-90.02954,255,0,0,89
-45.36229,-90.02881,255,0,0,89
-45.36191,-90.02895,255,0,0,89
-45.36243,-90.02840,255,0,0,89
-45.36179,-90.02765,255,0,0,89
-45.36120,-90.02768,255,0,0,89
-45.36109,-90.02740,255,0,0,89
-45.36084,-90.02770,255,0,0,89
-End:
-; Perimeter: Springbrook | Fire Name: Springbrook\nPerimeter Acreage: 1 Acres\nContainment: Not reported\nSource: NIFC WFIGS current fire perimeters
-Polygon:
-45.10040,-89.23454,255,0,0,89
-45.10031,-89.23395,255,0,0,89
-45.09976,-89.23402,255,0,0,89
-45.09971,-89.23359,255,0,0,89
-45.09946,-89.23378,255,0,0,89
-45.09997,-89.23477,255,0,0,89
-45.10040,-89.23454,255,0,0,89
-45.09969,-89.23445,255,0,0,89
-45.09971,-89.23444,255,0,0,89
-45.09970,-89.23443,255,0,0,89
-45.09969,-89.23445,255,0,0,89
 End:
 ; Perimeter: Hill | Fire Name: Hill\nPerimeter Acreage: 0 Acres\nContainment: Not reported\nSource: NIFC WFIGS current fire perimeters
 Polygon:
@@ -736,13 +699,10 @@ Polygon:
 35.42550,-117.75647,255,0,0,89
 End:
 Icon: 44.04966,-89.93085,0,1,1,"Fire Name: Kernel\nFire Started: 10/20/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
-Icon: 45.11582,-88.44351,0,1,1,"Fire Name: South Shore\nFire Started: 10/21/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 44.38006,-121.26730,0,1,1,"Fire Name: 0902 QUAIL\nFire Started: 10/21/2026\nCurrent Reported Acreage: 4 Acres\nContainment: Not reported"
 Icon: 45.71629,-92.66012,0,1,1,"Fire Name: Corn\nFire Started: 10/22/2026\nCurrent Reported Acreage: 2 Acres\nContainment: Not reported"
 Icon: 30.49528,-82.85778,0,1,1,"Fire Name: BEE HAVEN (2) (24-06)\nFire Started: 10/21/2026\nCurrent Reported Acreage: 2,060 Acres\nContainment: 85% Contained"
-Icon: 45.36078,-90.02798,0,1,1,"Fire Name: Tower\nFire Started: 10/21/2026\nCurrent Reported Acreage: 11 Acres\nContainment: Not reported"
 Icon: 45.94277,-91.37256,0,1,1,"Fire Name: Trepania\nFire Started: 10/24/2026\nCurrent Reported Acreage: 3 Acres\nContainment: Not reported"
-Icon: 45.09966,-89.23414,0,1,1,"Fire Name: Springbrook\nFire Started: 10/15/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
 Icon: 45.59214,-92.72342,0,1,1,"Fire Name: Evergreen\nFire Started: 10/24/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 44.65781,-89.82691,0,1,1,"Fire Name: Bitternut\nFire Started: 10/23/2026\nCurrent Reported Acreage: 4 Acres\nContainment: Not reported"
 Icon: 45.97231,-89.95440,0,1,1,"Fire Name: Hill\nFire Started: 10/24/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
@@ -835,4 +795,6 @@ Icon: 33.27465,-79.67306,0,1,1,"Fire Name: Emu\nFire Started: 11/11/2026\nCurren
 Icon: 37.92392,-78.96606,0,1,1,"Fire Name: Hickory Spring\nFire Started: 11/10/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 34.34107,-118.50601,0,1,1,"Fire Name: GOLDEN\nFire Started: 11/12/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 35.04331,-94.00011,0,1,1,"Fire Name: Logan 240\nFire Started: 11/12/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
-; Active wildfire incidents plotted: 100; available perimeters plotted: 15
+Icon: 38.94430,-123.32048,0,1,1,"Fire Name: MEYER\nFire Started: 11/12/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+Icon: 31.91398,-95.61682,0,1,1,"Fire Name: Anderson 9931\nFire Started: 11/12/2026\nCurrent Reported Acreage: 15 Acres\nContainment: 0% Contained"
+; Active wildfire incidents plotted: 99; available perimeters plotted: 12
