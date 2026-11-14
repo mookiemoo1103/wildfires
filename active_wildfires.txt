@@ -269,5 +269,11 @@ Icon: 31.91660,-95.61628,0,1,1,"Fire Name: Anderson 9931\nFire Started: 11/12/20
 Icon: 39.37995,-121.23829,0,1,1,"Fire Name: TOLLES\nFire Started: 11/12/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 34.55823,-117.59092,0,1,1,"Fire Name: MTZ/BDC/RANCHO\nFire Started: 11/12/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 45.20437,-117.23786,0,1,1,"Fire Name: West Fork\nFire Started: 11/12/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 42.71286,-116.44479,0,1,1,"Fire Name: MUD\nFire Started: 11/12/2026\nCurrent Reported Acreage: 2,096 Acres\nContainment: 50% Contained"
-; Active wildfire incidents plotted: 62; available perimeters plotted: 4
+Icon: 33.91747,-118.36786,0,1,1,"Fire Name: LAC-411401\nFire Started: 11/13/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
+Icon: 31.11681,-89.15471,0,1,1,"Fire Name: Range 43 & Range 45\nFire Started: 11/13/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+Icon: 34.01186,-118.37315,0,1,1,"Fire Name: LAC-411383\nFire Started: 11/13/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
+Icon: 31.09983,-89.15933,0,1,1,"Fire Name: Range 47\nFire Started: 11/13/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+Icon: 44.11072,-118.53655,0,1,1,"Fire Name: BLACK CANYON\nFire Started: 11/13/2026\nCurrent Reported Acreage: 8 Acres\nContainment: Not reported"
+Icon: 48.60417,-122.13449,0,1,1,"Fire Name: ROARING CREEK\nFire Started: 11/13/2026\nCurrent Reported Acreage: 5 Acres\nContainment: Not reported"
+Icon: 44.06847,-118.51571,0,1,1,"Fire Name: JUNE\nFire Started: 11/13/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+; Active wildfire incidents plotted: 68; available perimeters plotted: 4
