@@ -7,159 +7,6 @@ Title: Active Wildfires - Last 30 Days (NIFC) with Perimeters
 RefreshSeconds: 300
 Font: 1, 12, 1, "Arial"
 IconFile: 1, 128, 128, 64, 64, "https://raw.githubusercontent.com/mookiemoo1103/wildfires/main/assets/fire_icon.png"
-; Perimeter: West Fork | Fire Name: West Fork\nPerimeter Acreage: 310 Acres\nContainment: 16% Contained\nSource: NIFC WFIGS current fire perimeters
-Polygon:
-46.93868,-121.71327,255,0,0,89
-46.93841,-121.71419,255,0,0,89
-46.93822,-121.71404,255,0,0,89
-46.93800,-121.71538,255,0,0,89
-46.93819,-121.71565,255,0,0,89
-46.93796,-121.71654,255,0,0,89
-46.93764,-121.71662,255,0,0,89
-46.93760,-121.71786,255,0,0,89
-46.93725,-121.71808,255,0,0,89
-46.93771,-121.71927,255,0,0,89
-46.93682,-121.71989,255,0,0,89
-46.93767,-121.72072,255,0,0,89
-46.93841,-121.72044,255,0,0,89
-46.93835,-121.71968,255,0,0,89
-46.93874,-121.71871,255,0,0,89
-46.93919,-121.71921,255,0,0,89
-46.93909,-121.72021,255,0,0,89
-46.93836,-121.72101,255,0,0,89
-46.93841,-121.72211,255,0,0,89
-46.93961,-121.72217,255,0,0,89
-46.93976,-121.72173,255,0,0,89
-46.94020,-121.72214,255,0,0,89
-46.94023,-121.72288,255,0,0,89
-46.93990,-121.72298,255,0,0,89
-46.93984,-121.72362,255,0,0,89
-46.94061,-121.72415,255,0,0,89
-46.94049,-121.72527,255,0,0,89
-46.94079,-121.72578,255,0,0,89
-46.94112,-121.72577,255,0,0,89
-46.94097,-121.72644,255,0,0,89
-46.94123,-121.72649,255,0,0,89
-46.94071,-121.72692,255,0,0,89
-46.94058,-121.72780,255,0,0,89
-46.94102,-121.72760,255,0,0,89
-46.94124,-121.72937,255,0,0,89
-46.94166,-121.72974,255,0,0,89
-46.94213,-121.72962,255,0,0,89
-46.94218,-121.73070,255,0,0,89
-46.94247,-121.73076,255,0,0,89
-46.94268,-121.73033,255,0,0,89
-46.94299,-121.73070,255,0,0,89
-46.94293,-121.73165,255,0,0,89
-46.94367,-121.73211,255,0,0,89
-46.94451,-121.72973,255,0,0,89
-46.94429,-121.72916,255,0,0,89
-46.94473,-121.72891,255,0,0,89
-46.94445,-121.72847,255,0,0,89
-46.94454,-121.72757,255,0,0,89
-46.94404,-121.72721,255,0,0,89
-46.94430,-121.72666,255,0,0,89
-46.94429,-121.72488,255,0,0,89
-46.94605,-121.72237,255,0,0,89
-46.94643,-121.72233,255,0,0,89
-46.94697,-121.72045,255,0,0,89
-46.94643,-121.72101,255,0,0,89
-46.94636,-121.72061,255,0,0,89
-46.94710,-121.71970,255,0,0,89
-46.94768,-121.71996,255,0,0,89
-46.94751,-121.71896,255,0,0,89
-46.94799,-121.71882,255,0,0,89
-46.94804,-121.71755,255,0,0,89
-46.94848,-121.71767,255,0,0,89
-46.94851,-121.71833,255,0,0,89
-46.94879,-121.71774,255,0,0,89
-46.94892,-121.71812,255,0,0,89
-46.94934,-121.71786,255,0,0,89
-46.94931,-121.71693,255,0,0,89
-46.94896,-121.71719,255,0,0,89
-46.94852,-121.71699,255,0,0,89
-46.94863,-121.71676,255,0,0,89
-46.94844,-121.71690,255,0,0,89
-46.94883,-121.71617,255,0,0,89
-46.94851,-121.71539,255,0,0,89
-46.94793,-121.71529,255,0,0,89
-46.94766,-121.71559,255,0,0,89
-46.94706,-121.71507,255,0,0,89
-46.94776,-121.71265,255,0,0,89
-46.94707,-121.71337,255,0,0,89
-46.94691,-121.71265,255,0,0,89
-46.94656,-121.71285,255,0,0,89
-46.94731,-121.71072,255,0,0,89
-46.94717,-121.71056,255,0,0,89
-46.94691,-121.71089,255,0,0,89
-46.94668,-121.71066,255,0,0,89
-46.94705,-121.71002,255,0,0,89
-46.94682,-121.70946,255,0,0,89
-46.94655,-121.71001,255,0,0,89
-46.94628,-121.70962,255,0,0,89
-46.94694,-121.70904,255,0,0,89
-46.94701,-121.70841,255,0,0,89
-46.94632,-121.70649,255,0,0,89
-46.94628,-121.70696,255,0,0,89
-46.94609,-121.70679,255,0,0,89
-46.94639,-121.70598,255,0,0,89
-46.94609,-121.70562,255,0,0,89
-46.94586,-121.70644,255,0,0,89
-46.94562,-121.70593,255,0,0,89
-46.94546,-121.70707,255,0,0,89
-46.94512,-121.70631,255,0,0,89
-46.94509,-121.70745,255,0,0,89
-46.94433,-121.70825,255,0,0,89
-46.94392,-121.70840,255,0,0,89
-46.94358,-121.70793,255,0,0,89
-46.94335,-121.70834,255,0,0,89
-46.94253,-121.70824,255,0,0,89
-46.94268,-121.70938,255,0,0,89
-46.94306,-121.70938,255,0,0,89
-46.94319,-121.71005,255,0,0,89
-46.94384,-121.71038,255,0,0,89
-46.94393,-121.71095,255,0,0,89
-46.94335,-121.71051,255,0,0,89
-46.94325,-121.71094,255,0,0,89
-46.94341,-121.71159,255,0,0,89
-46.94389,-121.71136,255,0,0,89
-46.94369,-121.71277,255,0,0,89
-46.94343,-121.71286,255,0,0,89
-46.94327,-121.71224,255,0,0,89
-46.94295,-121.71223,255,0,0,89
-46.94324,-121.71177,255,0,0,89
-46.94301,-121.71158,255,0,0,89
-46.94310,-121.71077,255,0,0,89
-46.94284,-121.71037,255,0,0,89
-46.94244,-121.71080,255,0,0,89
-46.94242,-121.70999,255,0,0,89
-46.94198,-121.71055,255,0,0,89
-46.94129,-121.71060,255,0,0,89
-46.94141,-121.71134,255,0,0,89
-46.94183,-121.71177,255,0,0,89
-46.94178,-121.71239,255,0,0,89
-46.94140,-121.71181,255,0,0,89
-46.94112,-121.71211,255,0,0,89
-46.94103,-121.71168,255,0,0,89
-46.94059,-121.71180,255,0,0,89
-46.94050,-121.71314,255,0,0,89
-46.94037,-121.71238,255,0,0,89
-46.94014,-121.71265,255,0,0,89
-46.93966,-121.71221,255,0,0,89
-46.93941,-121.71245,255,0,0,89
-46.93899,-121.71213,255,0,0,89
-46.93850,-121.71271,255,0,0,89
-46.93843,-121.71319,255,0,0,89
-46.93868,-121.71327,255,0,0,89
-46.94496,-121.72794,255,0,0,89
-46.94490,-121.72815,255,0,0,89
-46.94502,-121.72803,255,0,0,89
-46.94496,-121.72794,255,0,0,89
-46.94500,-121.72647,255,0,0,89
-46.94493,-121.72663,255,0,0,89
-46.94520,-121.72652,255,0,0,89
-46.94500,-121.72647,255,0,0,89
-End:
 ; Perimeter: Line | Fire Name: Line\nPerimeter Acreage: 0 Acres\nContainment: Not reported\nSource: NIFC WFIGS current fire perimeters
 Polygon:
 45.97894,-89.88032,255,0,0,89
@@ -385,8 +232,6 @@ Icon: 36.44656,-84.23785,0,1,1,"Fire Name: Campbell - Glassman Way\nFire Started
 Icon: 47.90112,-99.22279,0,1,1,"Fire Name: Buck\nFire Started: 11/9/2026\nCurrent Reported Acreage: 20 Acres\nContainment: Not reported"
 Icon: 39.52611,-78.31470,0,1,1,"Fire Name: Kessel\nFire Started: 11/9/2026\nCurrent Reported Acreage: 70 Acres\nContainment: Not reported"
 Icon: 37.35293,-82.68706,0,1,1,"Fire Name: Harris Hollow Lane\nFire Started: 11/11/2026\nCurrent Reported Acreage: 60 Acres\nContainment: 30% Contained"
-Icon: 34.55823,-117.59092,0,1,1,"Fire Name: MTZ/BDC/RANCHO\nFire Started: 11/12/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 45.20437,-117.23786,0,1,1,"Fire Name: West Fork\nFire Started: 11/12/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 33.91747,-118.36786,0,1,1,"Fire Name: LAC-411401\nFire Started: 11/13/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 31.11681,-89.15471,0,1,1,"Fire Name: Range 43 & Range 45\nFire Started: 11/13/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 34.01186,-118.37315,0,1,1,"Fire Name: LAC-411383\nFire Started: 11/13/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
@@ -413,7 +258,6 @@ Icon: 43.95636,-90.49263,0,1,1,"Fire Name: Limb\nFire Started: 11/10/2026\nCurre
 Icon: 31.11979,-89.07979,0,1,1,"Fire Name: 201W\nFire Started: 11/13/2026\nCurrent Reported Acreage: 2,700 Acres\nContainment: 60% Contained"
 Icon: 34.70118,-118.11659,0,1,1,"Fire Name: LAC-411156\nFire Started: 11/13/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 36.44871,-96.06498,0,1,1,"Fire Name: OAKWOOD\nFire Started: 11/13/2026\nCurrent Reported Acreage: 3 Acres\nContainment: Not reported"
-Icon: 33.93101,-118.32653,0,1,1,"Fire Name: LAC-410224\nFire Started: 11/12/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 36.67084,-93.75812,0,1,1,"Fire Name: Rockhouse\nFire Started: 11/12/2026\nCurrent Reported Acreage: 25 Acres\nContainment: Not reported"
 Icon: 34.68577,-118.13689,0,1,1,"Fire Name: LAC-410647\nFire Started: 11/13/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 36.26334,-96.34084,0,1,1,"Fire Name: PONY\nFire Started: 11/9/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
@@ -432,6 +276,11 @@ Icon: 34.68212,-118.19252,0,1,1,"Fire Name: LAC-413469\nFire Started: 11/15/2026
 Icon: 43.73117,-121.55201,0,1,1,"Fire Name: 0934\nFire Started: 11/15/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 34.56582,-118.08489,0,1,1,"Fire Name: LAC-413568\nFire Started: 11/15/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 34.80363,-94.58020,0,1,1,"Fire Name: Walker MT West\nFire Started: 11/15/2026\nCurrent Reported Acreage: 50 Acres\nContainment: Not reported"
-Icon: 36.03068,-92.57285,0,1,1,"Fire Name: Searcy 325\nFire Started: 11/15/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
 Icon: 34.58000,-118.04507,0,1,1,"Fire Name: LAC-413847\nFire Started: 11/15/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-; Active wildfire incidents plotted: 69; available perimeters plotted: 8
+Icon: 34.44977,-118.42650,0,1,1,"Fire Name: LOMA\nFire Started: 11/15/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
+Icon: 43.84293,-117.62109,0,1,1,"Fire Name: FA 306\nFire Started: 11/15/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+Icon: 34.59138,-117.25631,0,1,1,"Fire Name: MTZ/BDC/82A\nFire Started: 11/15/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
+Icon: 37.60291,-82.83403,0,1,1,"Fire Name: Johnson Fork Road\nFire Started: 11/15/2026\nCurrent Reported Acreage: 2 Acres\nContainment: 0% Contained"
+Icon: 33.91499,-93.50478,0,1,1,"Fire Name: Hempstead 346\nFire Started: 11/15/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
+Icon: 34.67858,-118.11681,0,1,1,"Fire Name: LAC-414078\nFire Started: 11/15/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
+; Active wildfire incidents plotted: 71; available perimeters plotted: 7
