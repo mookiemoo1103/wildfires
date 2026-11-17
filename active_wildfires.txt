@@ -312,7 +312,7 @@ Icon: 34.67858,-118.11681,0,1,1,"Fire Name: LAC-414078\nFire Started: 11/15/2026
 Icon: 34.34083,-87.47094,0,1,1,"Fire Name: Tedford\nFire Started: 11/14/2026\nCurrent Reported Acreage: 10 Acres\nContainment: Not reported"
 Icon: 44.05120,-90.54033,0,1,1,"Fire Name: Whooping Crane\nFire Started: 11/14/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 34.10707,-117.94290,0,1,1,"Fire Name: LAC-414552\nFire Started: 11/16/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-Icon: 35.22001,-93.43401,0,1,1,"Fire Name: Shady Hollow\nFire Started: 11/16/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
+Icon: 35.22001,-93.43401,0,1,1,"Fire Name: Shady Hollow\nFire Started: 11/16/2026\nCurrent Reported Acreage: 100 Acres\nContainment: 0% Contained"
 Icon: 41.91302,-71.03753,0,1,1,"Fire Name: FD03072\nFire Started: 11/5/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 48.55528,-113.01640,0,1,1,"Fire Name: CUTTER\nFire Started: 11/13/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 48.55528,-113.01085,0,1,1,"Fire Name: RED\nFire Started: 11/14/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
@@ -325,5 +325,8 @@ Icon: 45.65838,-92.71277,0,1,1,"Fire Name: Oeltjen Rd\nFire Started: 11/16/2026\
 Icon: 47.97806,-98.87251,0,1,1,"Fire Name: Boom\nFire Started: 11/16/2026\nCurrent Reported Acreage: 2 Acres\nContainment: Not reported"
 Icon: 45.78895,-90.52424,0,1,1,"Fire Name: Hot Sauce\nFire Started: 11/16/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
 Icon: 45.10906,-100.85499,0,1,1,"Fire Name: Popcorn 26\nFire Started: 11/16/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-Icon: 36.33930,-85.63648,0,1,1,"Fire Name: Jackson - Poston Ridge Lane\nFire Started: 11/16/2026\nCurrent Reported Acreage: 1 Acres\nContainment: 75% Contained"
-; Active wildfire incidents plotted: 56; available perimeters plotted: 10
+Icon: 33.49361,-91.62948,0,1,1,"Fire Name: Drew 363\nFire Started: 11/16/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
+Icon: 33.13519,-93.54682,0,1,1,"Fire Name: Lafayette 348\nFire Started: 11/16/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
+Icon: 41.67169,-120.36287,0,1,1,"Fire Name: MODOC CO RD 52   DAVIS_CREEK\nFire Started: 11/16/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+Icon: 43.08647,-102.34709,0,1,1,"Fire Name: Hutch\nFire Started: 11/17/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+; Active wildfire incidents plotted: 59; available perimeters plotted: 10
