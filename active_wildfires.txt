@@ -282,15 +282,12 @@ Icon: 45.69674,-88.14187,0,1,1,"Fire Name: Bolt\nFire Started: 11/6/2026\nCurren
 Icon: 47.90112,-99.22279,0,1,1,"Fire Name: Buck\nFire Started: 11/9/2026\nCurrent Reported Acreage: 20 Acres\nContainment: Not reported"
 Icon: 39.52611,-78.31470,0,1,1,"Fire Name: Kessel\nFire Started: 11/9/2026\nCurrent Reported Acreage: 360 Acres\nContainment: 80% Contained"
 Icon: 41.10781,-74.97739,0,1,1,"Fire Name: Rosenkrans\nFire Started: 11/12/2026\nCurrent Reported Acreage: 3 Acres\nContainment: Not reported"
-Icon: 31.11681,-89.15471,0,1,1,"Fire Name: Range 43 & Range 45\nFire Started: 11/13/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 31.09983,-89.15933,0,1,1,"Fire Name: Range 47\nFire Started: 11/13/2026\nCurrent Reported Acreage: 2,379 Acres\nContainment: 75% Contained"
 Icon: 44.06847,-118.51571,0,1,1,"Fire Name: JUNE\nFire Started: 11/13/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 35.60234,-79.93250,0,1,1,"Fire Name: ROBBINS BRANCH\nFire Started: 11/13/2026\nCurrent Reported Acreage: 12 Acres\nContainment: Not reported"
 Icon: 41.82826,-79.08875,0,1,1,"Fire Name: Kinzua\nFire Started: 11/10/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 31.11979,-89.07979,0,1,1,"Fire Name: 201W\nFire Started: 11/13/2026\nCurrent Reported Acreage: 2,700 Acres\nContainment: 70% Contained"
 Icon: 36.67084,-93.75812,0,1,1,"Fire Name: Rockhouse\nFire Started: 11/12/2026\nCurrent Reported Acreage: 25 Acres\nContainment: Not reported"
-Icon: 34.71855,-118.13072,0,1,1,"Fire Name: LAC-413084\nFire Started: 11/15/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-Icon: 34.68207,-118.16718,0,1,1,"Fire Name: LAC-413161\nFire Started: 11/15/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 33.90219,-118.08548,0,1,1,"Fire Name: LAC-413242\nFire Started: 11/15/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 34.70777,-94.60806,0,1,1,"Fire Name: Spring MT\nFire Started: 11/15/2026\nCurrent Reported Acreage: 16 Acres\nContainment: Not reported"
 Icon: 44.36167,-121.61156,0,1,1,"Fire Name: 0933\nFire Started: 11/15/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
@@ -325,4 +322,4 @@ Icon: 35.46726,-85.35500,0,1,1,"Fire Name: Bledsoe - Branch Road\nFire Started: 
 Icon: 33.13681,-93.54858,0,1,1,"Fire Name: Lafayette 350\nFire Started: 11/17/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
 Icon: 30.37981,-88.72961,0,1,1,"Fire Name: 2717 Fountainbleau\nFire Started: 11/17/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 34.37078,-92.23819,0,1,1,"Fire Name: Grant 500295\nFire Started: 11/17/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
-; Active wildfire incidents plotted: 56; available perimeters plotted: 10
+; Active wildfire incidents plotted: 53; available perimeters plotted: 10
