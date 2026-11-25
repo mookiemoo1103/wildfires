@@ -340,8 +340,7 @@ Icon: 44.73168,-93.50750,0,1,1,"Fire Name: Marschall Road\nFire Started: 11/17/2
 Icon: 39.10203,-77.47267,0,1,1,"Fire Name: Edwards Ferry 3\nFire Started: 11/20/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
 Icon: 37.49251,-83.37645,0,1,1,"Fire Name: Stray Branch\nFire Started: 11/21/2026\nCurrent Reported Acreage: 42 Acres\nContainment: 70% Contained"
 Icon: 32.84914,-88.93759,0,1,1,"Fire Name: Bogue community pond\nFire Started: 11/21/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
-Icon: 34.68933,-118.16895,0,1,1,"Fire Name: LAC-421927\nFire Started: 11/21/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-Icon: 38.31362,-79.79137,0,1,1,"Fire Name: Little Ridge\nFire Started: 11/21/2026\nCurrent Reported Acreage: 1,250 Acres\nContainment: 40% Contained"
+Icon: 38.31362,-79.79137,0,1,1,"Fire Name: Little Ridge\nFire Started: 11/21/2026\nCurrent Reported Acreage: 900 Acres\nContainment: 40% Contained"
 Icon: 46.07268,-88.97850,0,1,1,"Fire Name: Wishing Well\nFire Started: 11/21/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 33.87714,-118.15131,0,1,1,"Fire Name: LAC-422408\nFire Started: 11/22/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 39.54991,-121.53738,0,1,1,"Fire Name: GULCH\nFire Started: 11/21/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
@@ -403,5 +402,8 @@ Icon: 33.92319,-118.20977,0,1,1,"Fire Name: LAC-425576\nFire Started: 11/24/2026
 Icon: 42.23588,-72.76324,0,1,1,"Fire Name: Kent Fire\nFire Started: 11/24/2026\nCurrent Reported Acreage: 3 Acres\nContainment: Not reported"
 Icon: 34.66066,-118.07669,0,1,1,"Fire Name: LAC-425603\nFire Started: 11/24/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 34.69469,-118.13045,0,1,1,"Fire Name: LAC-425843\nFire Started: 11/24/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-Icon: 33.78076,-92.49607,0,1,1,"Fire Name: Calhoun 365\nFire Started: 11/24/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
-; Active wildfire incidents plotted: 89; available perimeters plotted: 13
+Icon: 34.68759,-118.13501,0,1,1,"Fire Name: LAC-426066\nFire Started: 11/25/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
+Icon: 34.68943,-118.13562,0,1,1,"Fire Name: LAC-426137\nFire Started: 11/25/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
+Icon: 34.59434,-118.12545,0,1,1,"Fire Name: LAC-426176\nFire Started: 11/25/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
+Icon: 33.68653,-92.91571,0,1,1,"Fire Name: Ouachita 354\nFire Started: 11/25/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
+; Active wildfire incidents plotted: 91; available perimeters plotted: 13
