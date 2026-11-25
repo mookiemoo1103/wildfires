@@ -107,14 +107,50 @@ Polygon:
 44.34568,-71.05031,255,0,0,89
 44.34577,-71.04882,255,0,0,89
 End:
-; Perimeter: Marschall Road | Fire Name: Marschall Road\nPerimeter Acreage: 7 Acres\nContainment: Not reported\nSource: NIFC WFIGS current fire perimeters
+; Perimeter: North Pond Fire | Fire Name: North Pond Fire\nPerimeter Acreage: 4 Acres\nContainment: Not reported\nSource: NIFC WFIGS current fire perimeters
 Polygon:
-44.73208,-93.50997,255,0,0,89
-44.73212,-93.50727,255,0,0,89
-44.72903,-93.50669,255,0,0,89
-44.72925,-93.50814,255,0,0,89
-44.73081,-93.50958,255,0,0,89
-44.73208,-93.50997,255,0,0,89
+44.40648,-70.67238,255,0,0,89
+44.40648,-70.67238,255,0,0,89
+44.40648,-70.67237,255,0,0,89
+44.40648,-70.67238,255,0,0,89
+44.40594,-70.67209,255,0,0,89
+44.40594,-70.67210,255,0,0,89
+44.40594,-70.67210,255,0,0,89
+44.40594,-70.67209,255,0,0,89
+44.40592,-70.67214,255,0,0,89
+44.40594,-70.67210,255,0,0,89
+44.40593,-70.67211,255,0,0,89
+44.40592,-70.67214,255,0,0,89
+44.40552,-70.67122,255,0,0,89
+44.40553,-70.67121,255,0,0,89
+44.40553,-70.67121,255,0,0,89
+44.40552,-70.67122,255,0,0,89
+44.40492,-70.66880,255,0,0,89
+44.40492,-70.66880,255,0,0,89
+44.40492,-70.66880,255,0,0,89
+44.40492,-70.66880,255,0,0,89
+44.40484,-70.66932,255,0,0,89
+44.40484,-70.66933,255,0,0,89
+44.40485,-70.66934,255,0,0,89
+44.40484,-70.66932,255,0,0,89
+44.40483,-70.66931,255,0,0,89
+44.40484,-70.66932,255,0,0,89
+44.40484,-70.66931,255,0,0,89
+44.40483,-70.66931,255,0,0,89
+44.40482,-70.67018,255,0,0,89
+44.40483,-70.67019,255,0,0,89
+44.40484,-70.67016,255,0,0,89
+44.40482,-70.67018,255,0,0,89
+44.40466,-70.66899,255,0,0,89
+44.40490,-70.67039,255,0,0,89
+44.40642,-70.67256,255,0,0,89
+44.40640,-70.67143,255,0,0,89
+44.40596,-70.67112,255,0,0,89
+44.40544,-70.66879,255,0,0,89
+44.40518,-70.66856,255,0,0,89
+44.40526,-70.66918,255,0,0,89
+44.40496,-70.66871,255,0,0,89
+44.40466,-70.66899,255,0,0,89
 End:
 ; Perimeter: White Oak Flat | Fire Name: White Oak Flat\nPerimeter Acreage: 2,237 Acres\nContainment: 68% Contained\nSource: NIFC WFIGS current fire perimeters
 Polygon:
@@ -315,40 +351,97 @@ Polygon:
 42.23598,-72.76339,255,0,0,89
 42.23599,-72.76299,255,0,0,89
 End:
+; Perimeter: IDNR Possom Trot | Fire Name: IDNR Possom Trot\nPerimeter Acreage: 12 Acres\nContainment: Not reported\nSource: NIFC WFIGS current fire perimeters
+Polygon:
+37.84293,-89.58930,255,0,0,89
+37.84298,-89.59181,255,0,0,89
+37.84340,-89.59174,255,0,0,89
+37.84342,-89.59144,255,0,0,89
+37.84431,-89.59175,255,0,0,89
+37.84475,-89.59144,255,0,0,89
+37.84444,-89.58923,255,0,0,89
+37.84394,-89.58966,255,0,0,89
+37.84332,-89.58907,255,0,0,89
+37.84363,-89.58768,255,0,0,89
+37.84269,-89.58807,255,0,0,89
+37.84254,-89.58864,255,0,0,89
+37.84293,-89.58930,255,0,0,89
+End:
+; Perimeter: Little Ridge | Fire Name: Little Ridge\nPerimeter Acreage: 1,507 Acres\nContainment: 40% Contained\nSource: NIFC WFIGS current fire perimeters
+Polygon:
+38.32406,-79.79490,255,0,0,89
+38.32133,-79.79095,255,0,0,89
+38.32066,-79.78911,255,0,0,89
+38.31813,-79.78578,255,0,0,89
+38.31679,-79.78327,255,0,0,89
+38.31567,-79.77901,255,0,0,89
+38.31339,-79.77903,255,0,0,89
+38.31215,-79.77820,255,0,0,89
+38.31072,-79.77835,255,0,0,89
+38.30810,-79.77782,255,0,0,89
+38.30601,-79.77689,255,0,0,89
+38.30437,-79.77539,255,0,0,89
+38.30324,-79.77536,255,0,0,89
+38.30085,-79.77398,255,0,0,89
+38.30006,-79.77416,255,0,0,89
+38.29958,-79.77392,255,0,0,89
+38.29995,-79.77859,255,0,0,89
+38.30043,-79.78072,255,0,0,89
+38.30020,-79.78296,255,0,0,89
+38.29816,-79.79168,255,0,0,89
+38.29803,-79.79492,255,0,0,89
+38.29764,-79.79546,255,0,0,89
+38.29529,-79.79643,255,0,0,89
+38.29351,-79.79948,255,0,0,89
+38.29281,-79.80246,255,0,0,89
+38.29489,-79.80276,255,0,0,89
+38.29543,-79.80339,255,0,0,89
+38.29843,-79.80396,255,0,0,89
+38.30173,-79.80752,255,0,0,89
+38.30474,-79.80994,255,0,0,89
+38.30704,-79.81010,255,0,0,89
+38.30797,-79.80924,255,0,0,89
+38.30871,-79.80921,255,0,0,89
+38.30923,-79.80880,255,0,0,89
+38.31108,-79.80666,255,0,0,89
+38.31208,-79.80602,255,0,0,89
+38.31332,-79.80417,255,0,0,89
+38.31638,-79.80205,255,0,0,89
+38.31706,-79.79972,255,0,0,89
+38.31888,-79.79859,255,0,0,89
+38.32074,-79.79801,255,0,0,89
+38.32133,-79.79708,255,0,0,89
+38.32303,-79.79694,255,0,0,89
+38.32370,-79.79615,255,0,0,89
+38.32406,-79.79490,255,0,0,89
+End:
 Icon: 44.33059,-71.03128,0,1,1,"Fire Name: Wild River\nFire Started: 11/1/2026\nCurrent Reported Acreage: 821 Acres\nContainment: 75% Contained"
 Icon: 34.57034,-118.68680,0,1,1,"Fire Name: GOLDEN\nFire Started: 11/8/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 43.87968,-90.14017,0,1,1,"Fire Name: Fenceline\nFire Started: 11/8/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 43.82232,-89.93343,0,1,1,"Fire Name: Corn Stalk\nFire Started: 11/8/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 39.52611,-78.31470,0,1,1,"Fire Name: Kessel Lane\nFire Started: 11/9/2026\nCurrent Reported Acreage: 360 Acres\nContainment: 80% Contained"
 Icon: 45.32239,-116.98702,0,1,1,"Fire Name: Armin Road\nFire Started: 11/11/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
+Icon: 45.78786,-92.72841,0,1,1,"Fire Name: Benson\nFire Started: 11/18/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+Icon: 43.18505,-90.45058,0,1,1,"Fire Name: Pageless\nFire Started: 11/18/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 43.52567,-89.78684,0,1,1,"Fire Name: MM 215\nFire Started: 11/17/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 45.85070,-89.15915,0,1,1,"Fire Name: Shining Star\nFire Started: 11/18/2026\nCurrent Reported Acreage: 2 Acres\nContainment: Not reported"
+Icon: 37.84800,-89.59381,0,1,1,"Fire Name: IDNR Possom Trot\nFire Started: 11/17/2026\nCurrent Reported Acreage: 12 Acres\nContainment: Not reported"
 Icon: 35.02411,-93.87131,0,1,1,"Fire Name: Skidder\nFire Started: 11/19/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 45.63864,-89.34369,0,1,1,"Fire Name: North Shore\nFire Started: 11/19/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
 Icon: 45.89482,-89.69248,0,1,1,"Fire Name: Balsam\nFire Started: 11/19/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 43.73540,-88.94426,0,1,1,"Fire Name: Highway 44\nFire Started: 11/19/2026\nCurrent Reported Acreage: 11 Acres\nContainment: Not reported"
 Icon: 45.66023,-89.54905,0,1,1,"Fire Name: Bear Trail\nFire Started: 11/19/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 37.96206,-82.56434,0,1,1,"Fire Name: Big Laurel\nFire Started: 11/19/2026\nCurrent Reported Acreage: 25 Acres\nContainment: 90% Contained"
-Icon: 45.18235,-87.56589,0,1,1,"Fire Name: M35\nFire Started: 11/19/2026\nCurrent Reported Acreage: 6 Acres\nContainment: Not reported"
 Icon: 43.85873,-88.91897,0,1,1,"Fire Name: Numbers\nFire Started: 11/19/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 30.39439,-88.43981,0,1,1,"Fire Name: 3702 Grand Bature\nFire Started: 11/20/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 43.82735,-89.31526,0,1,1,"Fire Name: Econoline\nFire Started: 11/19/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 37.84221,-79.86212,0,1,1,"Fire Name: White Oak Flat\nFire Started: 11/20/2026\nCurrent Reported Acreage: 2,237 Acres\nContainment: 68% Contained"
+Icon: 37.84221,-79.86212,0,1,1,"Fire Name: White Oak Flat\nFire Started: 11/20/2026\nCurrent Reported Acreage: 2,244 Acres\nContainment: 68% Contained"
 Icon: 45.08278,-90.49453,0,1,1,"Fire Name: Water Drive\nFire Started: 11/20/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+Icon: 44.40624,-70.67257,0,1,1,"Fire Name: North Pond Fire\nFire Started: 11/20/2026\nCurrent Reported Acreage: 6 Acres\nContainment: Not reported"
 Icon: 43.18221,-90.17727,0,1,1,"Fire Name: Branch Trail\nFire Started: 11/20/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
-Icon: 44.73168,-93.50750,0,1,1,"Fire Name: Marschall Road\nFire Started: 11/17/2026\nCurrent Reported Acreage: 7 Acres\nContainment: Not reported"
 Icon: 39.10203,-77.47267,0,1,1,"Fire Name: Edwards Ferry 3\nFire Started: 11/20/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
-Icon: 37.49251,-83.37645,0,1,1,"Fire Name: Stray Branch\nFire Started: 11/21/2026\nCurrent Reported Acreage: 42 Acres\nContainment: 70% Contained"
 Icon: 32.84914,-88.93759,0,1,1,"Fire Name: Bogue community pond\nFire Started: 11/21/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
 Icon: 38.31362,-79.79137,0,1,1,"Fire Name: Little Ridge\nFire Started: 11/21/2026\nCurrent Reported Acreage: 900 Acres\nContainment: 40% Contained"
-Icon: 46.07268,-88.97850,0,1,1,"Fire Name: Wishing Well\nFire Started: 11/21/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 33.87714,-118.15131,0,1,1,"Fire Name: LAC-422408\nFire Started: 11/22/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-Icon: 39.54991,-121.53738,0,1,1,"Fire Name: GULCH\nFire Started: 11/21/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-Icon: 34.41644,-118.44742,0,1,1,"Fire Name: LAC-422463\nFire Started: 11/22/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-Icon: 42.59010,-70.96306,0,1,1,"Fire Name: FD05043\nFire Started: 11/20/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 34.76267,-118.09533,0,1,1,"Fire Name: LAC-422490\nFire Started: 11/22/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-Icon: 44.08274,-121.13050,0,1,1,"Fire Name: 0941\nFire Started: 11/22/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 43.28032,-102.48107,0,1,1,"Fire Name: Sticks\nFire Started: 11/22/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 42.82237,-71.01352,0,1,1,"Fire Name: FD05047\nFire Started: 11/22/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 34.61652,-117.84912,0,1,1,"Fire Name: LAC-423181\nFire Started: 11/22/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 34.56342,-117.96094,0,1,1,"Fire Name: LAC-423307\nFire Started: 11/23/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
@@ -359,7 +452,7 @@ Icon: 44.35814,-89.34091,0,1,1,"Fire Name: Opener\nFire Started: 11/21/2026\nCur
 Icon: 43.32305,-100.88779,0,1,1,"Fire Name: Chopped Oak\nFire Started: 11/23/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 33.90396,-118.13781,0,1,1,"Fire Name: LAC-423566\nFire Started: 11/23/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 34.14614,-118.76121,0,1,1,"Fire Name: SAGE\nFire Started: 11/23/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-Icon: 45.80665,-92.61693,0,1,1,"Fire Name: CTY D\nFire Started: 11/23/2026\nCurrent Reported Acreage: 3 Acres\nContainment: Not reported"
+Icon: 45.80624,-92.61787,0,1,1,"Fire Name: CTY D\nFire Started: 11/23/2026\nCurrent Reported Acreage: 3 Acres\nContainment: Not reported"
 Icon: 43.34358,-90.51675,0,1,1,"Fire Name: Hwy Z\nFire Started: 11/21/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 43.78657,-89.65972,0,1,1,"Fire Name: Fish Ct\nFire Started: 11/20/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
 Icon: 45.80855,-92.60905,0,1,1,"Fire Name: CTY D 3\nFire Started: 11/23/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
@@ -374,7 +467,6 @@ Icon: 34.77459,-118.54566,0,1,1,"Fire Name: LAC-423791\nFire Started: 11/23/2026
 Icon: 38.03935,-78.83741,0,1,1,"Fire Name: Royal Orchard\nFire Started: 11/17/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 40.14053,-78.22403,0,1,1,"Fire Name: Kearney Hill\nFire Started: 11/19/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 34.13028,-117.93101,0,1,1,"Fire Name: LAC-424134\nFire Started: 11/23/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-Icon: 32.87354,-114.46288,0,1,1,"Fire Name: Laguna\nFire Started: 11/23/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 48.00649,-123.09905,0,1,1,"Fire Name: BURNT HILL\nFire Started: 11/23/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
 Icon: 42.61979,-72.68423,0,1,1,"Fire Name: Little Mohawk\nFire Started: 11/23/2026\nCurrent Reported Acreage: 4 Acres\nContainment: Not reported"
 Icon: 34.57252,-118.12941,0,1,1,"Fire Name: LAC-424243\nFire Started: 11/23/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
@@ -387,17 +479,14 @@ Icon: 43.42612,-89.29603,0,1,1,"Fire Name: Grape Vine 2\nFire Started: 11/21/202
 Icon: 46.05893,-100.66779,0,1,1,"Fire Name: 94th ST\nFire Started: 11/23/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 46.09084,-100.63065,0,1,1,"Fire Name: Proposal\nFire Started: 11/24/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 35.98465,-92.09748,0,1,1,"Fire Name: Livingston\nFire Started: 11/18/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 33.68260,-113.95036,0,1,1,"Fire Name: Twin Butte\nFire Started: 11/24/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 38.48811,-86.40931,0,1,1,"Fire Name: Grease Gravy\nFire Started: 11/24/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 34.71880,-118.09490,0,1,1,"Fire Name: LAC-425121\nFire Started: 11/24/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 45.79664,-89.73783,0,1,1,"Fire Name: Shine\nFire Started: 11/20/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 38.52974,-104.86734,0,1,1,"Fire Name: Buck Hill\nFire Started: 11/18/2026\nCurrent Reported Acreage: 4 Acres\nContainment: Not reported"
 Icon: 33.83267,-94.44289,0,1,1,"Fire Name: Little River 185\nFire Started: 11/24/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
 Icon: 43.01461,-123.02384,0,1,1,"Fire Name: Upper Days Creek\nFire Started: 11/24/2026\nCurrent Reported Acreage: 30 Acres\nContainment: Not reported"
 Icon: 34.56613,-117.31845,0,1,1,"Fire Name: MTZ/BDC/82A\nFire Started: 11/24/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 42.80529,-122.80351,0,1,1,"Fire Name: Mule Hill\nFire Started: 11/24/2026\nCurrent Reported Acreage: 25 Acres\nContainment: Not reported"
 Icon: 40.46450,-105.34158,0,1,1,"Fire Name: Cedar Point\nFire Started: 11/24/2026\nCurrent Reported Acreage: 2 Acres\nContainment: Not reported"
-Icon: 42.89057,-123.15209,0,1,1,"Fire Name: E Shivley\nFire Started: 11/24/2026\nCurrent Reported Acreage: 75 Acres\nContainment: Not reported"
+Icon: 42.89057,-123.15209,0,1,1,"Fire Name: E Shively\nFire Started: 11/24/2026\nCurrent Reported Acreage: 75 Acres\nContainment: Not reported"
 Icon: 33.92319,-118.20977,0,1,1,"Fire Name: LAC-425576\nFire Started: 11/24/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 42.23588,-72.76324,0,1,1,"Fire Name: Kent Fire\nFire Started: 11/24/2026\nCurrent Reported Acreage: 3 Acres\nContainment: Not reported"
 Icon: 34.66066,-118.07669,0,1,1,"Fire Name: LAC-425603\nFire Started: 11/24/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
@@ -405,5 +494,21 @@ Icon: 34.69469,-118.13045,0,1,1,"Fire Name: LAC-425843\nFire Started: 11/24/2026
 Icon: 34.68759,-118.13501,0,1,1,"Fire Name: LAC-426066\nFire Started: 11/25/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 34.68943,-118.13562,0,1,1,"Fire Name: LAC-426137\nFire Started: 11/25/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 34.59434,-118.12545,0,1,1,"Fire Name: LAC-426176\nFire Started: 11/25/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-Icon: 33.68653,-92.91571,0,1,1,"Fire Name: Ouachita 354\nFire Started: 11/25/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
-; Active wildfire incidents plotted: 91; available perimeters plotted: 13
+Icon: 44.39602,-71.22142,0,1,1,"Fire Name: 131123A\nFire Started: 11/23/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+Icon: 43.62994,-71.07083,0,1,1,"Fire Name: 131113A\nFire Started: 11/13/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
+Icon: 33.87384,-85.56392,0,1,1,"Fire Name: Dugger\nFire Started: 11/24/2026\nCurrent Reported Acreage: 500 Acres\nContainment: 0% Contained"
+Icon: 43.66586,-72.30707,0,1,1,"Fire Name: 2026091\nFire Started: 11/23/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+Icon: 44.90953,-72.63840,0,1,1,"Fire Name: 2026090\nFire Started: 11/22/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
+Icon: 33.87454,-93.06278,0,1,1,"Fire Name: clark 306\nFire Started: 11/25/2026\nCurrent Reported Acreage: 100 Acres\nContainment: Not reported"
+Icon: 34.70456,-118.05917,0,1,1,"Fire Name: LAC-426456\nFire Started: 11/25/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
+Icon: 34.69499,-118.13045,0,1,1,"Fire Name: LAC-426506\nFire Started: 11/25/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
+Icon: 39.56967,-106.06851,0,1,1,"Fire Name: Iron Springs\nFire Started: 11/15/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+Icon: 42.09486,-123.47913,0,1,1,"Fire Name: Rasmussen House\nFire Started: 11/25/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+Icon: 37.82751,-82.63230,0,1,1,"Fire Name: Trace Branch\nFire Started: 11/25/2026\nCurrent Reported Acreage: 10 Acres\nContainment: 75% Contained"
+Icon: 37.66232,-83.02792,0,1,1,"Fire Name: Booger Hill\nFire Started: 11/25/2026\nCurrent Reported Acreage: 1 Acres\nContainment: 0% Contained"
+Icon: 31.28194,-94.41641,0,1,1,"Fire Name: Angelina 0127\nFire Started: 11/25/2026\nCurrent Reported Acreage: 30 Acres\nContainment: 25% Contained"
+Icon: 33.35669,-94.15441,0,1,1,"Fire Name: Bowie 0128\nFire Started: 11/25/2026\nCurrent Reported Acreage: 1 Acres\nContainment: 0% Contained"
+Icon: 30.00672,-95.51314,0,1,1,"Fire Name: Harris 0132\nFire Started: 11/25/2026\nCurrent Reported Acreage: 0 Acres\nContainment: 0% Contained"
+Icon: 34.11632,-118.59042,0,1,1,"Fire Name: DEER\nFire Started: 11/25/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
+Icon: 34.08148,-92.18084,0,1,1,"Fire Name: Jefferson 366\nFire Started: 11/25/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
+; Active wildfire incidents plotted: 96; available perimeters plotted: 15
