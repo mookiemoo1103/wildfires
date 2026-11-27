@@ -472,9 +472,6 @@ Icon: 43.92409,-89.58343,0,1,1,"Fire Name: Chicken\nFire Started: 11/20/2026\nCu
 Icon: 43.95529,-89.03174,0,1,1,"Fire Name: Continental\nFire Started: 11/20/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 38.03935,-78.83741,0,1,1,"Fire Name: Royal Orchard\nFire Started: 11/17/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 42.61979,-72.68423,0,1,1,"Fire Name: Little Mohawk\nFire Started: 11/23/2026\nCurrent Reported Acreage: 4 Acres\nContainment: Not reported"
-Icon: 34.57252,-118.12941,0,1,1,"Fire Name: LAC-424243\nFire Started: 11/23/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-Icon: 34.44764,-116.84811,0,1,1,"Fire Name: MTZ/BDC/83A\nFire Started: 11/23/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 34.71877,-118.11229,0,1,1,"Fire Name: LAC-424395\nFire Started: 11/23/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 34.53019,-117.96320,0,1,1,"Fire Name: LAC-424967\nFire Started: 11/24/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 38.09201,-78.78200,0,1,1,"Fire Name: Mile Marker 98\nFire Started: 11/23/2026\nCurrent Reported Acreage: 10 Acres\nContainment: Not reported"
 Icon: 43.42279,-89.29615,0,1,1,"Fire Name: Grape Vine\nFire Started: 11/21/2026\nCurrent Reported Acreage: 2 Acres\nContainment: Not reported"
@@ -525,9 +522,10 @@ Icon: 34.71880,-118.09490,0,1,1,"Fire Name: LAC-428064\nFire Started: 11/26/2026
 Icon: 33.44439,-117.61354,0,1,1,"Fire Name: PICO\nFire Started: 11/26/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 33.94543,-118.36746,0,1,1,"Fire Name: LAC-428100\nFire Started: 11/26/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 34.63248,-117.85621,0,1,1,"Fire Name: LAC-428124\nFire Started: 11/26/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-Icon: 33.63738,-92.77648,0,1,1,"Fire Name: Ouachita 358\nFire Started: 11/26/2026\nCurrent Reported Acreage: 30 Acres\nContainment: Not reported"
 Icon: 46.08734,-100.62957,0,1,1,"Fire Name: Carignan ST\nFire Started: 11/25/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 45.60955,-104.24551,0,1,1,"Fire Name: Maverick Gulch\nFire Started: 11/26/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
 Icon: 34.57252,-118.12941,0,1,1,"Fire Name: LAC-428223\nFire Started: 11/26/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-Icon: 32.73166,-94.76734,0,1,1,"Fire Name: Upshur 0142\nFire Started: 11/26/2026\nCurrent Reported Acreage: 2 Acres\nContainment: 95% Contained"
-; Active wildfire incidents plotted: 83; available perimeters plotted: 15
+Icon: 34.16325,-92.06131,0,1,1,"Fire Name: Jefferson 367\nFire Started: 11/26/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
+Icon: 34.21333,-118.16168,0,1,1,"Fire Name: RISING\nFire Started: 11/26/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
+Icon: 35.51137,-91.54020,0,1,1,"Fire Name: Jackson 328\nFire Started: 11/26/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
+; Active wildfire incidents plotted: 81; available perimeters plotted: 15
