@@ -137,40 +137,12 @@ Polygon:
 43.73736,-88.94237,255,0,0,89
 43.73796,-88.94056,255,0,0,89
 End:
-; Perimeter: Fish Ct | Fire Name: Fish Ct\nPerimeter Acreage: 1 Acres\nContainment: Not reported\nSource: NIFC WFIGS current fire perimeters
-Polygon:
-43.78700,-89.65933,255,0,0,89
-43.78680,-89.65882,255,0,0,89
-43.78630,-89.65909,255,0,0,89
-43.78653,-89.66024,255,0,0,89
-43.78664,-89.65946,255,0,0,89
-43.78700,-89.65933,255,0,0,89
-End:
 ; Perimeter: Mile Marker 98 | Fire Name: Mile Marker 98\nPerimeter Acreage: 0 Acres\nContainment: Not reported\nSource: NIFC WFIGS current fire perimeters
 Polygon:
 38.09776,-78.78074,255,0,0,89
 38.09788,-78.78069,255,0,0,89
 38.09766,-78.78060,255,0,0,89
 38.09776,-78.78074,255,0,0,89
-End:
-; Perimeter: 3702 Grand Bature | Fire Name: 3702 Grand Bature\nPerimeter Acreage: 0 Acres\nContainment: Not reported\nSource: NIFC WFIGS current fire perimeters
-Polygon:
-30.39396,-88.43999,255,0,0,89
-30.39439,-88.44060,255,0,0,89
-30.39486,-88.43985,255,0,0,89
-30.39471,-88.43938,255,0,0,89
-30.39400,-88.43936,255,0,0,89
-30.39396,-88.43999,255,0,0,89
-End:
-; Perimeter: Kent Fire | Fire Name: Kent Fire\nPerimeter Acreage: 3 Acres\nContainment: Not reported\nSource: NIFC WFIGS current fire perimeters
-Polygon:
-42.23599,-72.76299,255,0,0,89
-42.23531,-72.76244,255,0,0,89
-42.23455,-72.76281,255,0,0,89
-42.23471,-72.76340,255,0,0,89
-42.23541,-72.76361,255,0,0,89
-42.23598,-72.76339,255,0,0,89
-42.23599,-72.76299,255,0,0,89
 End:
 ; Perimeter: IDNR Possom Trot | Fire Name: IDNR Possom Trot\nPerimeter Acreage: 12 Acres\nContainment: Not reported\nSource: NIFC WFIGS current fire perimeters
 Polygon:
@@ -283,29 +255,20 @@ Icon: 43.18505,-90.45058,0,1,1,"Fire Name: Pageless\nFire Started: 11/18/2026\nC
 Icon: 37.84800,-89.59381,0,1,1,"Fire Name: IDNR Possom Trot\nFire Started: 11/17/2026\nCurrent Reported Acreage: 12 Acres\nContainment: Not reported"
 Icon: 43.73540,-88.94426,0,1,1,"Fire Name: Highway 44\nFire Started: 11/19/2026\nCurrent Reported Acreage: 11 Acres\nContainment: Not reported"
 Icon: 37.96206,-82.56434,0,1,1,"Fire Name: Big Laurel\nFire Started: 11/19/2026\nCurrent Reported Acreage: 25 Acres\nContainment: 90% Contained"
-Icon: 30.39439,-88.43981,0,1,1,"Fire Name: 3702 Grand Bature\nFire Started: 11/20/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 38.31362,-79.79137,0,1,1,"Fire Name: Little Ridge\nFire Started: 11/21/2026\nCurrent Reported Acreage: 1,507 Acres\nContainment: 72% Contained"
 Icon: 45.80624,-92.61787,0,1,1,"Fire Name: CTY D\nFire Started: 11/23/2026\nCurrent Reported Acreage: 3 Acres\nContainment: Not reported"
-Icon: 43.78657,-89.65972,0,1,1,"Fire Name: Fish Ct\nFire Started: 11/20/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
-Icon: 45.80855,-92.60905,0,1,1,"Fire Name: CTY D 3\nFire Started: 11/23/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 44.61787,-91.12486,0,1,1,"Fire Name: abc\nFire Started: 11/21/2026\nCurrent Reported Acreage: 40 Acres\nContainment: Not reported"
 Icon: 43.95529,-89.03174,0,1,1,"Fire Name: Continental\nFire Started: 11/20/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 38.09201,-78.78200,0,1,1,"Fire Name: Mile Marker 98\nFire Started: 11/23/2026\nCurrent Reported Acreage: 10 Acres\nContainment: Not reported"
 Icon: 43.01461,-123.02384,0,1,1,"Fire Name: Upper Days Creek\nFire Started: 11/24/2026\nCurrent Reported Acreage: 30 Acres\nContainment: Not reported"
-Icon: 34.56613,-117.31845,0,1,1,"Fire Name: MTZ/BDC/82A\nFire Started: 11/24/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 42.80529,-122.80351,0,1,1,"Fire Name: Mule Hill\nFire Started: 11/24/2026\nCurrent Reported Acreage: 25 Acres\nContainment: Not reported"
-Icon: 40.46450,-105.34158,0,1,1,"Fire Name: Cedar Point\nFire Started: 11/24/2026\nCurrent Reported Acreage: 2 Acres\nContainment: Not reported"
 Icon: 42.89057,-123.15209,0,1,1,"Fire Name: E Shively\nFire Started: 11/24/2026\nCurrent Reported Acreage: 75 Acres\nContainment: Not reported"
-Icon: 33.92319,-118.20977,0,1,1,"Fire Name: LAC-425576\nFire Started: 11/24/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-Icon: 42.23588,-72.76324,0,1,1,"Fire Name: Kent Fire\nFire Started: 11/24/2026\nCurrent Reported Acreage: 3 Acres\nContainment: Not reported"
-Icon: 34.66066,-118.07669,0,1,1,"Fire Name: LAC-425603\nFire Started: 11/24/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-Icon: 34.69469,-118.13045,0,1,1,"Fire Name: LAC-425843\nFire Started: 11/24/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 34.68759,-118.13501,0,1,1,"Fire Name: LAC-426066\nFire Started: 11/25/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 34.68943,-118.13562,0,1,1,"Fire Name: LAC-426137\nFire Started: 11/25/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 34.59434,-118.12545,0,1,1,"Fire Name: LAC-426176\nFire Started: 11/25/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 44.39602,-71.22142,0,1,1,"Fire Name: 131123A\nFire Started: 11/23/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 43.62994,-71.07083,0,1,1,"Fire Name: 131113A\nFire Started: 11/13/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
-Icon: 33.87384,-85.56392,0,1,1,"Fire Name: Dugger\nFire Started: 11/24/2026\nCurrent Reported Acreage: 500 Acres\nContainment: 20% Contained"
+Icon: 33.87384,-85.56392,0,1,1,"Fire Name: Dugger\nFire Started: 11/24/2026\nCurrent Reported Acreage: 600 Acres\nContainment: 20% Contained"
 Icon: 43.66586,-72.30707,0,1,1,"Fire Name: 2026091\nFire Started: 11/23/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
 Icon: 44.90953,-72.63840,0,1,1,"Fire Name: 2026090\nFire Started: 11/22/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
 Icon: 34.70456,-118.05917,0,1,1,"Fire Name: LAC-426456\nFire Started: 11/25/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
@@ -344,8 +307,6 @@ Icon: 30.21701,-84.96484,0,1,1,"Fire Name: South Creek\nFire Started: 11/27/2026
 Icon: 34.71877,-118.11229,0,1,1,"Fire Name: LAC-429544\nFire Started: 11/27/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 44.94162,-100.51918,0,1,1,"Fire Name: Turkey 26\nFire Started: 11/27/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
 Icon: 34.70021,-118.79301,0,1,1,"Fire Name: LAC-429578\nFire Started: 11/27/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
-Icon: 31.00311,-92.95169,0,1,1,"Fire Name: Gum Oak\nFire Started: 11/27/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 33.64172,-117.10159,0,1,1,"Fire Name: BEELER\nFire Started: 11/27/2026\nCurrent Reported Acreage: 0 Acres\nContainment: Not reported"
-Icon: 34.61486,-92.73183,0,1,1,"Fire Name: Saline 308\nFire Started: 11/27/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
-Icon: 34.87931,-93.97401,0,1,1,"Fire Name: Scott 187\nFire Started: 11/27/2026\nCurrent Reported Acreage: 1 Acres\nContainment: Not reported"
-; Active wildfire incidents plotted: 72; available perimeters plotted: 10
+Icon: 34.70411,-118.10673,0,1,1,"Fire Name: LAC-429824\nFire Started: 11/27/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
+Icon: 34.59100,-118.05834,0,1,1,"Fire Name: LAC-429859\nFire Started: 11/27/2026\nCurrent Reported Acreage: Not reported\nContainment: Not reported"
+; Active wildfire incidents plotted: 61; available perimeters plotted: 7
